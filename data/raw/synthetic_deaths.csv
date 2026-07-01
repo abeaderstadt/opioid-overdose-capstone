@@ -1,0 +1,1190 @@
+﻿Notes,state,state_code,year,year_code,synthetic_deaths,population,synthetic_death_rate
+,Alabama,1,1999,1999,Suppressed,4430143,Suppressed
+,Alabama,1,2000,2000,Suppressed,4447100,Suppressed
+,Alabama,1,2001,2001,Suppressed,4467634,Suppressed
+,Alabama,1,2002,2002,Suppressed,4480089,Suppressed
+,Alabama,1,2003,2003,Suppressed,4503491,Suppressed
+,Alabama,1,2004,2004,10,4530729,Unreliable
+,Alabama,1,2005,2005,Suppressed,4569805,Suppressed
+,Alabama,1,2006,2006,18,4628981,Unreliable
+,Alabama,1,2007,2007,19,4672840,Unreliable
+,Alabama,1,2008,2008,15,4718206,Unreliable
+,Alabama,1,2009,2009,27,4757938,0.6
+,Alabama,1,2010,2010,34,4779736,0.7
+,Alabama,1,2011,2011,19,4802740,Unreliable
+,Alabama,1,2012,2012,10,4822023,Unreliable
+,Alabama,1,2013,2013,24,4833722,0.5
+,Alabama,1,2014,2014,44,4849377,0.9
+,Alabama,1,2015,2015,68,4858979,1.4
+,Alabama,1,2016,2016,152,4863300,3.1
+,Alabama,1,2017,2017,193,4874747,4
+,Alabama,1,2018,2018,137,4887871,2.8
+,Alabama,1,2019,2019,210,4903185,4.3
+,Alabama,1,2020,2020,437,4921532,8.9
+,Alaska,2,1999,1999,Suppressed,624781,Suppressed
+,Alaska,2,2000,2000,Suppressed,626932,Suppressed
+,Alaska,2,2001,2001,Suppressed,633714,Suppressed
+,Alaska,2,2002,2002,0,642337,Unreliable
+,Alaska,2,2003,2003,0,648414,Unreliable
+,Alaska,2,2004,2004,0,659286,Unreliable
+,Alaska,2,2005,2005,Suppressed,666946,Suppressed
+,Alaska,2,2006,2006,Suppressed,675302,Suppressed
+,Alaska,2,2007,2007,Suppressed,680300,Suppressed
+,Alaska,2,2008,2008,Suppressed,687455,Suppressed
+,Alaska,2,2009,2009,14,698895,Unreliable
+,Alaska,2,2010,2010,Suppressed,710231,Suppressed
+,Alaska,2,2011,2011,Suppressed,722718,Suppressed
+,Alaska,2,2012,2012,Suppressed,731449,Suppressed
+,Alaska,2,2013,2013,12,735132,Unreliable
+,Alaska,2,2014,2014,11,736732,Unreliable
+,Alaska,2,2015,2015,13,738432,Unreliable
+,Alaska,2,2016,2016,Suppressed,741894,Suppressed
+,Alaska,2,2017,2017,36,739795,4.9
+,Alaska,2,2018,2018,16,737438,Unreliable
+,Alaska,2,2019,2019,22,731545,3
+,Alaska,2,2020,2020,63,731158,8.6
+,Arizona,4,1999,1999,10,5023824,Unreliable
+,Arizona,4,2000,2000,Suppressed,5130632,Suppressed
+,Arizona,4,2001,2001,Suppressed,5273477,Suppressed
+,Arizona,4,2002,2002,12,5396255,Unreliable
+,Arizona,4,2003,2003,15,5510364,Unreliable
+,Arizona,4,2004,2004,18,5652404,Unreliable
+,Arizona,4,2005,2005,31,5839077,0.5
+,Arizona,4,2006,2006,36,6029141,0.6
+,Arizona,4,2007,2007,27,6167681,0.4
+,Arizona,4,2008,2008,36,6280362,0.6
+,Arizona,4,2009,2009,39,6343154,0.6
+,Arizona,4,2010,2010,54,6392017,0.8
+,Arizona,4,2011,2011,29,6482505,0.4
+,Arizona,4,2012,2012,26,6553255,0.4
+,Arizona,4,2013,2013,35,6626624,0.5
+,Arizona,4,2014,2014,40,6731484,0.6
+,Arizona,4,2015,2015,57,6828065,0.8
+,Arizona,4,2016,2016,114,6931071,1.6
+,Arizona,4,2017,2017,251,7016270,3.6
+,Arizona,4,2018,2018,495,7171646,6.9
+,Arizona,4,2019,2019,761,7278717,10.5
+,Arizona,4,2020,2020,1409,7421401,19
+,Arkansas,5,1999,1999,Suppressed,2651860,Suppressed
+,Arkansas,5,2000,2000,Suppressed,2673400,Suppressed
+,Arkansas,5,2001,2001,Suppressed,2691571,Suppressed
+,Arkansas,5,2002,2002,Suppressed,2705927,Suppressed
+,Arkansas,5,2003,2003,Suppressed,2724816,Suppressed
+,Arkansas,5,2004,2004,Suppressed,2749686,Suppressed
+,Arkansas,5,2005,2005,14,2781097,Unreliable
+,Arkansas,5,2006,2006,17,2821761,Unreliable
+,Arkansas,5,2007,2007,Suppressed,2848650,Suppressed
+,Arkansas,5,2008,2008,25,2874554,0.9
+,Arkansas,5,2009,2009,43,2896843,1.5
+,Arkansas,5,2010,2010,35,2915918,1.2
+,Arkansas,5,2011,2011,20,2937979,0.7
+,Arkansas,5,2012,2012,17,2949131,Unreliable
+,Arkansas,5,2013,2013,21,2959373,0.7
+,Arkansas,5,2014,2014,23,2966369,0.8
+,Arkansas,5,2015,2015,27,2978204,0.9
+,Arkansas,5,2016,2016,30,2988248,1
+,Arkansas,5,2017,2017,54,3004279,1.8
+,Arkansas,5,2018,2018,85,3013825,2.8
+,Arkansas,5,2019,2019,108,3017804,3.6
+,Arkansas,5,2020,2020,181,3030522,6
+,California,6,1999,1999,60,33499204,0.2
+,California,6,2000,2000,43,33871648,0.1
+,California,6,2001,2001,22,34479458,0.1
+,California,6,2002,2002,80,34871843,0.2
+,California,6,2003,2003,80,35253159,0.2
+,California,6,2004,2004,86,35574576,0.2
+,California,6,2005,2005,96,35827943,0.3
+,California,6,2006,2006,117,36021202,0.3
+,California,6,2007,2007,102,36250311,0.3
+,California,6,2008,2008,125,36604337,0.3
+,California,6,2009,2009,151,36961229,0.4
+,California,6,2010,2010,164,37253956,0.4
+,California,6,2011,2011,130,37691912,0.3
+,California,6,2012,2012,119,38041430,0.3
+,California,6,2013,2013,140,38332521,0.4
+,California,6,2014,2014,157,38802500,0.4
+,California,6,2015,2015,198,39144818,0.5
+,California,6,2016,2016,298,39250017,0.8
+,California,6,2017,2017,503,39536653,1.3
+,California,6,2018,2018,835,39557045,2.1
+,California,6,2019,2019,1609,39512223,4.1
+,California,6,2020,2020,3928,39368078,10
+,Colorado,8,1999,1999,Suppressed,4226018,Suppressed
+,Colorado,8,2000,2000,12,4301261,Unreliable
+,Colorado,8,2001,2001,13,4425687,Unreliable
+,Colorado,8,2002,2002,19,4490406,Unreliable
+,Colorado,8,2003,2003,15,4528732,Unreliable
+,Colorado,8,2004,2004,14,4575013,Unreliable
+,Colorado,8,2005,2005,23,4631888,0.5
+,Colorado,8,2006,2006,18,4720423,Unreliable
+,Colorado,8,2007,2007,34,4803868,0.7
+,Colorado,8,2008,2008,31,4889730,0.6
+,Colorado,8,2009,2009,49,4972195,1
+,Colorado,8,2010,2010,46,5029196,0.9
+,Colorado,8,2011,2011,63,5116796,1.2
+,Colorado,8,2012,2012,43,5187582,0.8
+,Colorado,8,2013,2013,53,5268367,1
+,Colorado,8,2014,2014,65,5355866,1.2
+,Colorado,8,2015,2015,53,5456574,1
+,Colorado,8,2016,2016,61,5540545,1.1
+,Colorado,8,2017,2017,93,5607154,1.7
+,Colorado,8,2018,2018,117,5695564,2.1
+,Colorado,8,2019,2019,245,5758736,4.3
+,Colorado,8,2020,2020,563,5807719,9.7
+,Connecticut,9,1999,1999,Suppressed,3386401,Suppressed
+,Connecticut,9,2000,2000,Suppressed,3405565,Suppressed
+,Connecticut,9,2001,2001,Suppressed,3432835,Suppressed
+,Connecticut,9,2002,2002,Suppressed,3458749,Suppressed
+,Connecticut,9,2003,2003,Suppressed,3484336,Suppressed
+,Connecticut,9,2004,2004,Suppressed,3496094,Suppressed
+,Connecticut,9,2005,2005,Suppressed,3506956,Suppressed
+,Connecticut,9,2006,2006,Suppressed,3517460,Suppressed
+,Connecticut,9,2007,2007,20,3527270,0.6
+,Connecticut,9,2008,2008,14,3545579,Unreliable
+,Connecticut,9,2009,2009,19,3561807,Unreliable
+,Connecticut,9,2010,2010,15,3574097,Unreliable
+,Connecticut,9,2011,2011,Suppressed,3580709,Suppressed
+,Connecticut,9,2012,2012,14,3590347,Unreliable
+,Connecticut,9,2013,2013,43,3596080,1.2
+,Connecticut,9,2014,2014,85,3596677,2.4
+,Connecticut,9,2015,2015,200,3590886,5.6
+,Connecticut,9,2016,2016,487,3576452,13.6
+,Connecticut,9,2017,2017,681,3588184,19
+,Connecticut,9,2018,2018,754,3572665,21.1
+,Connecticut,9,2019,2019,932,3565287,26.1
+,Connecticut,9,2020,2020,1126,3557006,31.7
+,Delaware,10,1999,1999,0,774990,Unreliable
+,Delaware,10,2000,2000,Suppressed,783600,Suppressed
+,Delaware,10,2001,2001,Suppressed,795699,Suppressed
+,Delaware,10,2002,2002,Suppressed,806169,Suppressed
+,Delaware,10,2003,2003,Suppressed,818003,Suppressed
+,Delaware,10,2004,2004,Suppressed,830803,Suppressed
+,Delaware,10,2005,2005,Suppressed,845150,Suppressed
+,Delaware,10,2006,2006,11,859268,Unreliable
+,Delaware,10,2007,2007,Suppressed,871749,Suppressed
+,Delaware,10,2008,2008,Suppressed,883874,Suppressed
+,Delaware,10,2009,2009,12,891730,Unreliable
+,Delaware,10,2010,2010,12,897934,Unreliable
+,Delaware,10,2011,2011,12,907135,Unreliable
+,Delaware,10,2012,2012,12,917092,Unreliable
+,Delaware,10,2013,2013,18,925749,Unreliable
+,Delaware,10,2014,2014,25,935614,2.7
+,Delaware,10,2015,2015,35,945934,3.7
+,Delaware,10,2016,2016,75,952065,7.9
+,Delaware,10,2017,2017,173,961939,18
+,Delaware,10,2018,2018,284,967171,29.4
+,Delaware,10,2019,2019,328,973764,33.7
+,Delaware,10,2020,2020,351,986809,35.6
+,District of Columbia,11,1999,1999,0,570220,Unreliable
+,District of Columbia,11,2000,2000,0,572059,Unreliable
+,District of Columbia,11,2001,2001,0,574504,Unreliable
+,District of Columbia,11,2002,2002,Suppressed,573158,Suppressed
+,District of Columbia,11,2003,2003,0,568502,Unreliable
+,District of Columbia,11,2004,2004,Suppressed,567754,Suppressed
+,District of Columbia,11,2005,2005,0,567136,Unreliable
+,District of Columbia,11,2006,2006,Suppressed,570681,Suppressed
+,District of Columbia,11,2007,2007,0,574404,Unreliable
+,District of Columbia,11,2008,2008,0,580236,Unreliable
+,District of Columbia,11,2009,2009,0,592228,Unreliable
+,District of Columbia,11,2010,2010,Suppressed,601723,Suppressed
+,District of Columbia,11,2011,2011,0,617996,Unreliable
+,District of Columbia,11,2012,2012,Suppressed,632323,Suppressed
+,District of Columbia,11,2013,2013,Suppressed,646449,Suppressed
+,District of Columbia,11,2014,2014,11,658893,Unreliable
+,District of Columbia,11,2015,2015,25,672228,3.7
+,District of Columbia,11,2016,2016,117,681170,17.2
+,District of Columbia,11,2017,2017,168,693972,24.2
+,District of Columbia,11,2018,2018,146,702455,20.8
+,District of Columbia,11,2019,2019,202,705749,28.6
+,District of Columbia,11,2020,2020,289,712816,40.5
+,Florida,12,1999,1999,32,15759421,0.2
+,Florida,12,2000,2000,52,15982378,0.3
+,Florida,12,2001,2001,88,16356966,0.5
+,Florida,12,2002,2002,90,16689370,0.5
+,Florida,12,2003,2003,142,17004085,0.8
+,Florida,12,2004,2004,125,17415318,0.7
+,Florida,12,2005,2005,100,17842038,0.6
+,Florida,12,2006,2006,99,18166990,0.5
+,Florida,12,2007,2007,113,18367842,0.6
+,Florida,12,2008,2008,105,18527305,0.6
+,Florida,12,2009,2009,127,18652644,0.7
+,Florida,12,2010,2010,116,18801310,0.6
+,Florida,12,2011,2011,108,19057542,0.6
+,Florida,12,2012,2012,131,19317568,0.7
+,Florida,12,2013,2013,169,19552860,0.9
+,Florida,12,2014,2014,299,19893297,1.5
+,Florida,12,2015,2015,572,20271272,2.8
+,Florida,12,2016,2016,1519,20612439,7.4
+,Florida,12,2017,2017,2066,20984400,9.8
+,Florida,12,2018,2018,2036,21299325,9.6
+,Florida,12,2019,2019,2761,21477737,12.9
+,Florida,12,2020,2020,4676,21733312,21.5
+,Georgia,13,1999,1999,Suppressed,8045966,Suppressed
+,Georgia,13,2000,2000,Suppressed,8186453,Suppressed
+,Georgia,13,2001,2001,17,8377038,Unreliable
+,Georgia,13,2002,2002,27,8508256,0.3
+,Georgia,13,2003,2003,27,8622793,0.3
+,Georgia,13,2004,2004,28,8769252,0.3
+,Georgia,13,2005,2005,43,8925922,0.5
+,Georgia,13,2006,2006,53,9155813,0.6
+,Georgia,13,2007,2007,52,9349988,0.6
+,Georgia,13,2008,2008,47,9504843,0.5
+,Georgia,13,2009,2009,67,9620846,0.7
+,Georgia,13,2010,2010,90,9687653,0.9
+,Georgia,13,2011,2011,75,9815210,0.8
+,Georgia,13,2012,2012,55,9919945,0.6
+,Georgia,13,2013,2013,69,9992167,0.7
+,Georgia,13,2014,2014,166,10097343,1.6
+,Georgia,13,2015,2015,269,10214860,2.6
+,Georgia,13,2016,2016,255,10310371,2.5
+,Georgia,13,2017,2017,406,10429379,3.9
+,Georgia,13,2018,2018,333,10519475,3.2
+,Georgia,13,2019,2019,397,10617423,3.7
+,Georgia,13,2020,2020,886,10710017,8.3
+,Hawaii,15,1999,1999,Suppressed,1210300,Suppressed
+,Hawaii,15,2000,2000,Suppressed,1211537,Suppressed
+,Hawaii,15,2001,2001,Suppressed,1225948,Suppressed
+,Hawaii,15,2002,2002,Suppressed,1239613,Suppressed
+,Hawaii,15,2003,2003,0,1251154,Unreliable
+,Hawaii,15,2004,2004,Suppressed,1273569,Suppressed
+,Hawaii,15,2005,2005,0,1292729,Unreliable
+,Hawaii,15,2006,2006,Suppressed,1309731,Suppressed
+,Hawaii,15,2007,2007,Suppressed,1315675,Suppressed
+,Hawaii,15,2008,2008,0,1332213,Unreliable
+,Hawaii,15,2009,2009,Suppressed,1346717,Suppressed
+,Hawaii,15,2010,2010,Suppressed,1360301,Suppressed
+,Hawaii,15,2011,2011,Suppressed,1374810,Suppressed
+,Hawaii,15,2012,2012,Suppressed,1392313,Suppressed
+,Hawaii,15,2013,2013,Suppressed,1404054,Suppressed
+,Hawaii,15,2014,2014,Suppressed,1419561,Suppressed
+,Hawaii,15,2015,2015,11,1431603,Unreliable
+,Hawaii,15,2016,2016,Suppressed,1428557,Suppressed
+,Hawaii,15,2017,2017,Suppressed,1427538,Suppressed
+,Hawaii,15,2018,2018,12,1420491,Unreliable
+,Hawaii,15,2019,2019,18,1415872,Unreliable
+,Hawaii,15,2020,2020,37,1407006,2.6
+,Idaho,16,1999,1999,Suppressed,1275675,Suppressed
+,Idaho,16,2000,2000,0,1293953,Unreliable
+,Idaho,16,2001,2001,Suppressed,1319962,Suppressed
+,Idaho,16,2002,2002,Suppressed,1340372,Suppressed
+,Idaho,16,2003,2003,Suppressed,1363380,Suppressed
+,Idaho,16,2004,2004,Suppressed,1391802,Suppressed
+,Idaho,16,2005,2005,Suppressed,1428241,Suppressed
+,Idaho,16,2006,2006,Suppressed,1468669,Suppressed
+,Idaho,16,2007,2007,Suppressed,1505105,Suppressed
+,Idaho,16,2008,2008,Suppressed,1534320,Suppressed
+,Idaho,16,2009,2009,Suppressed,1554439,Suppressed
+,Idaho,16,2010,2010,11,1567582,Unreliable
+,Idaho,16,2011,2011,Suppressed,1584985,Suppressed
+,Idaho,16,2012,2012,10,1595728,Unreliable
+,Idaho,16,2013,2013,12,1612136,Unreliable
+,Idaho,16,2014,2014,11,1634464,Unreliable
+,Idaho,16,2015,2015,14,1654930,Unreliable
+,Idaho,16,2016,2016,16,1683140,Unreliable
+,Idaho,16,2017,2017,18,1716943,Unreliable
+,Idaho,16,2018,2018,23,1754208,1.3
+,Idaho,16,2019,2019,27,1787065,1.5
+,Idaho,16,2020,2020,58,1826913,3.2
+,Illinois,17,1999,1999,16,12359023,Unreliable
+,Illinois,17,2000,2000,13,12419293,Unreliable
+,Illinois,17,2001,2001,17,12488445,Unreliable
+,Illinois,17,2002,2002,28,12525556,0.2
+,Illinois,17,2003,2003,27,12556006,0.2
+,Illinois,17,2004,2004,31,12589773,0.2
+,Illinois,17,2005,2005,52,12609903,0.4
+,Illinois,17,2006,2006,362,12643955,2.9
+,Illinois,17,2007,2007,88,12695866,0.7
+,Illinois,17,2008,2008,67,12747038,0.5
+,Illinois,17,2009,2009,91,12796778,0.7
+,Illinois,17,2010,2010,92,12830632,0.7
+,Illinois,17,2011,2011,76,12869257,0.6
+,Illinois,17,2012,2012,72,12875255,0.6
+,Illinois,17,2013,2013,70,12882135,0.5
+,Illinois,17,2014,2014,105,12880580,0.8
+,Illinois,17,2015,2015,247,12859995,1.9
+,Illinois,17,2016,2016,858,12801539,6.7
+,Illinois,17,2017,2017,1201,12802023,9.4
+,Illinois,17,2018,2018,1506,12741080,11.8
+,Illinois,17,2019,2019,1671,12671821,13.2
+,Illinois,17,2020,2020,2428,12587530,19.3
+,Indiana,18,1999,1999,Suppressed,6044972,Suppressed
+,Indiana,18,2000,2000,Suppressed,6080485,Suppressed
+,Indiana,18,2001,2001,Suppressed,6127760,Suppressed
+,Indiana,18,2002,2002,Suppressed,6155967,Suppressed
+,Indiana,18,2003,2003,21,6196638,0.3
+,Indiana,18,2004,2004,16,6233007,Unreliable
+,Indiana,18,2005,2005,19,6278616,Unreliable
+,Indiana,18,2006,2006,32,6332669,0.5
+,Indiana,18,2007,2007,34,6379599,0.5
+,Indiana,18,2008,2008,35,6424806,0.5
+,Indiana,18,2009,2009,47,6459325,0.7
+,Indiana,18,2010,2010,33,6483802,0.5
+,Indiana,18,2011,2011,29,6516922,0.4
+,Indiana,18,2012,2012,31,6537334,0.5
+,Indiana,18,2013,2013,24,6570902,0.4
+,Indiana,18,2014,2014,66,6596855,1
+,Indiana,18,2015,2015,109,6619680,1.6
+,Indiana,18,2016,2016,284,6633053,4.3
+,Indiana,18,2017,2017,599,6666818,9
+,Indiana,18,2018,2018,670,6691878,10
+,Indiana,18,2019,2019,845,6732219,12.6
+,Indiana,18,2020,2020,1532,6754953,22.7
+,Iowa,19,1999,1999,Suppressed,2917637,Suppressed
+,Iowa,19,2000,2000,Suppressed,2926324,Suppressed
+,Iowa,19,2001,2001,Suppressed,2931997,Suppressed
+,Iowa,19,2002,2002,Suppressed,2934234,Suppressed
+,Iowa,19,2003,2003,10,2941999,Unreliable
+,Iowa,19,2004,2004,Suppressed,2953635,Suppressed
+,Iowa,19,2005,2005,Suppressed,2964454,Suppressed
+,Iowa,19,2006,2006,Suppressed,2982644,Suppressed
+,Iowa,19,2007,2007,10,2999212,Unreliable
+,Iowa,19,2008,2008,15,3016734,Unreliable
+,Iowa,19,2009,2009,23,3032870,0.8
+,Iowa,19,2010,2010,33,3046355,1.1
+,Iowa,19,2011,2011,19,3062309,Unreliable
+,Iowa,19,2012,2012,25,3074186,0.8
+,Iowa,19,2013,2013,27,3090416,0.9
+,Iowa,19,2014,2014,24,3107126,0.8
+,Iowa,19,2015,2015,33,3123899,1.1
+,Iowa,19,2016,2016,52,3134693,1.7
+,Iowa,19,2017,2017,86,3145711,2.7
+,Iowa,19,2018,2018,72,3156145,2.3
+,Iowa,19,2019,2019,95,3155070,3
+,Iowa,19,2020,2020,159,3163561,5
+,Kansas,20,1999,1999,Suppressed,2678340,Suppressed
+,Kansas,20,2000,2000,Suppressed,2688418,Suppressed
+,Kansas,20,2001,2001,Suppressed,2702162,Suppressed
+,Kansas,20,2002,2002,11,2713535,Unreliable
+,Kansas,20,2003,2003,Suppressed,2723004,Suppressed
+,Kansas,20,2004,2004,13,2734373,Unreliable
+,Kansas,20,2005,2005,15,2745299,Unreliable
+,Kansas,20,2006,2006,12,2762931,Unreliable
+,Kansas,20,2007,2007,Suppressed,2783785,Suppressed
+,Kansas,20,2008,2008,16,2808076,Unreliable
+,Kansas,20,2009,2009,28,2832704,1
+,Kansas,20,2010,2010,14,2853118,Unreliable
+,Kansas,20,2011,2011,17,2871238,Unreliable
+,Kansas,20,2012,2012,40,2885905,1.4
+,Kansas,20,2013,2013,33,2893957,1.1
+,Kansas,20,2014,2014,25,2904021,0.9
+,Kansas,20,2015,2015,29,2911641,1
+,Kansas,20,2016,2016,20,2907289,0.7
+,Kansas,20,2017,2017,24,2913123,0.8
+,Kansas,20,2018,2018,39,2911505,1.3
+,Kansas,20,2019,2019,72,2913314,2.5
+,Kansas,20,2020,2020,162,2913805,5.6
+,Kentucky,21,1999,1999,Suppressed,4018053,Suppressed
+,Kentucky,21,2000,2000,Suppressed,4041769,Suppressed
+,Kentucky,21,2001,2001,14,4068132,Unreliable
+,Kentucky,21,2002,2002,25,4089875,0.6
+,Kentucky,21,2003,2003,23,4117170,0.6
+,Kentucky,21,2004,2004,28,4146101,0.7
+,Kentucky,21,2005,2005,26,4182742,0.6
+,Kentucky,21,2006,2006,44,4219239,1
+,Kentucky,21,2007,2007,34,4256672,0.8
+,Kentucky,21,2008,2008,36,4289878,0.8
+,Kentucky,21,2009,2009,52,4317074,1.2
+,Kentucky,21,2010,2010,42,4339367,1
+,Kentucky,21,2011,2011,66,4369356,1.5
+,Kentucky,21,2012,2012,65,4380415,1.5
+,Kentucky,21,2013,2013,65,4395295,1.5
+,Kentucky,21,2014,2014,165,4413457,3.7
+,Kentucky,21,2015,2015,298,4425092,6.7
+,Kentucky,21,2016,2016,443,4436974,10
+,Kentucky,21,2017,2017,764,4454189,17.2
+,Kentucky,21,2018,2018,730,4468402,16.3
+,Kentucky,21,2019,2019,807,4467673,18.1
+,Kentucky,21,2020,2020,1473,4477251,32.9
+,Louisiana,22,1999,1999,Suppressed,4460814,Suppressed
+,Louisiana,22,2000,2000,Suppressed,4468976,Suppressed
+,Louisiana,22,2001,2001,Suppressed,4477875,Suppressed
+,Louisiana,22,2002,2002,Suppressed,4497267,Suppressed
+,Louisiana,22,2003,2003,Suppressed,4521042,Suppressed
+,Louisiana,22,2004,2004,Suppressed,4552238,Suppressed
+,Louisiana,22,2005,2005,Suppressed,4576628,Suppressed
+,Louisiana,22,2006,2006,14,4302665,Unreliable
+,Louisiana,22,2007,2007,18,4375581,Unreliable
+,Louisiana,22,2008,2008,Suppressed,4435586,Suppressed
+,Louisiana,22,2009,2009,14,4491648,Unreliable
+,Louisiana,22,2010,2010,17,4533372,Unreliable
+,Louisiana,22,2011,2011,15,4574836,Unreliable
+,Louisiana,22,2012,2012,15,4601893,Unreliable
+,Louisiana,22,2013,2013,24,4625470,0.5
+,Louisiana,22,2014,2014,29,4649676,0.6
+,Louisiana,22,2015,2015,37,4670724,0.8
+,Louisiana,22,2016,2016,86,4681666,1.8
+,Louisiana,22,2017,2017,153,4684333,3.3
+,Louisiana,22,2018,2018,210,4659978,4.5
+,Louisiana,22,2019,2019,308,4648794,6.6
+,Louisiana,22,2020,2020,662,4645318,14.3
+,Maine,23,1999,1999,Suppressed,1266808,Suppressed
+,Maine,23,2000,2000,Suppressed,1274923,Suppressed
+,Maine,23,2001,2001,Suppressed,1285692,Suppressed
+,Maine,23,2002,2002,11,1295960,Unreliable
+,Maine,23,2003,2003,Suppressed,1306513,Suppressed
+,Maine,23,2004,2004,Suppressed,1313688,Suppressed
+,Maine,23,2005,2005,Suppressed,1318787,Suppressed
+,Maine,23,2006,2006,Suppressed,1323619,Suppressed
+,Maine,23,2007,2007,Suppressed,1327040,Suppressed
+,Maine,23,2008,2008,11,1330509,Unreliable
+,Maine,23,2009,2009,13,1329590,Unreliable
+,Maine,23,2010,2010,19,1328361,Unreliable
+,Maine,23,2011,2011,16,1328188,Unreliable
+,Maine,23,2012,2012,13,1329192,Unreliable
+,Maine,23,2013,2013,22,1328302,1.7
+,Maine,23,2014,2014,61,1330089,4.6
+,Maine,23,2015,2015,108,1329328,8.1
+,Maine,23,2016,2016,191,1331479,14.3
+,Maine,23,2017,2017,268,1335907,20.1
+,Maine,23,2018,2018,225,1338404,16.8
+,Maine,23,2019,2019,275,1344212,20.5
+,Maine,23,2020,2020,355,1350141,26.3
+,Maryland,24,1999,1999,Suppressed,5254511,Suppressed
+,Maryland,24,2000,2000,Suppressed,5296486,Suppressed
+,Maryland,24,2001,2001,0,5374691,Unreliable
+,Maryland,24,2002,2002,Suppressed,5440389,Suppressed
+,Maryland,24,2003,2003,0,5496269,Unreliable
+,Maryland,24,2004,2004,Suppressed,5546935,Suppressed
+,Maryland,24,2005,2005,0,5592379,Unreliable
+,Maryland,24,2006,2006,Suppressed,5627367,Suppressed
+,Maryland,24,2007,2007,Suppressed,5653408,Suppressed
+,Maryland,24,2008,2008,Suppressed,5684965,Suppressed
+,Maryland,24,2009,2009,Suppressed,5730388,Suppressed
+,Maryland,24,2010,2010,Suppressed,5773552,Suppressed
+,Maryland,24,2011,2011,12,5828289,Unreliable
+,Maryland,24,2012,2012,17,5884563,Unreliable
+,Maryland,24,2013,2013,30,5928814,0.5
+,Maryland,24,2014,2014,39,5976407,0.7
+,Maryland,24,2015,2015,81,6006401,1.3
+,Maryland,24,2016,2016,237,6016447,3.9
+,Maryland,24,2017,2017,343,6052177,5.7
+,Maryland,24,2018,2018,418,6042718,6.9
+,Maryland,24,2019,2019,409,6045680,6.8
+,Maryland,24,2020,2020,768,6055802,12.7
+,Massachusetts,25,1999,1999,0,6317345,Unreliable
+,Massachusetts,25,2000,2000,Suppressed,6349097,Suppressed
+,Massachusetts,25,2001,2001,0,6397634,Unreliable
+,Massachusetts,25,2002,2002,Suppressed,6417206,Suppressed
+,Massachusetts,25,2003,2003,Suppressed,6422565,Suppressed
+,Massachusetts,25,2004,2004,Suppressed,6412281,Suppressed
+,Massachusetts,25,2005,2005,31,6403290,0.5
+,Massachusetts,25,2006,2006,79,6410084,1.2
+,Massachusetts,25,2007,2007,63,6431559,1
+,Massachusetts,25,2008,2008,48,6468967,0.7
+,Massachusetts,25,2009,2009,53,6517613,0.8
+,Massachusetts,25,2010,2010,59,6547629,0.9
+,Massachusetts,25,2011,2011,49,6587536,0.7
+,Massachusetts,25,2012,2012,51,6646144,0.8
+,Massachusetts,25,2013,2013,88,6692824,1.3
+,Massachusetts,25,2014,2014,440,6745408,6.5
+,Massachusetts,25,2015,2015,938,6794422,13.8
+,Massachusetts,25,2016,2016,1528,6811779,22.4
+,Massachusetts,25,2017,2017,1634,6859819,23.8
+,Massachusetts,25,2018,2018,1787,6902149,25.9
+,Massachusetts,25,2019,2019,1833,6892503,26.6
+,Massachusetts,25,2020,2020,1904,6893574,27.6
+,Michigan,26,1999,1999,11,9897117,Unreliable
+,Michigan,26,2000,2000,Suppressed,9938444,Suppressed
+,Michigan,26,2001,2001,Suppressed,9991120,Suppressed
+,Michigan,26,2002,2002,15,10015710,Unreliable
+,Michigan,26,2003,2003,18,10041152,Unreliable
+,Michigan,26,2004,2004,31,10055315,0.3
+,Michigan,26,2005,2005,56,10051137,0.6
+,Michigan,26,2006,2006,175,10036081,1.7
+,Michigan,26,2007,2007,56,10001284,0.6
+,Michigan,26,2008,2008,53,9946889,0.5
+,Michigan,26,2009,2009,64,9901591,0.6
+,Michigan,26,2010,2010,67,9883640,0.7
+,Michigan,26,2011,2011,74,9876187,0.7
+,Michigan,26,2012,2012,57,9883360,0.6
+,Michigan,26,2013,2013,70,9895622,0.7
+,Michigan,26,2014,2014,152,9909877,1.5
+,Michigan,26,2015,2015,422,9922576,4.3
+,Michigan,26,2016,2016,869,9928300,8.8
+,Michigan,26,2017,2017,1287,9962311,12.9
+,Michigan,26,2018,2018,1454,9995915,14.5
+,Michigan,26,2019,2019,1376,9986857,13.8
+,Michigan,26,2020,2020,1808,9966555,18.1
+,Minnesota,27,1999,1999,Suppressed,4873481,Suppressed
+,Minnesota,27,2000,2000,Suppressed,4919479,Suppressed
+,Minnesota,27,2001,2001,Suppressed,4982796,Suppressed
+,Minnesota,27,2002,2002,Suppressed,5018935,Suppressed
+,Minnesota,27,2003,2003,Suppressed,5053572,Suppressed
+,Minnesota,27,2004,2004,11,5087713,Unreliable
+,Minnesota,27,2005,2005,17,5119598,Unreliable
+,Minnesota,27,2006,2006,22,5163555,0.4
+,Minnesota,27,2007,2007,22,5207203,0.4
+,Minnesota,27,2008,2008,22,5247018,0.4
+,Minnesota,27,2009,2009,23,5281203,0.4
+,Minnesota,27,2010,2010,26,5303925,0.5
+,Minnesota,27,2011,2011,26,5344861,0.5
+,Minnesota,27,2012,2012,30,5379139,0.6
+,Minnesota,27,2013,2013,29,5420380,0.5
+,Minnesota,27,2014,2014,35,5457173,0.6
+,Minnesota,27,2015,2015,44,5489594,0.8
+,Minnesota,27,2016,2016,90,5519952,1.6
+,Minnesota,27,2017,2017,174,5576606,3.1
+,Minnesota,27,2018,2018,197,5611179,3.5
+,Minnesota,27,2019,2019,297,5639632,5.3
+,Minnesota,27,2020,2020,545,5657342,9.6
+,Mississippi,28,1999,1999,Suppressed,2828412,Suppressed
+,Mississippi,28,2000,2000,Suppressed,2844658,Suppressed
+,Mississippi,28,2001,2001,Suppressed,2852994,Suppressed
+,Mississippi,28,2002,2002,Suppressed,2858681,Suppressed
+,Mississippi,28,2003,2003,Suppressed,2868312,Suppressed
+,Mississippi,28,2004,2004,Suppressed,2889010,Suppressed
+,Mississippi,28,2005,2005,Suppressed,2905943,Suppressed
+,Mississippi,28,2006,2006,Suppressed,2904978,Suppressed
+,Mississippi,28,2007,2007,14,2928350,Unreliable
+,Mississippi,28,2008,2008,27,2947806,0.9
+,Mississippi,28,2009,2009,22,2958774,0.7
+,Mississippi,28,2010,2010,20,2967297,0.7
+,Mississippi,28,2011,2011,14,2978512,Unreliable
+,Mississippi,28,2012,2012,18,2984926,Unreliable
+,Mississippi,28,2013,2013,23,2991207,0.8
+,Mississippi,28,2014,2014,21,2994079,0.7
+,Mississippi,28,2015,2015,33,2992333,1.1
+,Mississippi,28,2016,2016,42,2988726,1.4
+,Mississippi,28,2017,2017,76,2984100,2.5
+,Mississippi,28,2018,2018,69,2986530,2.3
+,Mississippi,28,2019,2019,134,2976149,4.5
+,Mississippi,28,2020,2020,307,2966786,10.3
+,Missouri,29,1999,1999,Suppressed,5561950,Suppressed
+,Missouri,29,2000,2000,16,5595211,Unreliable
+,Missouri,29,2001,2001,23,5641142,0.4
+,Missouri,29,2002,2002,18,5674825,Unreliable
+,Missouri,29,2003,2003,20,5709403,0.4
+,Missouri,29,2004,2004,34,5747741,0.6
+,Missouri,29,2005,2005,30,5790300,0.5
+,Missouri,29,2006,2006,130,5842704,2.2
+,Missouri,29,2007,2007,61,5887612,1
+,Missouri,29,2008,2008,48,5923916,0.8
+,Missouri,29,2009,2009,54,5961088,0.9
+,Missouri,29,2010,2010,78,5988927,1.3
+,Missouri,29,2011,2011,54,6010688,0.9
+,Missouri,29,2012,2012,48,6021988,0.8
+,Missouri,29,2013,2013,82,6044171,1.4
+,Missouri,29,2014,2014,97,6063589,1.6
+,Missouri,29,2015,2015,164,6083672,2.7
+,Missouri,29,2016,2016,429,6093000,7
+,Missouri,29,2017,2017,595,6113532,9.7
+,Missouri,29,2018,2018,852,6126452,13.9
+,Missouri,29,2019,2019,856,6137428,13.9
+,Missouri,29,2020,2020,1176,6151548,19.1
+,Montana,30,1999,1999,0,897511,Unreliable
+,Montana,30,2000,2000,0,902195,Unreliable
+,Montana,30,2001,2001,Suppressed,906961,Suppressed
+,Montana,30,2002,2002,0,911667,Unreliable
+,Montana,30,2003,2003,Suppressed,919630,Suppressed
+,Montana,30,2004,2004,Suppressed,930009,Suppressed
+,Montana,30,2005,2005,Suppressed,940102,Suppressed
+,Montana,30,2006,2006,Suppressed,952692,Suppressed
+,Montana,30,2007,2007,Suppressed,964706,Suppressed
+,Montana,30,2008,2008,11,976415,Unreliable
+,Montana,30,2009,2009,16,983982,Unreliable
+,Montana,30,2010,2010,Suppressed,989415,Suppressed
+,Montana,30,2011,2011,12,998199,Unreliable
+,Montana,30,2012,2012,Suppressed,1005141,Suppressed
+,Montana,30,2013,2013,Suppressed,1015165,Suppressed
+,Montana,30,2014,2014,10,1023579,Unreliable
+,Montana,30,2015,2015,Suppressed,1032949,Suppressed
+,Montana,30,2016,2016,13,1042520,Unreliable
+,Montana,30,2017,2017,Suppressed,1050493,Suppressed
+,Montana,30,2018,2018,Suppressed,1062305,Suppressed
+,Montana,30,2019,2019,13,1068778,Unreliable
+,Montana,30,2020,2020,29,1080577,2.7
+,Nebraska,31,1999,1999,Suppressed,1704765,Suppressed
+,Nebraska,31,2000,2000,Suppressed,1711263,Suppressed
+,Nebraska,31,2001,2001,Suppressed,1719836,Suppressed
+,Nebraska,31,2002,2002,Suppressed,1728292,Suppressed
+,Nebraska,31,2003,2003,Suppressed,1738643,Suppressed
+,Nebraska,31,2004,2004,Suppressed,1749370,Suppressed
+,Nebraska,31,2005,2005,Suppressed,1761497,Suppressed
+,Nebraska,31,2006,2006,Suppressed,1772693,Suppressed
+,Nebraska,31,2007,2007,Suppressed,1783440,Suppressed
+,Nebraska,31,2008,2008,Suppressed,1796378,Suppressed
+,Nebraska,31,2009,2009,Suppressed,1812683,Suppressed
+,Nebraska,31,2010,2010,15,1826341,Unreliable
+,Nebraska,31,2011,2011,Suppressed,1842641,Suppressed
+,Nebraska,31,2012,2012,10,1855525,Unreliable
+,Nebraska,31,2013,2013,Suppressed,1868516,Suppressed
+,Nebraska,31,2014,2014,12,1881503,Unreliable
+,Nebraska,31,2015,2015,11,1896190,Unreliable
+,Nebraska,31,2016,2016,11,1907116,Unreliable
+,Nebraska,31,2017,2017,22,1920076,1.1
+,Nebraska,31,2018,2018,23,1929268,1.2
+,Nebraska,31,2019,2019,22,1934408,1.1
+,Nebraska,31,2020,2020,69,1937552,3.6
+,Nevada,32,1999,1999,12,1934719,Unreliable
+,Nevada,32,2000,2000,Suppressed,1998257,Suppressed
+,Nevada,32,2001,2001,Suppressed,2098399,Suppressed
+,Nevada,32,2002,2002,11,2173791,Unreliable
+,Nevada,32,2003,2003,14,2248850,Unreliable
+,Nevada,32,2004,2004,17,2346222,Unreliable
+,Nevada,32,2005,2005,19,2432143,Unreliable
+,Nevada,32,2006,2006,21,2522658,0.8
+,Nevada,32,2007,2007,18,2601072,Unreliable
+,Nevada,32,2008,2008,20,2653630,0.8
+,Nevada,32,2009,2009,34,2684665,1.3
+,Nevada,32,2010,2010,32,2700551,1.2
+,Nevada,32,2011,2011,35,2723322,1.3
+,Nevada,32,2012,2012,21,2758931,0.8
+,Nevada,32,2013,2013,19,2790136,Unreliable
+,Nevada,32,2014,2014,23,2839099,0.8
+,Nevada,32,2015,2015,22,2890845,0.8
+,Nevada,32,2016,2016,37,2940058,1.3
+,Nevada,32,2017,2017,56,2998039,1.9
+,Nevada,32,2018,2018,73,3034392,2.4
+,Nevada,32,2019,2019,96,3080156,3.1
+,Nevada,32,2020,2020,274,3138259,8.7
+,New Hampshire,33,1999,1999,Suppressed,1222015,Suppressed
+,New Hampshire,33,2000,2000,Suppressed,1235786,Suppressed
+,New Hampshire,33,2001,2001,Suppressed,1255517,Suppressed
+,New Hampshire,33,2002,2002,Suppressed,1269089,Suppressed
+,New Hampshire,33,2003,2003,Suppressed,1279840,Suppressed
+,New Hampshire,33,2004,2004,Suppressed,1290121,Suppressed
+,New Hampshire,33,2005,2005,Suppressed,1298492,Suppressed
+,New Hampshire,33,2006,2006,13,1308389,Unreliable
+,New Hampshire,33,2007,2007,15,1312540,Unreliable
+,New Hampshire,33,2008,2008,10,1315906,Unreliable
+,New Hampshire,33,2009,2009,16,1316102,Unreliable
+,New Hampshire,33,2010,2010,15,1316470,Unreliable
+,New Hampshire,33,2011,2011,19,1318194,Unreliable
+,New Hampshire,33,2012,2012,22,1320718,1.7
+,New Hampshire,33,2013,2013,23,1323459,1.7
+,New Hampshire,33,2014,2014,145,1326813,10.9
+,New Hampshire,33,2015,2015,278,1330608,20.9
+,New Hampshire,33,2016,2016,354,1334795,26.5
+,New Hampshire,33,2017,2017,364,1342795,27.1
+,New Hampshire,33,2018,2018,379,1356458,27.9
+,New Hampshire,33,2019,2019,338,1359711,24.9
+,New Hampshire,33,2020,2020,313,1366275,22.9
+,New Jersey,34,1999,1999,16,8359593,Unreliable
+,New Jersey,34,2000,2000,15,8414350,Unreliable
+,New Jersey,34,2001,2001,19,8492671,Unreliable
+,New Jersey,34,2002,2002,15,8552643,Unreliable
+,New Jersey,34,2003,2003,18,8601402,Unreliable
+,New Jersey,34,2004,2004,16,8634561,Unreliable
+,New Jersey,34,2005,2005,20,8651974,0.2
+,New Jersey,34,2006,2006,30,8661679,0.3
+,New Jersey,34,2007,2007,26,8677885,0.3
+,New Jersey,34,2008,2008,17,8711090,Unreliable
+,New Jersey,34,2009,2009,Suppressed,8755602,Suppressed
+,New Jersey,34,2010,2010,31,8791894,0.4
+,New Jersey,34,2011,2011,26,8821155,0.3
+,New Jersey,34,2012,2012,30,8864590,0.3
+,New Jersey,34,2013,2013,52,8899339,0.6
+,New Jersey,34,2014,2014,102,8938175,1.1
+,New Jersey,34,2015,2015,224,8958013,2.5
+,New Jersey,34,2016,2016,674,8944469,7.5
+,New Jersey,34,2017,2017,1345,9005644,14.9
+,New Jersey,34,2018,2018,2190,8908520,24.6
+,New Jersey,34,2019,2019,2193,8882190,24.7
+,New Jersey,34,2020,2020,2316,8882371,26.1
+,New Mexico,35,1999,1999,19,1808082,Unreliable
+,New Mexico,35,2000,2000,16,1819046,Unreliable
+,New Mexico,35,2001,2001,13,1831690,Unreliable
+,New Mexico,35,2002,2002,13,1855309,Unreliable
+,New Mexico,35,2003,2003,23,1877574,1.2
+,New Mexico,35,2004,2004,15,1903808,Unreliable
+,New Mexico,35,2005,2005,Suppressed,1932274,Suppressed
+,New Mexico,35,2006,2006,20,1962137,1
+,New Mexico,35,2007,2007,15,1990070,Unreliable
+,New Mexico,35,2008,2008,18,2010662,Unreliable
+,New Mexico,35,2009,2009,17,2036802,Unreliable
+,New Mexico,35,2010,2010,17,2059179,Unreliable
+,New Mexico,35,2011,2011,15,2082224,Unreliable
+,New Mexico,35,2012,2012,31,2085538,1.5
+,New Mexico,35,2013,2013,18,2085287,Unreliable
+,New Mexico,35,2014,2014,57,2085572,2.7
+,New Mexico,35,2015,2015,36,2085109,1.7
+,New Mexico,35,2016,2016,74,2081015,3.6
+,New Mexico,35,2017,2017,66,2088070,3.2
+,New Mexico,35,2018,2018,91,2095428,4.3
+,New Mexico,35,2019,2019,141,2096829,6.7
+,New Mexico,35,2020,2020,318,2106319,15.1
+,New York,36,1999,1999,10,18882726,Unreliable
+,New York,36,2000,2000,Suppressed,18976457,Suppressed
+,New York,36,2001,2001,21,19082838,0.1
+,New York,36,2002,2002,19,19137800,Unreliable
+,New York,36,2003,2003,18,19175939,Unreliable
+,New York,36,2004,2004,12,19171567,Unreliable
+,New York,36,2005,2005,15,19132610,Unreliable
+,New York,36,2006,2006,98,19104631,0.5
+,New York,36,2007,2007,68,19132335,0.4
+,New York,36,2008,2008,90,19212436,0.5
+,New York,36,2009,2009,138,19307066,0.7
+,New York,36,2010,2010,122,19378102,0.6
+,New York,36,2011,2011,114,19465197,0.6
+,New York,36,2012,2012,128,19570261,0.7
+,New York,36,2013,2013,176,19651127,0.9
+,New York,36,2014,2014,255,19746227,1.3
+,New York,36,2015,2015,604,19795791,3.1
+,New York,36,2016,2016,1535,19745289,7.8
+,New York,36,2017,2017,2105,19849399,10.6
+,New York,36,2018,2018,2089,19542209,10.7
+,New York,36,2019,2019,2218,19453561,11.4
+,New York,36,2020,2020,3505,19336776,18.1
+,North Carolina,37,1999,1999,11,7949362,Unreliable
+,North Carolina,37,2000,2000,30,8049313,0.4
+,North Carolina,37,2001,2001,36,8210122,0.4
+,North Carolina,37,2002,2002,36,8326201,0.4
+,North Carolina,37,2003,2003,57,8422501,0.7
+,North Carolina,37,2004,2004,86,8553152,1
+,North Carolina,37,2005,2005,96,8705407,1.1
+,North Carolina,37,2006,2006,87,8917270,1
+,North Carolina,37,2007,2007,92,9118037,1
+,North Carolina,37,2008,2008,108,9309449,1.2
+,North Carolina,37,2009,2009,129,9449566,1.4
+,North Carolina,37,2010,2010,139,9535483,1.5
+,North Carolina,37,2011,2011,134,9656401,1.4
+,North Carolina,37,2012,2012,122,9752073,1.3
+,North Carolina,37,2013,2013,99,9848060,1
+,North Carolina,37,2014,2014,188,9943964,1.9
+,North Carolina,37,2015,2015,269,10042802,2.7
+,North Carolina,37,2016,2016,573,10146788,5.6
+,North Carolina,37,2017,2017,1240,10273419,12.1
+,North Carolina,37,2018,2018,1235,10383620,11.9
+,North Carolina,37,2019,2019,1339,10488084,12.8
+,North Carolina,37,2020,2020,2239,10600823,21.1
+,North Dakota,38,1999,1999,0,644259,Unreliable
+,North Dakota,38,2000,2000,Suppressed,642200,Suppressed
+,North Dakota,38,2001,2001,Suppressed,639062,Suppressed
+,North Dakota,38,2002,2002,Suppressed,638168,Suppressed
+,North Dakota,38,2003,2003,Suppressed,638817,Suppressed
+,North Dakota,38,2004,2004,Suppressed,644705,Suppressed
+,North Dakota,38,2005,2005,Suppressed,646089,Suppressed
+,North Dakota,38,2006,2006,Suppressed,649422,Suppressed
+,North Dakota,38,2007,2007,Suppressed,652822,Suppressed
+,North Dakota,38,2008,2008,Suppressed,657569,Suppressed
+,North Dakota,38,2009,2009,Suppressed,664968,Suppressed
+,North Dakota,38,2010,2010,Suppressed,672591,Suppressed
+,North Dakota,38,2011,2011,Suppressed,683932,Suppressed
+,North Dakota,38,2012,2012,Suppressed,699628,Suppressed
+,North Dakota,38,2013,2013,Suppressed,723393,Suppressed
+,North Dakota,38,2014,2014,Suppressed,739482,Suppressed
+,North Dakota,38,2015,2015,Suppressed,756927,Suppressed
+,North Dakota,38,2016,2016,15,757952,Unreliable
+,North Dakota,38,2017,2017,12,755393,Unreliable
+,North Dakota,38,2018,2018,Suppressed,760077,Suppressed
+,North Dakota,38,2019,2019,10,762062,Unreliable
+,North Dakota,38,2020,2020,30,765309,3.9
+,Ohio,39,1999,1999,14,11335457,Unreliable
+,Ohio,39,2000,2000,22,11353140,0.2
+,Ohio,39,2001,2001,34,11387404,0.3
+,Ohio,39,2002,2002,40,11407889,0.4
+,Ohio,39,2003,2003,33,11434788,0.3
+,Ohio,39,2004,2004,61,11452251,0.5
+,Ohio,39,2005,2005,87,11463320,0.8
+,Ohio,39,2006,2006,110,11481213,1
+,Ohio,39,2007,2007,94,11500468,0.8
+,Ohio,39,2008,2008,91,11515391,0.8
+,Ohio,39,2009,2009,69,11528896,0.6
+,Ohio,39,2010,2010,143,11536504,1.2
+,Ohio,39,2011,2011,134,11544951,1.2
+,Ohio,39,2012,2012,125,11544225,1.1
+,Ohio,39,2013,2013,150,11570808,1.3
+,Ohio,39,2014,2014,567,11594163,4.9
+,Ohio,39,2015,2015,1197,11613423,10.3
+,Ohio,39,2016,2016,2250,11614373,19.4
+,Ohio,39,2017,2017,3443,11658609,29.5
+,Ohio,39,2018,2018,2735,11689442,23.4
+,Ohio,39,2019,2019,3075,11689100,26.3
+,Ohio,39,2020,2020,4064,11693217,34.8
+,Oklahoma,40,1999,1999,18,3437148,Unreliable
+,Oklahoma,40,2000,2000,17,3450654,Unreliable
+,Oklahoma,40,2001,2001,15,3467100,Unreliable
+,Oklahoma,40,2002,2002,16,3489080,Unreliable
+,Oklahoma,40,2003,2003,36,3504892,1
+,Oklahoma,40,2004,2004,35,3525233,1
+,Oklahoma,40,2005,2005,42,3548597,1.2
+,Oklahoma,40,2006,2006,39,3594090,1.1
+,Oklahoma,40,2007,2007,54,3634349,1.5
+,Oklahoma,40,2008,2008,55,3668976,1.5
+,Oklahoma,40,2009,2009,135,3717572,3.6
+,Oklahoma,40,2010,2010,92,3751351,2.5
+,Oklahoma,40,2011,2011,75,3791508,2
+,Oklahoma,40,2012,2012,98,3814820,2.6
+,Oklahoma,40,2013,2013,80,3850568,2.1
+,Oklahoma,40,2014,2014,65,3878051,1.7
+,Oklahoma,40,2015,2015,86,3911338,2.2
+,Oklahoma,40,2016,2016,93,3923561,2.4
+,Oklahoma,40,2017,2017,95,3930864,2.4
+,Oklahoma,40,2018,2018,72,3943079,1.8
+,Oklahoma,40,2019,2019,76,3956971,1.9
+,Oklahoma,40,2020,2020,145,3980783,3.6
+,Oregon,41,1999,1999,Suppressed,3393941,Suppressed
+,Oregon,41,2000,2000,Suppressed,3421399,Suppressed
+,Oregon,41,2001,2001,Suppressed,3467937,Suppressed
+,Oregon,41,2002,2002,Suppressed,3513424,Suppressed
+,Oregon,41,2003,2003,Suppressed,3547376,Suppressed
+,Oregon,41,2004,2004,Suppressed,3569463,Suppressed
+,Oregon,41,2005,2005,10,3613202,Unreliable
+,Oregon,41,2006,2006,14,3670883,Unreliable
+,Oregon,41,2007,2007,13,3722417,Unreliable
+,Oregon,41,2008,2008,17,3768748,Unreliable
+,Oregon,41,2009,2009,20,3808600,0.5
+,Oregon,41,2010,2010,16,3831074,Unreliable
+,Oregon,41,2011,2011,20,3871859,0.5
+,Oregon,41,2012,2012,21,3899353,0.5
+,Oregon,41,2013,2013,15,3930065,Unreliable
+,Oregon,41,2014,2014,22,3970239,0.6
+,Oregon,41,2015,2015,21,4028977,0.5
+,Oregon,41,2016,2016,34,4093465,0.8
+,Oregon,41,2017,2017,73,4142776,1.8
+,Oregon,41,2018,2018,89,4190713,2.1
+,Oregon,41,2019,2019,85,4217737,2
+,Oregon,41,2020,2020,231,4241507,5.4
+,Pennsylvania,42,1999,1999,13,12263805,Unreliable
+,Pennsylvania,42,2000,2000,21,12281054,0.2
+,Pennsylvania,42,2001,2001,21,12298970,0.2
+,Pennsylvania,42,2002,2002,38,12331031,0.3
+,Pennsylvania,42,2003,2003,55,12374658,0.4
+,Pennsylvania,42,2004,2004,73,12410722,0.6
+,Pennsylvania,42,2005,2005,61,12449990,0.5
+,Pennsylvania,42,2006,2006,85,12510809,0.7
+,Pennsylvania,42,2007,2007,68,12563937,0.5
+,Pennsylvania,42,2008,2008,84,12612285,0.7
+,Pennsylvania,42,2009,2009,85,12666858,0.7
+,Pennsylvania,42,2010,2010,85,12702379,0.7
+,Pennsylvania,42,2011,2011,95,12742886,0.7
+,Pennsylvania,42,2012,2012,83,12763536,0.7
+,Pennsylvania,42,2013,2013,97,12773801,0.8
+,Pennsylvania,42,2014,2014,203,12787209,1.6
+,Pennsylvania,42,2015,2015,405,12802503,3.2
+,Pennsylvania,42,2016,2016,1268,12784227,9.9
+,Pennsylvania,42,2017,2017,1908,12805537,14.9
+,Pennsylvania,42,2018,2018,2326,12807060,18.2
+,Pennsylvania,42,2019,2019,2563,12801989,20
+,Pennsylvania,42,2020,2020,3463,12783254,27.1
+,Rhode Island,44,1999,1999,0,1040402,Unreliable
+,Rhode Island,44,2000,2000,Suppressed,1048319,Suppressed
+,Rhode Island,44,2001,2001,0,1057142,Unreliable
+,Rhode Island,44,2002,2002,0,1065995,Unreliable
+,Rhode Island,44,2003,2003,Suppressed,1071342,Suppressed
+,Rhode Island,44,2004,2004,0,1074579,Unreliable
+,Rhode Island,44,2005,2005,Suppressed,1067916,Suppressed
+,Rhode Island,44,2006,2006,Suppressed,1063096,Suppressed
+,Rhode Island,44,2007,2007,Suppressed,1057315,Suppressed
+,Rhode Island,44,2008,2008,Suppressed,1055003,Suppressed
+,Rhode Island,44,2009,2009,Suppressed,1053646,Suppressed
+,Rhode Island,44,2010,2010,11,1052567,Unreliable
+,Rhode Island,44,2011,2011,Suppressed,1051302,Suppressed
+,Rhode Island,44,2012,2012,12,1050292,Unreliable
+,Rhode Island,44,2013,2013,30,1051511,2.9
+,Rhode Island,44,2014,2014,79,1055173,7.5
+,Rhode Island,44,2015,2015,135,1056298,12.8
+,Rhode Island,44,2016,2016,182,1056426,17.2
+,Rhode Island,44,2017,2017,197,1059639,18.6
+,Rhode Island,44,2018,2018,212,1057315,20.1
+,Rhode Island,44,2019,2019,200,1059361,18.9
+,Rhode Island,44,2020,2020,287,1057125,27.1
+,South Carolina,45,1999,1999,Suppressed,3974684,Suppressed
+,South Carolina,45,2000,2000,15,4012012,Unreliable
+,South Carolina,45,2001,2001,Suppressed,4064995,Suppressed
+,South Carolina,45,2002,2002,16,4107795,Unreliable
+,South Carolina,45,2003,2003,18,4150297,Unreliable
+,South Carolina,45,2004,2004,26,4210921,0.6
+,South Carolina,45,2005,2005,24,4270150,0.6
+,South Carolina,45,2006,2006,38,4357847,0.9
+,South Carolina,45,2007,2007,26,4444110,0.6
+,South Carolina,45,2008,2008,33,4528996,0.7
+,South Carolina,45,2009,2009,52,4589872,1.1
+,South Carolina,45,2010,2010,51,4625364,1.1
+,South Carolina,45,2011,2011,42,4679230,0.9
+,South Carolina,45,2012,2012,44,4723723,0.9
+,South Carolina,45,2013,2013,43,4774839,0.9
+,South Carolina,45,2014,2014,101,4832482,2.1
+,South Carolina,45,2015,2015,148,4896146,3
+,South Carolina,45,2016,2016,222,4961119,4.5
+,South Carolina,45,2017,2017,395,5024369,7.9
+,South Carolina,45,2018,2018,498,5084127,9.8
+,South Carolina,45,2019,2019,557,5148714,10.8
+,South Carolina,45,2020,2020,1136,5218040,21.8
+,South Dakota,46,1999,1999,Suppressed,750417,Suppressed
+,South Dakota,46,2000,2000,Suppressed,754844,Suppressed
+,South Dakota,46,2001,2001,0,757972,Unreliable
+,South Dakota,46,2002,2002,Suppressed,760020,Suppressed
+,South Dakota,46,2003,2003,Suppressed,763729,Suppressed
+,South Dakota,46,2004,2004,Suppressed,770396,Suppressed
+,South Dakota,46,2005,2005,Suppressed,775493,Suppressed
+,South Dakota,46,2006,2006,0,783033,Unreliable
+,South Dakota,46,2007,2007,Suppressed,791623,Suppressed
+,South Dakota,46,2008,2008,Suppressed,799124,Suppressed
+,South Dakota,46,2009,2009,Suppressed,807067,Suppressed
+,South Dakota,46,2010,2010,Suppressed,814180,Suppressed
+,South Dakota,46,2011,2011,Suppressed,824082,Suppressed
+,South Dakota,46,2012,2012,Suppressed,833354,Suppressed
+,South Dakota,46,2013,2013,Suppressed,844877,Suppressed
+,South Dakota,46,2014,2014,Suppressed,853175,Suppressed
+,South Dakota,46,2015,2015,Suppressed,858469,Suppressed
+,South Dakota,46,2016,2016,Suppressed,865454,Suppressed
+,South Dakota,46,2017,2017,12,869666,Unreliable
+,South Dakota,46,2018,2018,12,882235,Unreliable
+,South Dakota,46,2019,2019,22,884659,2.5
+,South Dakota,46,2020,2020,33,892717,3.7
+,Tennessee,47,1999,1999,Suppressed,5638708,Suppressed
+,Tennessee,47,2000,2000,Suppressed,5689283,Suppressed
+,Tennessee,47,2001,2001,Suppressed,5750789,Suppressed
+,Tennessee,47,2002,2002,14,5795918,Unreliable
+,Tennessee,47,2003,2003,50,5847812,0.9
+,Tennessee,47,2004,2004,52,5910809,0.9
+,Tennessee,47,2005,2005,57,5991057,1
+,Tennessee,47,2006,2006,47,6088766,0.8
+,Tennessee,47,2007,2007,64,6175727,1
+,Tennessee,47,2008,2008,84,6247411,1.3
+,Tennessee,47,2009,2009,58,6306019,0.9
+,Tennessee,47,2010,2010,63,6346105,1
+,Tennessee,47,2011,2011,57,6403353,0.9
+,Tennessee,47,2012,2012,63,6456243,1
+,Tennessee,47,2013,2013,83,6495978,1.3
+,Tennessee,47,2014,2014,125,6549352,1.9
+,Tennessee,47,2015,2015,231,6600299,3.5
+,Tennessee,47,2016,2016,377,6651194,5.7
+,Tennessee,47,2017,2017,574,6715984,8.5
+,Tennessee,47,2018,2018,817,6770010,12.1
+,Tennessee,47,2019,2019,1135,6829174,16.6
+,Tennessee,47,2020,2020,2077,6886834,30.2
+,Texas,48,1999,1999,28,20558220,0.1
+,Texas,48,2000,2000,27,20851820,0.1
+,Texas,48,2001,2001,50,21319622,0.2
+,Texas,48,2002,2002,82,21690325,0.4
+,Texas,48,2003,2003,54,22030931,0.2
+,Texas,48,2004,2004,67,22394023,0.3
+,Texas,48,2005,2005,66,22778123,0.3
+,Texas,48,2006,2006,83,23359580,0.4
+,Texas,48,2007,2007,91,23831983,0.4
+,Texas,48,2008,2008,69,24309039,0.3
+,Texas,48,2009,2009,124,24801761,0.5
+,Texas,48,2010,2010,125,25145561,0.5
+,Texas,48,2011,2011,88,25674681,0.3
+,Texas,48,2012,2012,94,26059203,0.4
+,Texas,48,2013,2013,88,26448193,0.3
+,Texas,48,2014,2014,123,26956958,0.5
+,Texas,48,2015,2015,159,27469114,0.6
+,Texas,48,2016,2016,213,27862596,0.8
+,Texas,48,2017,2017,316,28304596,1.1
+,Texas,48,2018,2018,328,28701845,1.1
+,Texas,48,2019,2019,382,28995881,1.3
+,Texas,48,2020,2020,1009,29360759,3.4
+,Utah,49,1999,1999,Suppressed,2203483,Suppressed
+,Utah,49,2000,2000,Suppressed,2233169,Suppressed
+,Utah,49,2001,2001,Suppressed,2283715,Suppressed
+,Utah,49,2002,2002,Suppressed,2324815,Suppressed
+,Utah,49,2003,2003,Suppressed,2360137,Suppressed
+,Utah,49,2004,2004,Suppressed,2401580,Suppressed
+,Utah,49,2005,2005,10,2457719,Unreliable
+,Utah,49,2006,2006,Suppressed,2525507,Suppressed
+,Utah,49,2007,2007,13,2597746,Unreliable
+,Utah,49,2008,2008,11,2663029,Unreliable
+,Utah,49,2009,2009,26,2723421,1
+,Utah,49,2010,2010,25,2763885,0.9
+,Utah,49,2011,2011,32,2817222,1.1
+,Utah,49,2012,2012,37,2855287,1.3
+,Utah,49,2013,2013,38,2900872,1.3
+,Utah,49,2014,2014,46,2942902,1.6
+,Utah,49,2015,2015,43,2995919,1.4
+,Utah,49,2016,2016,50,3051217,1.6
+,Utah,49,2017,2017,71,3101833,2.3
+,Utah,49,2018,2018,73,3161105,2.3
+,Utah,49,2019,2019,79,3205958,2.5
+,Utah,49,2020,2020,135,3249879,4.2
+,Vermont,50,1999,1999,0,604687,Unreliable
+,Vermont,50,2000,2000,0,608827,Unreliable
+,Vermont,50,2001,2001,Suppressed,612223,Suppressed
+,Vermont,50,2002,2002,Suppressed,615442,Suppressed
+,Vermont,50,2003,2003,Suppressed,617858,Suppressed
+,Vermont,50,2004,2004,Suppressed,619920,Suppressed
+,Vermont,50,2005,2005,Suppressed,621215,Suppressed
+,Vermont,50,2006,2006,12,622892,Unreliable
+,Vermont,50,2007,2007,Suppressed,623481,Suppressed
+,Vermont,50,2008,2008,12,624151,Unreliable
+,Vermont,50,2009,2009,Suppressed,624817,Suppressed
+,Vermont,50,2010,2010,Suppressed,625741,Suppressed
+,Vermont,50,2011,2011,11,626431,Unreliable
+,Vermont,50,2012,2012,Suppressed,626011,Suppressed
+,Vermont,50,2013,2013,15,626630,Unreliable
+,Vermont,50,2014,2014,19,626562,Unreliable
+,Vermont,50,2015,2015,32,626042,5.1
+,Vermont,50,2016,2016,49,624594,7.8
+,Vermont,50,2017,2017,73,623657,11.7
+,Vermont,50,2018,2018,103,626299,16.4
+,Vermont,50,2019,2019,94,623989,15.1
+,Vermont,50,2020,2020,134,623347,21.5
+,Virginia,51,1999,1999,11,7000176,Unreliable
+,Virginia,51,2000,2000,13,7078515,Unreliable
+,Virginia,51,2001,2001,18,7198362,Unreliable
+,Virginia,51,2002,2002,36,7286873,0.5
+,Virginia,51,2003,2003,32,7366977,0.4
+,Virginia,51,2004,2004,44,7475575,0.6
+,Virginia,51,2005,2005,32,7577105,0.4
+,Virginia,51,2006,2006,51,7673725,0.7
+,Virginia,51,2007,2007,47,7751000,0.6
+,Virginia,51,2008,2008,72,7833496,0.9
+,Virginia,51,2009,2009,55,7925937,0.7
+,Virginia,51,2010,2010,65,8001024,0.8
+,Virginia,51,2011,2011,67,8096604,0.8
+,Virginia,51,2012,2012,72,8185867,0.9
+,Virginia,51,2013,2013,113,8260405,1.4
+,Virginia,51,2014,2014,144,8326289,1.7
+,Virginia,51,2015,2015,245,8382993,2.9
+,Virginia,51,2016,2016,626,8411808,7.4
+,Virginia,51,2017,2017,792,8470020,9.4
+,Virginia,51,2018,2018,817,8517685,9.6
+,Virginia,51,2019,2019,961,8535519,11.3
+,Virginia,51,2020,2020,1646,8590563,19.2
+,Washington,53,1999,1999,19,5842565,Unreliable
+,Washington,53,2000,2000,13,5894121,Unreliable
+,Washington,53,2001,2001,18,5985722,Unreliable
+,Washington,53,2002,2002,29,6052349,0.5
+,Washington,53,2003,2003,24,6104115,0.4
+,Washington,53,2004,2004,32,6178645,0.5
+,Washington,53,2005,2005,42,6257305,0.7
+,Washington,53,2006,2006,41,6370753,0.6
+,Washington,53,2007,2007,29,6461587,0.4
+,Washington,53,2008,2008,37,6562231,0.6
+,Washington,53,2009,2009,50,6667426,0.7
+,Washington,53,2010,2010,51,6724540,0.8
+,Washington,53,2011,2011,39,6830038,0.6
+,Washington,53,2012,2012,46,6897012,0.7
+,Washington,53,2013,2013,50,6971406,0.7
+,Washington,53,2014,2014,40,7061530,0.6
+,Washington,53,2015,2015,49,7170351,0.7
+,Washington,53,2016,2016,80,7288000,1.1
+,Washington,53,2017,2017,130,7405743,1.8
+,Washington,53,2018,2018,202,7535591,2.7
+,Washington,53,2019,2019,319,7614893,4.2
+,Washington,53,2020,2020,648,7693612,8.4
+,West Virginia,54,1999,1999,Suppressed,1811801,Suppressed
+,West Virginia,54,2000,2000,Suppressed,1808344,Suppressed
+,West Virginia,54,2001,2001,29,1801481,1.6
+,West Virginia,54,2002,2002,23,1805414,1.3
+,West Virginia,54,2003,2003,40,1812295,2.2
+,West Virginia,54,2004,2004,63,1816438,3.5
+,West Virginia,54,2005,2005,39,1820492,2.1
+,West Virginia,54,2006,2006,45,1827912,2.5
+,West Virginia,54,2007,2007,73,1834052,4
+,West Virginia,54,2008,2008,80,1840310,4.3
+,West Virginia,54,2009,2009,33,1847775,1.8
+,West Virginia,54,2010,2010,79,1852994,4.3
+,West Virginia,54,2011,2011,87,1855364,4.7
+,West Virginia,54,2012,2012,83,1855413,4.5
+,West Virginia,54,2013,2013,93,1854304,5
+,West Virginia,54,2014,2014,116,1850326,6.3
+,West Virginia,54,2015,2015,205,1844128,11.1
+,West Virginia,54,2016,2016,415,1831102,22.7
+,West Virginia,54,2017,2017,605,1815857,33.3
+,West Virginia,54,2018,2018,537,1805832,29.7
+,West Virginia,54,2019,2019,551,1792147,30.7
+,West Virginia,54,2020,2020,1026,1784787,57.5
+,Wisconsin,55,1999,1999,Suppressed,5332666,Suppressed
+,Wisconsin,55,2000,2000,19,5363675,Unreliable
+,Wisconsin,55,2001,2001,14,5406835,Unreliable
+,Wisconsin,55,2002,2002,17,5445162,Unreliable
+,Wisconsin,55,2003,2003,37,5479203,0.7
+,Wisconsin,55,2004,2004,32,5514026,0.6
+,Wisconsin,55,2005,2005,40,5546166,0.7
+,Wisconsin,55,2006,2006,43,5577655,0.8
+,Wisconsin,55,2007,2007,42,5610775,0.7
+,Wisconsin,55,2008,2008,41,5640996,0.7
+,Wisconsin,55,2009,2009,64,5669264,1.1
+,Wisconsin,55,2010,2010,51,5686986,0.9
+,Wisconsin,55,2011,2011,47,5711767,0.8
+,Wisconsin,55,2012,2012,42,5726398,0.7
+,Wisconsin,55,2013,2013,71,5742713,1.2
+,Wisconsin,55,2014,2014,75,5757564,1.3
+,Wisconsin,55,2015,2015,100,5771337,1.7
+,Wisconsin,55,2016,2016,268,5778708,4.6
+,Wisconsin,55,2017,2017,447,5795483,7.7
+,Wisconsin,55,2018,2018,491,5813568,8.4
+,Wisconsin,55,2019,2019,642,5822434,11
+,Wisconsin,55,2020,2020,1044,5832655,17.9
+,Wyoming,56,1999,1999,Suppressed,491780,Suppressed
+,Wyoming,56,2000,2000,0,493782,Unreliable
+,Wyoming,56,2001,2001,Suppressed,494657,Suppressed
+,Wyoming,56,2002,2002,Suppressed,500017,Suppressed
+,Wyoming,56,2003,2003,Suppressed,503453,Suppressed
+,Wyoming,56,2004,2004,0,509106,Unreliable
+,Wyoming,56,2005,2005,0,514157,Unreliable
+,Wyoming,56,2006,2006,Suppressed,522667,Suppressed
+,Wyoming,56,2007,2007,Suppressed,534876,Suppressed
+,Wyoming,56,2008,2008,Suppressed,546043,Suppressed
+,Wyoming,56,2009,2009,Suppressed,559851,Suppressed
+,Wyoming,56,2010,2010,Suppressed,563626,Suppressed
+,Wyoming,56,2011,2011,Suppressed,568158,Suppressed
+,Wyoming,56,2012,2012,Suppressed,576412,Suppressed
+,Wyoming,56,2013,2013,Suppressed,582658,Suppressed
+,Wyoming,56,2014,2014,11,584153,Unreliable
+,Wyoming,56,2015,2015,Suppressed,586107,Suppressed
+,Wyoming,56,2016,2016,Suppressed,585501,Suppressed
+,Wyoming,56,2017,2017,12,579315,Unreliable
+,Wyoming,56,2018,2018,Suppressed,577737,Suppressed
+,Wyoming,56,2019,2019,16,578759,Unreliable
+,Wyoming,56,2020,2020,26,582328,4.5
+---,,,,,,,
+"Dataset: Multiple Cause of Death, 1999-2020",,,,,,,
+Query Parameters:,,,,,,,
+Title: Synthetic Opioids Overdose Deaths by State and Year (CDC WONDER),,,,,,,
+MCD - ICD-10 Codes: T40.4 (Other synthetic narcotics),,,,,,,
+UCD - Drug/Alcohol Induced Causes: Drug poisonings (overdose) Unintentional (X40-X44),,,,,,,
+Group By: State; Year,,,,,,,
+Show Totals: Disabled,,,,,,,
+Show Zero Values: True,,,,,,,
+Show Suppressed: True,,,,,,,
+"Calculate Rates Per: 100,000",,,,,,,
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups),,,,,,,
+---,,,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information.,,,,,,,
+---,,,,,,,
+"Query Date: Jun 30, 2026 11:54:25 PM",,,,,,,
+---,,,,,,,
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics",,,,,,,
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,",,,,,,,
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative",,,,,,,
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Jun 30, 2026 11:54:25 PM",,,,,,,
+---,,,,,,,
+Messages:,,,,,,,
+1. Totals are not available for these results due to suppression constraints. More Information:,,,,,,,
+http://wonder.cdc.gov/wonder/help/faq.html#Privacy.,,,,,,,
+---,,,,,,,
+Caveats:,,,,,,,
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:",,,,,,,
+http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision.,,,,,,,
+2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of,,,,,,,
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data.",,,,,,,
+More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies.,,,,,,,
+3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code,,,,,,,
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,",,,,,,,
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in",,,,,,,
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies.,,,,,,,
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other",,,,,,,
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in",,,,,,,
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies.,,,,,,,
+5. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:,,,,,,,
+http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality.,,,,,,,
+6. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:,,,,,,,
+http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable.,,,,,,,
+"7. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020",,,,,,,
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the",,,,,,,
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for",,,,,,,
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS",,,,,,,
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the",,,,,,,
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race",,,,,,,
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The",,,,,,,
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal",,,,,,,
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident",,,,,,,
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are",,,,,,,
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,",,,,,,,
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012",,,,,,,
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1",,,,,,,
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures",,,,,,,
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1",,,,,,,
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012.",,,,,,,
+Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of,,,,,,,
+July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population,,,,,,,
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which",,,,,,,
+were available at the time of release.,,,,,,,
+8. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the,,,,,,,
+resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group.,,,,,,,
+9. Changes to cause of death classification affect reporting trends. More information:,,,,,,,
+http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes.,,,,,,,

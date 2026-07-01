@@ -1,0 +1,2313 @@
+﻿Notes,state,state_code,year,year_code,sex,sex_code,deaths,population,opioid_death_rate
+,Alabama,1,1999,1999,Female,F,10,2293259,Unreliable
+,Alabama,1,1999,1999,Male,M,16,2136884,Unreliable
+,Alabama,1,2000,2000,Female,F,12,2300596,Unreliable
+,Alabama,1,2000,2000,Male,M,19,2146504,Unreliable
+,Alabama,1,2001,2001,Female,F,19,2309496,Unreliable
+,Alabama,1,2001,2001,Male,M,28,2158138,1.3
+,Alabama,1,2002,2002,Female,F,25,2314370,1.1
+,Alabama,1,2002,2002,Male,M,36,2165719,1.7
+,Alabama,1,2003,2003,Female,F,14,2324069,Unreliable
+,Alabama,1,2003,2003,Male,M,26,2179422,1.2
+,Alabama,1,2004,2004,Female,F,25,2337857,1.1
+,Alabama,1,2004,2004,Male,M,51,2192872,2.3
+,Alabama,1,2005,2005,Female,F,22,2356423,0.9
+,Alabama,1,2005,2005,Male,M,43,2213382,1.9
+,Alabama,1,2006,2006,Female,F,45,2385480,1.9
+,Alabama,1,2006,2006,Male,M,51,2243501,2.3
+,Alabama,1,2007,2007,Female,F,54,2407275,2.2
+,Alabama,1,2007,2007,Male,M,92,2265565,4.1
+,Alabama,1,2008,2008,Female,F,66,2430257,2.7
+,Alabama,1,2008,2008,Male,M,90,2287949,3.9
+,Alabama,1,2009,2009,Female,F,74,2448159,3
+,Alabama,1,2009,2009,Male,M,104,2309779,4.5
+,Alabama,1,2010,2010,Female,F,58,2459548,2.4
+,Alabama,1,2010,2010,Male,M,109,2320188,4.7
+,Alabama,1,2011,2011,Female,F,68,2473249,2.7
+,Alabama,1,2011,2011,Male,M,93,2329491,4
+,Alabama,1,2012,2012,Female,F,55,2483466,2.2
+,Alabama,1,2012,2012,Male,M,92,2338557,3.9
+,Alabama,1,2013,2013,Female,F,53,2488375,2.1
+,Alabama,1,2013,2013,Male,M,97,2345347,4.1
+,Alabama,1,2014,2014,Female,F,98,2499410,3.9
+,Alabama,1,2014,2014,Male,M,154,2349967,6.6
+,Alabama,1,2015,2015,Female,F,91,2505795,3.6
+,Alabama,1,2015,2015,Male,M,170,2353184,7.2
+,Alabama,1,2016,2016,Female,F,111,2507714,4.4
+,Alabama,1,2016,2016,Male,M,209,2355586,8.9
+,Alabama,1,2017,2017,Female,F,128,2514911,5.1
+,Alabama,1,2017,2017,Male,M,267,2359836,11.3
+,Alabama,1,2018,2018,Female,F,119,2523756,4.7
+,Alabama,1,2018,2018,Male,M,234,2364115,9.9
+,Alabama,1,2019,2019,Female,F,138,2533668,5.4
+,Alabama,1,2019,2019,Male,M,250,2369517,10.6
+,Alabama,1,2020,2020,Female,F,181,2544566,7.1
+,Alabama,1,2020,2020,Male,M,413,2376966,17.4
+,Alaska,2,1999,1999,Female,F,Suppressed,301267,Suppressed
+,Alaska,2,1999,1999,Male,M,Suppressed,323514,Suppressed
+,Alaska,2,2000,2000,Female,F,13,302820,Unreliable
+,Alaska,2,2000,2000,Male,M,Suppressed,324112,Suppressed
+,Alaska,2,2001,2001,Female,F,Suppressed,305579,Suppressed
+,Alaska,2,2001,2001,Male,M,Suppressed,328135,Suppressed
+,Alaska,2,2002,2002,Female,F,Suppressed,309633,Suppressed
+,Alaska,2,2002,2002,Male,M,Suppressed,332704,Suppressed
+,Alaska,2,2003,2003,Female,F,Suppressed,313034,Suppressed
+,Alaska,2,2003,2003,Male,M,Suppressed,335380,Suppressed
+,Alaska,2,2004,2004,Female,F,Suppressed,317807,Suppressed
+,Alaska,2,2004,2004,Male,M,Suppressed,341479,Suppressed
+,Alaska,2,2005,2005,Female,F,Suppressed,320920,Suppressed
+,Alaska,2,2005,2005,Male,M,Suppressed,346026,Suppressed
+,Alaska,2,2006,2006,Female,F,Suppressed,325121,Suppressed
+,Alaska,2,2006,2006,Male,M,20,350181,5.7
+,Alaska,2,2007,2007,Female,F,Suppressed,327138,Suppressed
+,Alaska,2,2007,2007,Male,M,Suppressed,353162,Suppressed
+,Alaska,2,2008,2008,Female,F,17,329412,Unreliable
+,Alaska,2,2008,2008,Male,M,49,358043,13.7
+,Alaska,2,2009,2009,Female,F,25,337002,7.4
+,Alaska,2,2009,2009,Male,M,48,361893,13.3
+,Alaska,2,2010,2010,Female,F,27,340603,7.9
+,Alaska,2,2010,2010,Male,M,30,369628,8.1
+,Alaska,2,2011,2011,Female,F,19,347526,Unreliable
+,Alaska,2,2011,2011,Male,M,43,375192,11.5
+,Alaska,2,2012,2012,Female,F,30,350211,8.6
+,Alaska,2,2012,2012,Male,M,48,381238,12.6
+,Alaska,2,2013,2013,Female,F,20,349564,5.7
+,Alaska,2,2013,2013,Male,M,48,385568,12.4
+,Alaska,2,2014,2014,Female,F,26,349436,7.4
+,Alaska,2,2014,2014,Male,M,42,387296,10.8
+,Alaska,2,2015,2015,Female,F,30,349407,8.6
+,Alaska,2,2015,2015,Male,M,49,389025,12.6
+,Alaska,2,2016,2016,Female,F,20,353762,5.7
+,Alaska,2,2016,2016,Male,M,62,388132,16
+,Alaska,2,2017,2017,Female,F,34,353003,9.6
+,Alaska,2,2017,2017,Male,M,55,386792,14.2
+,Alaska,2,2018,2018,Female,F,28,352865,7.9
+,Alaska,2,2018,2018,Male,M,33,384573,8.6
+,Alaska,2,2019,2019,Female,F,19,350127,Unreliable
+,Alaska,2,2019,2019,Male,M,56,381418,14.7
+,Alaska,2,2020,2020,Female,F,37,349621,10.6
+,Alaska,2,2020,2020,Male,M,66,381537,17.3
+,Arizona,4,1999,1999,Female,F,34,2518300,1.4
+,Arizona,4,1999,1999,Male,M,149,2505524,5.9
+,Arizona,4,2000,2000,Female,F,34,2569575,1.3
+,Arizona,4,2000,2000,Male,M,161,2561057,6.3
+,Arizona,4,2001,2001,Female,F,53,2641676,2
+,Arizona,4,2001,2001,Male,M,159,2631801,6
+,Arizona,4,2002,2002,Female,F,67,2704217,2.5
+,Arizona,4,2002,2002,Male,M,188,2692038,7
+,Arizona,4,2003,2003,Female,F,91,2764077,3.3
+,Arizona,4,2003,2003,Male,M,192,2746287,7
+,Arizona,4,2004,2004,Female,F,71,2835606,2.5
+,Arizona,4,2004,2004,Male,M,201,2816798,7.1
+,Arizona,4,2005,2005,Female,F,113,2930811,3.9
+,Arizona,4,2005,2005,Male,M,202,2908266,6.9
+,Arizona,4,2006,2006,Female,F,118,3026134,3.9
+,Arizona,4,2006,2006,Male,M,249,3003007,8.3
+,Arizona,4,2007,2007,Female,F,118,3096998,3.8
+,Arizona,4,2007,2007,Male,M,251,3070683,8.2
+,Arizona,4,2008,2008,Female,F,139,3155278,4.4
+,Arizona,4,2008,2008,Male,M,261,3125084,8.4
+,Arizona,4,2009,2009,Female,F,166,3189908,5.2
+,Arizona,4,2009,2009,Male,M,323,3153246,10.2
+,Arizona,4,2010,2010,Female,F,201,3216194,6.2
+,Arizona,4,2010,2010,Male,M,329,3175823,10.4
+,Arizona,4,2011,2011,Female,F,161,3258634,4.9
+,Arizona,4,2011,2011,Male,M,304,3223871,9.4
+,Arizona,4,2012,2012,Female,F,158,3294772,4.8
+,Arizona,4,2012,2012,Male,M,259,3258483,7.9
+,Arizona,4,2013,2013,Female,F,158,3331505,4.7
+,Arizona,4,2013,2013,Male,M,276,3295119,8.4
+,Arizona,4,2014,2014,Female,F,166,3387637,4.9
+,Arizona,4,2014,2014,Male,M,331,3343847,9.9
+,Arizona,4,2015,2015,Female,F,216,3436575,6.3
+,Arizona,4,2015,2015,Male,M,350,3391490,10.3
+,Arizona,4,2016,2016,Female,F,222,3488176,6.4
+,Arizona,4,2016,2016,Male,M,458,3442895,13.3
+,Arizona,4,2017,2017,Female,F,249,3527969,7.1
+,Arizona,4,2017,2017,Male,M,568,3488301,16.3
+,Arizona,4,2018,2018,Female,F,289,3606307,8
+,Arizona,4,2018,2018,Male,M,714,3565339,20
+,Arizona,4,2019,2019,Female,F,318,3661420,8.7
+,Arizona,4,2019,2019,Male,M,872,3617297,24.1
+,Arizona,4,2020,2020,Female,F,470,3735475,12.6
+,Arizona,4,2020,2020,Male,M,1280,3685926,34.7
+,Arkansas,5,1999,1999,Female,F,Suppressed,1359445,Suppressed
+,Arkansas,5,1999,1999,Male,M,Suppressed,1292415,Suppressed
+,Arkansas,5,2000,2000,Female,F,Suppressed,1368707,Suppressed
+,Arkansas,5,2000,2000,Male,M,Suppressed,1304693,Suppressed
+,Arkansas,5,2001,2001,Female,F,Suppressed,1376845,Suppressed
+,Arkansas,5,2001,2001,Male,M,Suppressed,1314726,Suppressed
+,Arkansas,5,2002,2002,Female,F,10,1383239,Unreliable
+,Arkansas,5,2002,2002,Male,M,15,1322688,Unreliable
+,Arkansas,5,2003,2003,Female,F,Suppressed,1391523,Suppressed
+,Arkansas,5,2003,2003,Male,M,16,1333293,Unreliable
+,Arkansas,5,2004,2004,Female,F,14,1403048,Unreliable
+,Arkansas,5,2004,2004,Male,M,36,1346638,2.7
+,Arkansas,5,2005,2005,Female,F,12,1418295,Unreliable
+,Arkansas,5,2005,2005,Male,M,41,1362802,3
+,Arkansas,5,2006,2006,Female,F,17,1438428,Unreliable
+,Arkansas,5,2006,2006,Male,M,48,1383333,3.5
+,Arkansas,5,2007,2007,Female,F,22,1451358,1.5
+,Arkansas,5,2007,2007,Male,M,34,1397292,2.4
+,Arkansas,5,2008,2008,Female,F,50,1464220,3.4
+,Arkansas,5,2008,2008,Male,M,66,1410334,4.7
+,Arkansas,5,2009,2009,Female,F,48,1475013,3.3
+,Arkansas,5,2009,2009,Male,M,83,1421830,5.8
+,Arkansas,5,2010,2010,Female,F,56,1484281,3.8
+,Arkansas,5,2010,2010,Male,M,75,1431637,5.2
+,Arkansas,5,2011,2011,Female,F,43,1495200,2.9
+,Arkansas,5,2011,2011,Male,M,86,1442779,6
+,Arkansas,5,2012,2012,Female,F,57,1500641,3.8
+,Arkansas,5,2012,2012,Male,M,69,1448490,4.8
+,Arkansas,5,2013,2013,Female,F,51,1505782,3.4
+,Arkansas,5,2013,2013,Male,M,64,1453591,4.4
+,Arkansas,5,2014,2014,Female,F,53,1509053,3.5
+,Arkansas,5,2014,2014,Male,M,76,1457316,5.2
+,Arkansas,5,2015,2015,Female,F,63,1515348,4.2
+,Arkansas,5,2015,2015,Male,M,80,1462856,5.5
+,Arkansas,5,2016,2016,Female,F,59,1520375,3.9
+,Arkansas,5,2016,2016,Male,M,72,1467873,4.9
+,Arkansas,5,2017,2017,Female,F,70,1528215,4.6
+,Arkansas,5,2017,2017,Male,M,83,1476064,5.6
+,Arkansas,5,2018,2018,Female,F,66,1533682,4.3
+,Arkansas,5,2018,2018,Male,M,102,1480143,6.9
+,Arkansas,5,2019,2019,Female,F,64,1536188,4.2
+,Arkansas,5,2019,2019,Male,M,111,1481616,7.5
+,Arkansas,5,2020,2020,Female,F,102,1543666,6.6
+,Arkansas,5,2020,2020,Male,M,145,1486856,9.8
+,California,6,1999,1999,Female,F,273,16800161,1.6
+,California,6,1999,1999,Male,M,1058,16699043,6.3
+,California,6,2000,2000,Female,F,195,16996756,1.1
+,California,6,2000,2000,Male,M,696,16874892,4.1
+,California,6,2001,2001,Female,F,109,17294223,0.6
+,California,6,2001,2001,Male,M,383,17185235,2.2
+,California,6,2002,2002,Female,F,356,17498462,2
+,California,6,2002,2002,Male,M,891,17373381,5.1
+,California,6,2003,2003,Female,F,319,17709509,1.8
+,California,6,2003,2003,Male,M,850,17543650,4.8
+,California,6,2004,2004,Female,F,360,17871415,2
+,California,6,2004,2004,Male,M,810,17703161,4.6
+,California,6,2005,2005,Female,F,369,17996230,2.1
+,California,6,2005,2005,Male,M,773,17831713,4.3
+,California,6,2006,2006,Female,F,396,18097471,2.2
+,California,6,2006,2006,Male,M,863,17923731,4.8
+,California,6,2007,2007,Female,F,458,18214926,2.5
+,California,6,2007,2007,Male,M,946,18035385,5.2
+,California,6,2008,2008,Female,F,484,18396972,2.6
+,California,6,2008,2008,Male,M,1035,18207365,5.7
+,California,6,2009,2009,Female,F,562,18583075,3
+,California,6,2009,2009,Male,M,1164,18378154,6.3
+,California,6,2010,2010,Female,F,562,18736126,3
+,California,6,2010,2010,Male,M,1066,18517830,5.8
+,California,6,2011,2011,Female,F,533,18943585,2.8
+,California,6,2011,2011,Male,M,1138,18748327,6.1
+,California,6,2012,2012,Female,F,490,19122866,2.6
+,California,6,2012,2012,Male,M,1007,18918564,5.3
+,California,6,2013,2013,Female,F,516,19268325,2.7
+,California,6,2013,2013,Male,M,1155,19064196,6.1
+,California,6,2014,2014,Female,F,573,19533596,2.9
+,California,6,2014,2014,Male,M,1206,19268904,6.3
+,California,6,2015,2015,Female,F,604,19701750,3.1
+,California,6,2015,2015,Male,M,1190,19443068,6.1
+,California,6,2016,2016,Female,F,525,19756656,2.7
+,California,6,2016,2016,Male,M,1244,19493361,6.4
+,California,6,2017,2017,Female,F,550,19889100,2.8
+,California,6,2017,2017,Male,M,1454,19647553,7.4
+,California,6,2018,2018,Female,F,619,19893468,3.1
+,California,6,2018,2018,Male,M,1619,19663577,8.2
+,California,6,2019,2019,Female,F,758,19867369,3.8
+,California,6,2019,2019,Male,M,2241,19644854,11.4
+,California,6,2020,2020,Female,F,1186,19790589,6
+,California,6,2020,2020,Male,M,4121,19577489,21
+,Colorado,8,1999,1999,Female,F,24,2101358,1.1
+,Colorado,8,1999,1999,Male,M,84,2124660,4
+,Colorado,8,2000,2000,Female,F,37,2135278,1.7
+,Colorado,8,2000,2000,Male,M,78,2165983,3.6
+,Colorado,8,2001,2001,Female,F,33,2195705,1.5
+,Colorado,8,2001,2001,Male,M,90,2229982,4
+,Colorado,8,2002,2002,Female,F,53,2228665,2.4
+,Colorado,8,2002,2002,Male,M,96,2261741,4.2
+,Colorado,8,2003,2003,Female,F,38,2253214,1.7
+,Colorado,8,2003,2003,Male,M,118,2275518,5.2
+,Colorado,8,2004,2004,Female,F,44,2274511,1.9
+,Colorado,8,2004,2004,Male,M,116,2300502,5
+,Colorado,8,2005,2005,Female,F,64,2308238,2.8
+,Colorado,8,2005,2005,Male,M,156,2323650,6.7
+,Colorado,8,2006,2006,Female,F,80,2352960,3.4
+,Colorado,8,2006,2006,Male,M,163,2367463,6.9
+,Colorado,8,2007,2007,Female,F,100,2396433,4.2
+,Colorado,8,2007,2007,Male,M,163,2407435,6.8
+,Colorado,8,2008,2008,Female,F,99,2439060,4.1
+,Colorado,8,2008,2008,Male,M,190,2450670,7.8
+,Colorado,8,2009,2009,Female,F,105,2480710,4.2
+,Colorado,8,2009,2009,Male,M,229,2491485,9.2
+,Colorado,8,2010,2010,Female,F,93,2508534,3.7
+,Colorado,8,2010,2010,Male,M,149,2520662,5.9
+,Colorado,8,2011,2011,Female,F,140,2549601,5.5
+,Colorado,8,2011,2011,Male,M,216,2567195,8.4
+,Colorado,8,2012,2012,Female,F,139,2583877,5.4
+,Colorado,8,2012,2012,Male,M,205,2603705,7.9
+,Colorado,8,2013,2013,Female,F,131,2621921,5
+,Colorado,8,2013,2013,Male,M,228,2646446,8.6
+,Colorado,8,2014,2014,Female,F,153,2664707,5.7
+,Colorado,8,2014,2014,Male,M,277,2691159,10.3
+,Colorado,8,2015,2015,Female,F,157,2712811,5.8
+,Colorado,8,2015,2015,Male,M,274,2743763,10
+,Colorado,8,2016,2016,Female,F,164,2754727,6
+,Colorado,8,2016,2016,Male,M,314,2785818,11.3
+,Colorado,8,2017,2017,Female,F,177,2784821,6.4
+,Colorado,8,2017,2017,Male,M,322,2822333,11.4
+,Colorado,8,2018,2018,Female,F,156,2827696,5.5
+,Colorado,8,2018,2018,Male,M,354,2867868,12.3
+,Colorado,8,2019,2019,Female,F,188,2857388,6.6
+,Colorado,8,2019,2019,Male,M,365,2901348,12.6
+,Colorado,8,2020,2020,Female,F,266,2881832,9.2
+,Colorado,8,2020,2020,Male,M,632,2925887,21.6
+,Connecticut,9,1999,1999,Female,F,26,1747148,1.5
+,Connecticut,9,1999,1999,Male,M,108,1639253,6.6
+,Connecticut,9,2000,2000,Female,F,17,1756246,Unreliable
+,Connecticut,9,2000,2000,Male,M,134,1649319,8.1
+,Connecticut,9,2001,2001,Female,F,25,1768959,1.4
+,Connecticut,9,2001,2001,Male,M,108,1663876,6.5
+,Connecticut,9,2002,2002,Female,F,31,1780500,1.7
+,Connecticut,9,2002,2002,Male,M,122,1678249,7.3
+,Connecticut,9,2003,2003,Female,F,35,1793468,2
+,Connecticut,9,2003,2003,Male,M,125,1690868,7.4
+,Connecticut,9,2004,2004,Female,F,37,1798078,2.1
+,Connecticut,9,2004,2004,Male,M,138,1698016,8.1
+,Connecticut,9,2005,2005,Female,F,39,1802068,2.2
+,Connecticut,9,2005,2005,Male,M,114,1704888,6.7
+,Connecticut,9,2006,2006,Female,F,44,1807675,2.4
+,Connecticut,9,2006,2006,Male,M,166,1709785,9.7
+,Connecticut,9,2007,2007,Female,F,62,1811617,3.4
+,Connecticut,9,2007,2007,Male,M,169,1715653,9.9
+,Connecticut,9,2008,2008,Female,F,57,1820749,3.1
+,Connecticut,9,2008,2008,Male,M,160,1724830,9.3
+,Connecticut,9,2009,2009,Female,F,56,1828779,3.1
+,Connecticut,9,2009,2009,Male,M,149,1733028,8.6
+,Connecticut,9,2010,2010,Female,F,59,1834483,3.2
+,Connecticut,9,2010,2010,Male,M,145,1739614,8.3
+,Connecticut,9,2011,2011,Female,F,54,1835893,2.9
+,Connecticut,9,2011,2011,Male,M,143,1744816,8.2
+,Connecticut,9,2012,2012,Female,F,49,1840431,2.7
+,Connecticut,9,2012,2012,Male,M,145,1749916,8.3
+,Connecticut,9,2013,2013,Female,F,116,1841929,6.3
+,Connecticut,9,2013,2013,Male,M,289,1754151,16.5
+,Connecticut,9,2014,2014,Female,F,148,1842128,8
+,Connecticut,9,2014,2014,Male,M,343,1754549,19.5
+,Connecticut,9,2015,2015,Female,F,164,1839139,8.9
+,Connecticut,9,2015,2015,Male,M,483,1751747,27.6
+,Connecticut,9,2016,2016,Female,F,202,1830837,11
+,Connecticut,9,2016,2016,Male,M,609,1745615,34.9
+,Connecticut,9,2017,2017,Female,F,221,1836384,12
+,Connecticut,9,2017,2017,Male,M,706,1751800,40.3
+,Connecticut,9,2018,2018,Female,F,213,1829270,11.6
+,Connecticut,9,2018,2018,Male,M,701,1743395,40.2
+,Connecticut,9,2019,2019,Female,F,247,1825870,13.5
+,Connecticut,9,2019,2019,Male,M,809,1739417,46.5
+,Connecticut,9,2020,2020,Female,F,298,1822086,16.4
+,Connecticut,9,2020,2020,Male,M,923,1734920,53.2
+,Delaware,10,1999,1999,Female,F,Suppressed,398732,Suppressed
+,Delaware,10,1999,1999,Male,M,20,376258,5.3
+,Delaware,10,2000,2000,Female,F,11,403059,Unreliable
+,Delaware,10,2000,2000,Male,M,12,380541,Unreliable
+,Delaware,10,2001,2001,Female,F,Suppressed,409349,Suppressed
+,Delaware,10,2001,2001,Male,M,16,386350,Unreliable
+,Delaware,10,2002,2002,Female,F,Suppressed,414652,Suppressed
+,Delaware,10,2002,2002,Male,M,29,391517,7.4
+,Delaware,10,2003,2003,Female,F,Suppressed,420802,Suppressed
+,Delaware,10,2003,2003,Male,M,24,397201,6
+,Delaware,10,2004,2004,Female,F,Suppressed,427320,Suppressed
+,Delaware,10,2004,2004,Male,M,21,403483,5.2
+,Delaware,10,2005,2005,Female,F,Suppressed,435227,Suppressed
+,Delaware,10,2005,2005,Male,M,15,409923,Unreliable
+,Delaware,10,2006,2006,Female,F,Suppressed,442766,Suppressed
+,Delaware,10,2006,2006,Male,M,23,416502,5.5
+,Delaware,10,2007,2007,Female,F,13,449398,Unreliable
+,Delaware,10,2007,2007,Male,M,19,422351,Unreliable
+,Delaware,10,2008,2008,Female,F,20,455481,4.4
+,Delaware,10,2008,2008,Male,M,32,428393,7.5
+,Delaware,10,2009,2009,Female,F,23,459795,5
+,Delaware,10,2009,2009,Male,M,39,431935,9
+,Delaware,10,2010,2010,Female,F,36,462995,7.8
+,Delaware,10,2010,2010,Male,M,51,434939,11.7
+,Delaware,10,2011,2011,Female,F,36,467299,7.7
+,Delaware,10,2011,2011,Male,M,50,439836,11.4
+,Delaware,10,2012,2012,Female,F,22,472734,4.7
+,Delaware,10,2012,2012,Male,M,45,444358,10.1
+,Delaware,10,2013,2013,Female,F,28,477802,5.9
+,Delaware,10,2013,2013,Male,M,67,447947,15
+,Delaware,10,2014,2014,Female,F,32,482925,6.6
+,Delaware,10,2014,2014,Male,M,71,452689,15.7
+,Delaware,10,2015,2015,Female,F,42,488125,8.6
+,Delaware,10,2015,2015,Male,M,77,457809,16.8
+,Delaware,10,2016,2016,Female,F,44,491395,9
+,Delaware,10,2016,2016,Male,M,102,460670,22.1
+,Delaware,10,2017,2017,Female,F,69,496425,13.9
+,Delaware,10,2017,2017,Male,M,172,465514,36.9
+,Delaware,10,2018,2018,Female,F,102,499244,20.4
+,Delaware,10,2018,2018,Male,M,239,467927,51.1
+,Delaware,10,2019,2019,Female,F,104,502971,20.7
+,Delaware,10,2019,2019,Male,M,264,470793,56.1
+,Delaware,10,2020,2020,Female,F,129,510069,25.3
+,Delaware,10,2020,2020,Male,M,267,476740,56
+,District of Columbia,11,1999,1999,Female,F,Suppressed,301802,Suppressed
+,District of Columbia,11,1999,1999,Male,M,27,268418,10.1
+,District of Columbia,11,2000,2000,Female,F,12,302693,Unreliable
+,District of Columbia,11,2000,2000,Male,M,26,269366,9.7
+,District of Columbia,11,2001,2001,Female,F,Suppressed,303740,Suppressed
+,District of Columbia,11,2001,2001,Male,M,32,270764,11.8
+,District of Columbia,11,2002,2002,Female,F,Suppressed,303146,Suppressed
+,District of Columbia,11,2002,2002,Male,M,17,270012,Unreliable
+,District of Columbia,11,2003,2003,Female,F,17,300607,Unreliable
+,District of Columbia,11,2003,2003,Male,M,36,267895,13.4
+,District of Columbia,11,2004,2004,Female,F,Suppressed,300284,Suppressed
+,District of Columbia,11,2004,2004,Male,M,35,267470,13.1
+,District of Columbia,11,2005,2005,Female,F,11,299613,Unreliable
+,District of Columbia,11,2005,2005,Male,M,18,267523,Unreliable
+,District of Columbia,11,2006,2006,Female,F,18,301322,Unreliable
+,District of Columbia,11,2006,2006,Male,M,32,269359,11.9
+,District of Columbia,11,2007,2007,Female,F,Suppressed,302949,Suppressed
+,District of Columbia,11,2007,2007,Male,M,13,271455,Unreliable
+,District of Columbia,11,2008,2008,Female,F,Suppressed,306265,Suppressed
+,District of Columbia,11,2008,2008,Male,M,16,273971,Unreliable
+,District of Columbia,11,2009,2009,Female,F,0,311828,Unreliable
+,District of Columbia,11,2009,2009,Male,M,Suppressed,280400,Suppressed
+,District of Columbia,11,2010,2010,Female,F,Suppressed,317501,Suppressed
+,District of Columbia,11,2010,2010,Male,M,22,284222,7.7
+,District of Columbia,11,2011,2011,Female,F,12,325775,Unreliable
+,District of Columbia,11,2011,2011,Male,M,27,292221,9.2
+,District of Columbia,11,2012,2012,Female,F,16,333282,Unreliable
+,District of Columbia,11,2012,2012,Male,M,20,299041,6.7
+,District of Columbia,11,2013,2013,Female,F,11,340199,Unreliable
+,District of Columbia,11,2013,2013,Male,M,37,306250,12.1
+,District of Columbia,11,2014,2014,Female,F,15,346293,Unreliable
+,District of Columbia,11,2014,2014,Male,M,41,312600,13.1
+,District of Columbia,11,2015,2015,Female,F,25,353627,7.1
+,District of Columbia,11,2015,2015,Male,M,67,318601,21
+,District of Columbia,11,2016,2016,Female,F,52,357940,14.5
+,District of Columbia,11,2016,2016,Male,M,135,323230,41.8
+,District of Columbia,11,2017,2017,Female,F,68,364773,18.6
+,District of Columbia,11,2017,2017,Male,M,157,329199,47.7
+,District of Columbia,11,2018,2018,Female,F,39,369148,10.6
+,District of Columbia,11,2018,2018,Male,M,136,333307,40.8
+,District of Columbia,11,2019,2019,Female,F,57,371038,15.4
+,District of Columbia,11,2019,2019,Male,M,168,334711,50.2
+,District of Columbia,11,2020,2020,Female,F,89,374884,23.7
+,District of Columbia,11,2020,2020,Male,M,220,337932,65.1
+,Florida,12,1999,1999,Female,F,75,8073847,0.9
+,Florida,12,1999,1999,Male,M,227,7685574,3
+,Florida,12,2000,2000,Female,F,107,8184663,1.3
+,Florida,12,2000,2000,Male,M,342,7797715,4.4
+,Florida,12,2001,2001,Female,F,185,8372776,2.2
+,Florida,12,2001,2001,Male,M,539,7984190,6.8
+,Florida,12,2002,2002,Female,F,239,8541734,2.8
+,Florida,12,2002,2002,Male,M,549,8147636,6.7
+,Florida,12,2003,2003,Female,F,264,8697573,3
+,Florida,12,2003,2003,Male,M,657,8306512,7.9
+,Florida,12,2004,2004,Female,F,328,8902447,3.7
+,Florida,12,2004,2004,Male,M,682,8512871,8
+,Florida,12,2005,2005,Female,F,287,9117950,3.1
+,Florida,12,2005,2005,Male,M,655,8724088,7.5
+,Florida,12,2006,2006,Female,F,325,9280080,3.5
+,Florida,12,2006,2006,Male,M,730,8886910,8.2
+,Florida,12,2007,2007,Female,F,420,9378587,4.5
+,Florida,12,2007,2007,Male,M,876,8989255,9.7
+,Florida,12,2008,2008,Female,F,375,9465279,4
+,Florida,12,2008,2008,Male,M,900,9062026,9.9
+,Florida,12,2009,2009,Female,F,459,9534289,4.8
+,Florida,12,2009,2009,Male,M,908,9118355,10
+,Florida,12,2010,2010,Female,F,471,9611955,4.9
+,Florida,12,2010,2010,Male,M,992,9189355,10.8
+,Florida,12,2011,2011,Female,F,496,9736166,5.1
+,Florida,12,2011,2011,Male,M,896,9321376,9.6
+,Florida,12,2012,2012,Female,F,439,9869741,4.4
+,Florida,12,2012,2012,Male,M,714,9447827,7.6
+,Florida,12,2013,2013,Female,F,396,9990213,4
+,Florida,12,2013,2013,Male,M,696,9562647,7.3
+,Florida,12,2014,2014,Female,F,445,10170011,4.4
+,Florida,12,2014,2014,Male,M,791,9723286,8.1
+,Florida,12,2015,2015,Female,F,567,10368733,5.5
+,Florida,12,2015,2015,Male,M,1109,9902539,11.2
+,Florida,12,2016,2016,Female,F,762,10542288,7.2
+,Florida,12,2016,2016,Male,M,1860,10070151,18.5
+,Florida,12,2017,2017,Female,F,896,10727581,8.4
+,Florida,12,2017,2017,Male,M,2153,10256819,21
+,Florida,12,2018,2018,Female,F,943,10887548,8.7
+,Florida,12,2018,2018,Male,M,2053,10411777,19.7
+,Florida,12,2019,2019,Female,F,1021,10980681,9.3
+,Florida,12,2019,2019,Male,M,2552,10497056,24.3
+,Florida,12,2020,2020,Female,F,1456,11113132,13.1
+,Florida,12,2020,2020,Male,M,3857,10620180,36.3
+,Georgia,13,1999,1999,Female,F,12,4096032,Unreliable
+,Georgia,13,1999,1999,Male,M,57,3949934,1.4
+,Georgia,13,2000,2000,Female,F,25,4159340,0.6
+,Georgia,13,2000,2000,Male,M,73,4027113,1.8
+,Georgia,13,2001,2001,Female,F,41,4256162,1
+,Georgia,13,2001,2001,Male,M,113,4120876,2.7
+,Georgia,13,2002,2002,Female,F,58,4327934,1.3
+,Georgia,13,2002,2002,Male,M,132,4180322,3.2
+,Georgia,13,2003,2003,Female,F,74,4394952,1.7
+,Georgia,13,2003,2003,Male,M,139,4227841,3.3
+,Georgia,13,2004,2004,Female,F,88,4463524,2
+,Georgia,13,2004,2004,Male,M,142,4305728,3.3
+,Georgia,13,2005,2005,Female,F,92,4555263,2
+,Georgia,13,2005,2005,Male,M,178,4370659,4.1
+,Georgia,13,2006,2006,Female,F,107,4670606,2.3
+,Georgia,13,2006,2006,Male,M,194,4485207,4.3
+,Georgia,13,2007,2007,Female,F,127,4777572,2.7
+,Georgia,13,2007,2007,Male,M,232,4572416,5.1
+,Georgia,13,2008,2008,Female,F,117,4856984,2.4
+,Georgia,13,2008,2008,Male,M,246,4647859,5.3
+,Georgia,13,2009,2009,Female,F,161,4917756,3.3
+,Georgia,13,2009,2009,Male,M,277,4703090,5.9
+,Georgia,13,2010,2010,Female,F,196,4958482,4
+,Georgia,13,2010,2010,Male,M,277,4729171,5.9
+,Georgia,13,2011,2011,Female,F,214,5012403,4.3
+,Georgia,13,2011,2011,Male,M,287,4802807,6
+,Georgia,13,2012,2012,Female,F,200,5068921,3.9
+,Georgia,13,2012,2012,Male,M,296,4851024,6.1
+,Georgia,13,2013,2013,Female,F,195,5110806,3.8
+,Georgia,13,2013,2013,Male,M,290,4881361,5.9
+,Georgia,13,2014,2014,Female,F,239,5170356,4.6
+,Georgia,13,2014,2014,Male,M,421,4926987,8.5
+,Georgia,13,2015,2015,Female,F,312,5234978,6
+,Georgia,13,2015,2015,Male,M,489,4979882,9.8
+,Georgia,13,2016,2016,Female,F,327,5289906,6.2
+,Georgia,13,2016,2016,Male,M,529,5020465,10.5
+,Georgia,13,2017,2017,Female,F,341,5353872,6.4
+,Georgia,13,2017,2017,Male,M,615,5075507,12.1
+,Georgia,13,2018,2018,Female,F,282,5404059,5.2
+,Georgia,13,2018,2018,Male,M,527,5115416,10.3
+,Georgia,13,2019,2019,Female,F,260,5456999,4.8
+,Georgia,13,2019,2019,Male,M,536,5160424,10.4
+,Georgia,13,2020,2020,Female,F,417,5508468,7.6
+,Georgia,13,2020,2020,Male,M,846,5201549,16.3
+,Hawaii,15,1999,1999,Female,F,Suppressed,601830,Suppressed
+,Hawaii,15,1999,1999,Male,M,11,608470,Unreliable
+,Hawaii,15,2000,2000,Female,F,Suppressed,602866,Suppressed
+,Hawaii,15,2000,2000,Male,M,15,608671,Unreliable
+,Hawaii,15,2001,2001,Female,F,Suppressed,609189,Suppressed
+,Hawaii,15,2001,2001,Male,M,20,616759,3.2
+,Hawaii,15,2002,2002,Female,F,Suppressed,616192,Suppressed
+,Hawaii,15,2002,2002,Male,M,29,623421,4.7
+,Hawaii,15,2003,2003,Female,F,Suppressed,623753,Suppressed
+,Hawaii,15,2003,2003,Male,M,27,627401,4.3
+,Hawaii,15,2004,2004,Female,F,Suppressed,636864,Suppressed
+,Hawaii,15,2004,2004,Male,M,32,636705,5
+,Hawaii,15,2005,2005,Female,F,12,644813,Unreliable
+,Hawaii,15,2005,2005,Male,M,27,647916,4.2
+,Hawaii,15,2006,2006,Female,F,12,652351,Unreliable
+,Hawaii,15,2006,2006,Male,M,27,657380,4.1
+,Hawaii,15,2007,2007,Female,F,Suppressed,657185,Suppressed
+,Hawaii,15,2007,2007,Male,M,42,658490,6.4
+,Hawaii,15,2008,2008,Female,F,16,665313,Unreliable
+,Hawaii,15,2008,2008,Male,M,19,666900,Unreliable
+,Hawaii,15,2009,2009,Female,F,Suppressed,673075,Suppressed
+,Hawaii,15,2009,2009,Male,M,27,673642,4
+,Hawaii,15,2010,2010,Female,F,13,679058,Unreliable
+,Hawaii,15,2010,2010,Male,M,35,681243,5.1
+,Hawaii,15,2011,2011,Female,F,13,685005,Unreliable
+,Hawaii,15,2011,2011,Male,M,36,689805,5.2
+,Hawaii,15,2012,2012,Female,F,13,690348,Unreliable
+,Hawaii,15,2012,2012,Male,M,29,701965,4.1
+,Hawaii,15,2013,2013,Female,F,20,694440,2.9
+,Hawaii,15,2013,2013,Male,M,36,709614,5.1
+,Hawaii,15,2014,2014,Female,F,18,701462,Unreliable
+,Hawaii,15,2014,2014,Male,M,26,718099,3.6
+,Hawaii,15,2015,2015,Female,F,15,706231,Unreliable
+,Hawaii,15,2015,2015,Male,M,35,725372,4.8
+,Hawaii,15,2016,2016,Female,F,22,710942,3.1
+,Hawaii,15,2016,2016,Male,M,44,717615,6.1
+,Hawaii,15,2017,2017,Female,F,13,711451,Unreliable
+,Hawaii,15,2017,2017,Male,M,29,716087,4
+,Hawaii,15,2018,2018,Female,F,14,709489,Unreliable
+,Hawaii,15,2018,2018,Male,M,40,711002,5.6
+,Hawaii,15,2019,2019,Female,F,13,707832,Unreliable
+,Hawaii,15,2019,2019,Male,M,30,708040,4.2
+,Hawaii,15,2020,2020,Female,F,19,702640,Unreliable
+,Hawaii,15,2020,2020,Male,M,50,704366,7.1
+,Idaho,16,1999,1999,Female,F,Suppressed,636799,Suppressed
+,Idaho,16,1999,1999,Male,M,14,638876,Unreliable
+,Idaho,16,2000,2000,Female,F,Suppressed,645293,Suppressed
+,Idaho,16,2000,2000,Male,M,11,648660,Unreliable
+,Idaho,16,2001,2001,Female,F,11,658043,Unreliable
+,Idaho,16,2001,2001,Male,M,25,661919,3.8
+,Idaho,16,2002,2002,Female,F,12,668686,Unreliable
+,Idaho,16,2002,2002,Male,M,17,671686,Unreliable
+,Idaho,16,2003,2003,Female,F,18,679877,Unreliable
+,Idaho,16,2003,2003,Male,M,21,683503,3.1
+,Idaho,16,2004,2004,Female,F,13,693186,Unreliable
+,Idaho,16,2004,2004,Male,M,24,698616,3.4
+,Idaho,16,2005,2005,Female,F,Suppressed,711983,Suppressed
+,Idaho,16,2005,2005,Male,M,23,716258,3.2
+,Idaho,16,2006,2006,Female,F,21,732104,2.9
+,Idaho,16,2006,2006,Male,M,32,736565,4.3
+,Idaho,16,2007,2007,Female,F,20,750127,2.7
+,Idaho,16,2007,2007,Male,M,29,754978,3.8
+,Idaho,16,2008,2008,Female,F,15,764792,Unreliable
+,Idaho,16,2008,2008,Male,M,34,769528,4.4
+,Idaho,16,2009,2009,Female,F,20,775398,2.6
+,Idaho,16,2009,2009,Male,M,23,779041,3
+,Idaho,16,2010,2010,Female,F,27,782258,3.5
+,Idaho,16,2010,2010,Male,M,31,785324,3.9
+,Idaho,16,2011,2011,Female,F,24,791358,3
+,Idaho,16,2011,2011,Male,M,29,793627,3.7
+,Idaho,16,2012,2012,Female,F,17,797116,Unreliable
+,Idaho,16,2012,2012,Male,M,23,798612,2.9
+,Idaho,16,2013,2013,Female,F,28,805052,3.5
+,Idaho,16,2013,2013,Male,M,30,807084,3.7
+,Idaho,16,2014,2014,Female,F,35,815968,4.3
+,Idaho,16,2014,2014,Male,M,27,818496,3.3
+,Idaho,16,2015,2015,Female,F,30,826183,3.6
+,Idaho,16,2015,2015,Male,M,42,828747,5.1
+,Idaho,16,2016,2016,Female,F,30,839608,3.6
+,Idaho,16,2016,2016,Male,M,66,843532,7.8
+,Idaho,16,2017,2017,Female,F,33,856485,3.9
+,Idaho,16,2017,2017,Male,M,47,860458,5.5
+,Idaho,16,2018,2018,Female,F,40,875131,4.6
+,Idaho,16,2018,2018,Male,M,58,879077,6.6
+,Idaho,16,2019,2019,Female,F,51,891137,5.7
+,Idaho,16,2019,2019,Male,M,59,895928,6.6
+,Idaho,16,2020,2020,Female,F,59,910789,6.5
+,Idaho,16,2020,2020,Male,M,85,916124,9.3
+,Illinois,17,1999,1999,Female,F,84,6313352,1.3
+,Illinois,17,1999,1999,Male,M,365,6045671,6
+,Illinois,17,2000,2000,Female,F,110,6338957,1.7
+,Illinois,17,2000,2000,Male,M,412,6080336,6.8
+,Illinois,17,2001,2001,Female,F,91,6370443,1.4
+,Illinois,17,2001,2001,Male,M,382,6118002,6.2
+,Illinois,17,2002,2002,Female,F,122,6387897,1.9
+,Illinois,17,2002,2002,Male,M,392,6137659,6.4
+,Illinois,17,2003,2003,Female,F,118,6402859,1.8
+,Illinois,17,2003,2003,Male,M,306,6153147,5
+,Illinois,17,2004,2004,Female,F,113,6414209,1.8
+,Illinois,17,2004,2004,Male,M,379,6175564,6.1
+,Illinois,17,2005,2005,Female,F,135,6423831,2.1
+,Illinois,17,2005,2005,Male,M,418,6186072,6.8
+,Illinois,17,2006,2006,Female,F,166,6440022,2.6
+,Illinois,17,2006,2006,Male,M,651,6203933,10.5
+,Illinois,17,2007,2007,Female,F,184,6467577,2.8
+,Illinois,17,2007,2007,Male,M,446,6228289,7.2
+,Illinois,17,2008,2008,Female,F,198,6493537,3
+,Illinois,17,2008,2008,Male,M,572,6253501,9.1
+,Illinois,17,2009,2009,Female,F,195,6520723,3
+,Illinois,17,2009,2009,Male,M,604,6276055,9.6
+,Illinois,17,2010,2010,Female,F,232,6538356,3.5
+,Illinois,17,2010,2010,Male,M,552,6292276,8.8
+,Illinois,17,2011,2011,Female,F,227,6555063,3.5
+,Illinois,17,2011,2011,Male,M,613,6314194,9.7
+,Illinois,17,2012,2012,Female,F,277,6555800,4.2
+,Illinois,17,2012,2012,Male,M,792,6319455,12.5
+,Illinois,17,2013,2013,Female,F,257,6555652,3.9
+,Illinois,17,2013,2013,Male,M,718,6326483,11.3
+,Illinois,17,2014,2014,Female,F,336,6559694,5.1
+,Illinois,17,2014,2014,Male,M,755,6320886,11.9
+,Illinois,17,2015,2015,Female,F,389,6545500,5.9
+,Illinois,17,2015,2015,Male,M,884,6314495,14
+,Illinois,17,2016,2016,Female,F,478,6509748,7.3
+,Illinois,17,2016,2016,Male,M,1338,6291791,21.3
+,Illinois,17,2017,2017,Female,F,574,6509545,8.8
+,Illinois,17,2017,2017,Male,M,1505,6292478,23.9
+,Illinois,17,2018,2018,Female,F,569,6480179,8.8
+,Illinois,17,2018,2018,Male,M,1475,6260901,23.6
+,Illinois,17,2019,2019,Female,F,586,6445263,9.1
+,Illinois,17,2019,2019,Male,M,1545,6226558,24.8
+,Illinois,17,2020,2020,Female,F,733,6402224,11.4
+,Illinois,17,2020,2020,Male,M,2131,6185306,34.5
+,Indiana,18,1999,1999,Female,F,Suppressed,3083354,Suppressed
+,Indiana,18,1999,1999,Male,M,23,2961618,0.8
+,Indiana,18,2000,2000,Female,F,Suppressed,3098011,Suppressed
+,Indiana,18,2000,2000,Male,M,25,2982474,0.8
+,Indiana,18,2001,2001,Female,F,Suppressed,3120158,Suppressed
+,Indiana,18,2001,2001,Male,M,30,3007602,1
+,Indiana,18,2002,2002,Female,F,Suppressed,3133342,Suppressed
+,Indiana,18,2002,2002,Male,M,23,3022625,0.8
+,Indiana,18,2003,2003,Female,F,25,3152366,0.8
+,Indiana,18,2003,2003,Male,M,72,3044272,2.4
+,Indiana,18,2004,2004,Female,F,20,3168952,0.6
+,Indiana,18,2004,2004,Male,M,72,3064055,2.3
+,Indiana,18,2005,2005,Female,F,34,3191481,1.1
+,Indiana,18,2005,2005,Male,M,80,3087135,2.6
+,Indiana,18,2006,2006,Female,F,36,3218203,1.1
+,Indiana,18,2006,2006,Male,M,71,3114466,2.3
+,Indiana,18,2007,2007,Female,F,47,3241454,1.4
+,Indiana,18,2007,2007,Male,M,113,3138145,3.6
+,Indiana,18,2008,2008,Female,F,59,3263963,1.8
+,Indiana,18,2008,2008,Male,M,131,3160843,4.1
+,Indiana,18,2009,2009,Female,F,86,3281477,2.6
+,Indiana,18,2009,2009,Male,M,171,3177848,5.4
+,Indiana,18,2010,2010,Female,F,74,3294065,2.2
+,Indiana,18,2010,2010,Male,M,153,3189737,4.8
+,Indiana,18,2011,2011,Female,F,99,3309937,3
+,Indiana,18,2011,2011,Male,M,192,3206985,6
+,Indiana,18,2012,2012,Female,F,93,3319144,2.8
+,Indiana,18,2012,2012,Male,M,217,3218190,6.7
+,Indiana,18,2013,2013,Female,F,87,3334634,2.6
+,Indiana,18,2013,2013,Male,M,219,3236268,6.8
+,Indiana,18,2014,2014,Female,F,114,3347411,3.4
+,Indiana,18,2014,2014,Male,M,262,3249444,8.1
+,Indiana,18,2015,2015,Female,F,138,3357815,4.1
+,Indiana,18,2015,2015,Male,M,339,3261865,10.4
+,Indiana,18,2016,2016,Female,F,237,3363491,7
+,Indiana,18,2016,2016,Male,M,476,3269562,14.6
+,Indiana,18,2017,2017,Female,F,365,3379723,10.8
+,Indiana,18,2017,2017,Male,M,719,3287095,21.9
+,Indiana,18,2018,2018,Female,F,341,3391576,10.1
+,Indiana,18,2018,2018,Male,M,672,3300302,20.4
+,Indiana,18,2019,2019,Female,F,384,3411859,11.3
+,Indiana,18,2019,2019,Male,M,774,3320360,23.3
+,Indiana,18,2020,2020,Female,F,509,3422994,14.9
+,Indiana,18,2020,2020,Male,M,1220,3331959,36.6
+,Iowa,19,1999,1999,Female,F,Suppressed,1488226,Suppressed
+,Iowa,19,1999,1999,Male,M,Suppressed,1429411,Suppressed
+,Iowa,19,2000,2000,Female,F,Suppressed,1490809,Suppressed
+,Iowa,19,2000,2000,Male,M,Suppressed,1435515,Suppressed
+,Iowa,19,2001,2001,Female,F,Suppressed,1492287,Suppressed
+,Iowa,19,2001,2001,Male,M,10,1439710,Unreliable
+,Iowa,19,2002,2002,Female,F,15,1491450,Unreliable
+,Iowa,19,2002,2002,Male,M,16,1442784,Unreliable
+,Iowa,19,2003,2003,Female,F,Suppressed,1493907,Suppressed
+,Iowa,19,2003,2003,Male,M,19,1448092,Unreliable
+,Iowa,19,2004,2004,Female,F,12,1498888,Unreliable
+,Iowa,19,2004,2004,Male,M,26,1454747,1.8
+,Iowa,19,2005,2005,Female,F,23,1503019,1.5
+,Iowa,19,2005,2005,Male,M,31,1461435,2.1
+,Iowa,19,2006,2006,Female,F,22,1511124,1.5
+,Iowa,19,2006,2006,Male,M,44,1471520,3
+,Iowa,19,2007,2007,Female,F,20,1518023,1.3
+,Iowa,19,2007,2007,Male,M,50,1481189,3.4
+,Iowa,19,2008,2008,Female,F,33,1525539,2.2
+,Iowa,19,2008,2008,Male,M,55,1491195,3.7
+,Iowa,19,2009,2009,Female,F,37,1532739,2.4
+,Iowa,19,2009,2009,Male,M,70,1500131,4.7
+,Iowa,19,2010,2010,Female,F,39,1538036,2.5
+,Iowa,19,2010,2010,Male,M,74,1508319,4.9
+,Iowa,19,2011,2011,Female,F,54,1544894,3.5
+,Iowa,19,2011,2011,Male,M,78,1517415,5.1
+,Iowa,19,2012,2012,Female,F,57,1549698,3.7
+,Iowa,19,2012,2012,Male,M,79,1524488,5.2
+,Iowa,19,2013,2013,Female,F,74,1557015,4.8
+,Iowa,19,2013,2013,Male,M,73,1533401,4.8
+,Iowa,19,2014,2014,Female,F,56,1564081,3.6
+,Iowa,19,2014,2014,Male,M,80,1543045,5.2
+,Iowa,19,2015,2015,Female,F,60,1571873,3.8
+,Iowa,19,2015,2015,Male,M,88,1552026,5.7
+,Iowa,19,2016,2016,Female,F,48,1575574,3
+,Iowa,19,2016,2016,Male,M,113,1559119,7.2
+,Iowa,19,2017,2017,Female,F,69,1580978,4.4
+,Iowa,19,2017,2017,Male,M,107,1564733,6.8
+,Iowa,19,2018,2018,Female,F,37,1585338,2.3
+,Iowa,19,2018,2018,Male,M,85,1570807,5.4
+,Iowa,19,2019,2019,Female,F,44,1583995,2.8
+,Iowa,19,2019,2019,Male,M,95,1571075,6
+,Iowa,19,2020,2020,Female,F,65,1587866,4.1
+,Iowa,19,2020,2020,Male,M,131,1575695,8.3
+,Kansas,20,1999,1999,Female,F,Suppressed,1356046,Suppressed
+,Kansas,20,1999,1999,Male,M,18,1322294,Unreliable
+,Kansas,20,2000,2000,Female,F,Suppressed,1359944,Suppressed
+,Kansas,20,2000,2000,Male,M,12,1328474,Unreliable
+,Kansas,20,2001,2001,Female,F,15,1365966,Unreliable
+,Kansas,20,2001,2001,Male,M,23,1336196,1.7
+,Kansas,20,2002,2002,Female,F,19,1371898,Unreliable
+,Kansas,20,2002,2002,Male,M,39,1341637,2.9
+,Kansas,20,2003,2003,Female,F,18,1377415,Unreliable
+,Kansas,20,2003,2003,Male,M,36,1345589,2.7
+,Kansas,20,2004,2004,Female,F,28,1382396,2
+,Kansas,20,2004,2004,Male,M,51,1351977,3.8
+,Kansas,20,2005,2005,Female,F,25,1387958,1.8
+,Kansas,20,2005,2005,Male,M,58,1357341,4.3
+,Kansas,20,2006,2006,Female,F,43,1394092,3.1
+,Kansas,20,2006,2006,Male,M,41,1368839,3
+,Kansas,20,2007,2007,Female,F,26,1405705,1.8
+,Kansas,20,2007,2007,Male,M,52,1378080,3.8
+,Kansas,20,2008,2008,Female,F,31,1415563,2.2
+,Kansas,20,2008,2008,Male,M,45,1392513,3.2
+,Kansas,20,2009,2009,Female,F,48,1428139,3.4
+,Kansas,20,2009,2009,Male,M,72,1404565,5.1
+,Kansas,20,2010,2010,Female,F,28,1437710,1.9
+,Kansas,20,2010,2010,Male,M,57,1415408,4
+,Kansas,20,2011,2011,Female,F,33,1445436,2.3
+,Kansas,20,2011,2011,Male,M,58,1425802,4.1
+,Kansas,20,2012,2012,Female,F,57,1450624,3.9
+,Kansas,20,2012,2012,Male,M,90,1435281,6.3
+,Kansas,20,2013,2013,Female,F,56,1452009,3.9
+,Kansas,20,2013,2013,Male,M,75,1441948,5.2
+,Kansas,20,2014,2014,Female,F,57,1456666,3.9
+,Kansas,20,2014,2014,Male,M,83,1447355,5.7
+,Kansas,20,2015,2015,Female,F,60,1458008,4.1
+,Kansas,20,2015,2015,Male,M,69,1453633,4.7
+,Kansas,20,2016,2016,Female,F,46,1459530,3.2
+,Kansas,20,2016,2016,Male,M,73,1447759,5
+,Kansas,20,2017,2017,Female,F,52,1461167,3.6
+,Kansas,20,2017,2017,Male,M,66,1451956,4.5
+,Kansas,20,2018,2018,Female,F,51,1461099,3.5
+,Kansas,20,2018,2018,Male,M,81,1450406,5.6
+,Kansas,20,2019,2019,Female,F,65,1461617,4.4
+,Kansas,20,2019,2019,Male,M,102,1451697,7
+,Kansas,20,2020,2020,Female,F,76,1462265,5.2
+,Kansas,20,2020,2020,Male,M,164,1451540,11.3
+,Kentucky,21,1999,1999,Female,F,Suppressed,2056401,Suppressed
+,Kentucky,21,1999,1999,Male,M,34,1961652,1.7
+,Kentucky,21,2000,2000,Female,F,24,2066401,1.2
+,Kentucky,21,2000,2000,Male,M,63,1975368,3.2
+,Kentucky,21,2001,2001,Female,F,41,2076871,2
+,Kentucky,21,2001,2001,Male,M,84,1991261,4.2
+,Kentucky,21,2002,2002,Female,F,47,2087223,2.3
+,Kentucky,21,2002,2002,Male,M,111,2002652,5.5
+,Kentucky,21,2003,2003,Female,F,73,2102308,3.5
+,Kentucky,21,2003,2003,Male,M,141,2014862,7
+,Kentucky,21,2004,2004,Female,F,68,2112051,3.2
+,Kentucky,21,2004,2004,Male,M,137,2034050,6.7
+,Kentucky,21,2005,2005,Female,F,77,2129658,3.6
+,Kentucky,21,2005,2005,Male,M,182,2053084,8.9
+,Kentucky,21,2006,2006,Female,F,96,2149096,4.5
+,Kentucky,21,2006,2006,Male,M,195,2070143,9.4
+,Kentucky,21,2007,2007,Female,F,87,2164210,4
+,Kentucky,21,2007,2007,Male,M,213,2092462,10.2
+,Kentucky,21,2008,2008,Female,F,102,2183532,4.7
+,Kentucky,21,2008,2008,Male,M,214,2106346,10.2
+,Kentucky,21,2009,2009,Female,F,117,2193136,5.3
+,Kentucky,21,2009,2009,Male,M,250,2123938,11.8
+,Kentucky,21,2010,2010,Female,F,175,2204415,7.9
+,Kentucky,21,2010,2010,Male,M,364,2134952,17
+,Kentucky,21,2011,2011,Female,F,223,2219482,10
+,Kentucky,21,2011,2011,Male,M,391,2149874,18.2
+,Kentucky,21,2012,2012,Female,F,235,2222704,10.6
+,Kentucky,21,2012,2012,Male,M,374,2157711,17.3
+,Kentucky,21,2013,2013,Female,F,202,2231899,9.1
+,Kentucky,21,2013,2013,Male,M,388,2163396,17.9
+,Kentucky,21,2014,2014,Female,F,245,2240299,10.9
+,Kentucky,21,2014,2014,Male,M,438,2173158,20.2
+,Kentucky,21,2015,2015,Female,F,287,2245998,12.8
+,Kentucky,21,2015,2015,Male,M,533,2179094,24.5
+,Kentucky,21,2016,2016,Female,F,330,2250421,14.7
+,Kentucky,21,2016,2016,Male,M,600,2186553,27.4
+,Kentucky,21,2017,2017,Female,F,409,2259871,18.1
+,Kentucky,21,2017,2017,Male,M,707,2194318,32.2
+,Kentucky,21,2018,2018,Female,F,329,2266891,14.5
+,Kentucky,21,2018,2018,Male,M,623,2201511,28.3
+,Kentucky,21,2019,2019,Female,F,353,2266644,15.6
+,Kentucky,21,2019,2019,Male,M,646,2201029,29.3
+,Kentucky,21,2020,2020,Female,F,501,2271906,22.1
+,Kentucky,21,2020,2020,Male,M,1152,2205345,52.2
+,Louisiana,22,1999,1999,Female,F,Suppressed,2302747,Suppressed
+,Louisiana,22,1999,1999,Male,M,19,2158067,Unreliable
+,Louisiana,22,2000,2000,Female,F,14,2306073,Unreliable
+,Louisiana,22,2000,2000,Male,M,34,2162903,1.6
+,Louisiana,22,2001,2001,Female,F,14,2308063,Unreliable
+,Louisiana,22,2001,2001,Male,M,54,2169812,2.5
+,Louisiana,22,2002,2002,Female,F,23,2315524,1
+,Louisiana,22,2002,2002,Male,M,53,2181743,2.4
+,Louisiana,22,2003,2003,Female,F,25,2327153,1.1
+,Louisiana,22,2003,2003,Male,M,82,2193889,3.7
+,Louisiana,22,2004,2004,Female,F,41,2338753,1.8
+,Louisiana,22,2004,2004,Male,M,83,2213485,3.7
+,Louisiana,22,2005,2005,Female,F,39,2349441,1.7
+,Louisiana,22,2005,2005,Male,M,112,2227187,5
+,Louisiana,22,2006,2006,Female,F,59,2204072,2.7
+,Louisiana,22,2006,2006,Male,M,121,2098593,5.8
+,Louisiana,22,2007,2007,Female,F,61,2239125,2.7
+,Louisiana,22,2007,2007,Male,M,127,2136456,5.9
+,Louisiana,22,2008,2008,Female,F,38,2269630,1.7
+,Louisiana,22,2008,2008,Male,M,75,2165956,3.5
+,Louisiana,22,2009,2009,Female,F,28,2295199,1.2
+,Louisiana,22,2009,2009,Male,M,76,2196449,3.5
+,Louisiana,22,2010,2010,Female,F,39,2314080,1.7
+,Louisiana,22,2010,2010,Male,M,60,2219292,2.7
+,Louisiana,22,2011,2011,Female,F,48,2336467,2.1
+,Louisiana,22,2011,2011,Male,M,49,2238369,2.2
+,Louisiana,22,2012,2012,Female,F,47,2349843,2
+,Louisiana,22,2012,2012,Male,M,100,2252050,4.4
+,Louisiana,22,2013,2013,Female,F,82,2361537,3.5
+,Louisiana,22,2013,2013,Male,M,169,2263933,7.5
+,Louisiana,22,2014,2014,Female,F,67,2375737,2.8
+,Louisiana,22,2014,2014,Male,M,179,2273939,7.9
+,Louisiana,22,2015,2015,Female,F,97,2386915,4.1
+,Louisiana,22,2015,2015,Male,M,179,2283809,7.8
+,Louisiana,22,2016,2016,Female,F,116,2392296,4.8
+,Louisiana,22,2016,2016,Male,M,211,2289370,9.2
+,Louisiana,22,2017,2017,Female,F,113,2394887,4.7
+,Louisiana,22,2017,2017,Male,M,278,2289446,12.1
+,Louisiana,22,2018,2018,Female,F,125,2385219,5.2
+,Louisiana,22,2018,2018,Male,M,304,2274759,13.4
+,Louisiana,22,2019,2019,Female,F,162,2381744,6.8
+,Louisiana,22,2019,2019,Male,M,357,2267050,15.7
+,Louisiana,22,2020,2020,Female,F,254,2381158,10.7
+,Louisiana,22,2020,2020,Male,M,623,2264160,27.5
+,Maine,23,1999,1999,Female,F,Suppressed,650598,Suppressed
+,Maine,23,1999,1999,Male,M,15,616210,Unreliable
+,Maine,23,2000,2000,Female,F,Suppressed,654614,Suppressed
+,Maine,23,2000,2000,Male,M,29,620309,4.7
+,Maine,23,2001,2001,Female,F,12,659657,Unreliable
+,Maine,23,2001,2001,Male,M,32,626035,5.1
+,Maine,23,2002,2002,Female,F,33,664226,5
+,Maine,23,2002,2002,Male,M,51,631734,8.1
+,Maine,23,2003,2003,Female,F,26,668680,3.9
+,Maine,23,2003,2003,Male,M,51,637833,8
+,Maine,23,2004,2004,Female,F,28,671862,4.2
+,Maine,23,2004,2004,Male,M,60,641826,9.3
+,Maine,23,2005,2005,Female,F,36,674104,5.3
+,Maine,23,2005,2005,Male,M,72,644683,11.2
+,Maine,23,2006,2006,Female,F,23,676157,3.4
+,Maine,23,2006,2006,Male,M,65,647462,10
+,Maine,23,2007,2007,Female,F,28,677797,4.1
+,Maine,23,2007,2007,Male,M,62,649243,9.5
+,Maine,23,2008,2008,Female,F,37,679413,5.4
+,Maine,23,2008,2008,Male,M,57,651096,8.8
+,Maine,23,2009,2009,Female,F,36,678694,5.3
+,Maine,23,2009,2009,Male,M,64,650896,9.8
+,Maine,23,2010,2010,Female,F,25,678305,3.7
+,Maine,23,2010,2010,Male,M,56,650056,8.6
+,Maine,23,2011,2011,Female,F,26,678125,3.8
+,Maine,23,2011,2011,Male,M,52,650063,8
+,Maine,23,2012,2012,Female,F,25,678914,3.7
+,Maine,23,2012,2012,Male,M,61,650278,9.4
+,Maine,23,2013,2013,Female,F,36,678082,5.3
+,Maine,23,2013,2013,Male,M,72,650220,11.1
+,Maine,23,2014,2014,Female,F,48,678818,7.1
+,Maine,23,2014,2014,Male,M,109,651271,16.7
+,Maine,23,2015,2015,Female,F,66,678071,9.7
+,Maine,23,2015,2015,Male,M,155,651257,23.8
+,Maine,23,2016,2016,Female,F,84,678894,12.4
+,Maine,23,2016,2016,Male,M,200,652585,30.6
+,Maine,23,2017,2017,Female,F,80,681387,11.7
+,Maine,23,2017,2017,Male,M,260,654520,39.7
+,Maine,23,2018,2018,Female,F,64,683031,9.4
+,Maine,23,2018,2018,Male,M,206,655373,31.4
+,Maine,23,2019,2019,Female,F,83,686100,12.1
+,Maine,23,2019,2019,Male,M,225,658112,34.2
+,Maine,23,2020,2020,Female,F,112,688840,16.3
+,Maine,23,2020,2020,Male,M,289,661301,43.7
+,Maryland,24,1999,1999,Female,F,Suppressed,2716930,Suppressed
+,Maryland,24,1999,1999,Male,M,11,2537581,Unreliable
+,Maryland,24,2000,2000,Female,F,Suppressed,2738692,Suppressed
+,Maryland,24,2000,2000,Male,M,16,2557794,Unreliable
+,Maryland,24,2001,2001,Female,F,Suppressed,2779864,Suppressed
+,Maryland,24,2001,2001,Male,M,12,2594827,Unreliable
+,Maryland,24,2002,2002,Female,F,Suppressed,2815197,Suppressed
+,Maryland,24,2002,2002,Male,M,12,2625192,Unreliable
+,Maryland,24,2003,2003,Female,F,Suppressed,2843847,Suppressed
+,Maryland,24,2003,2003,Male,M,16,2652422,Unreliable
+,Maryland,24,2004,2004,Female,F,Suppressed,2870043,Suppressed
+,Maryland,24,2004,2004,Male,M,15,2676892,Unreliable
+,Maryland,24,2005,2005,Female,F,Suppressed,2891761,Suppressed
+,Maryland,24,2005,2005,Male,M,19,2700618,Unreliable
+,Maryland,24,2006,2006,Female,F,Suppressed,2907963,Suppressed
+,Maryland,24,2006,2006,Male,M,18,2719404,Unreliable
+,Maryland,24,2007,2007,Female,F,Suppressed,2920109,Suppressed
+,Maryland,24,2007,2007,Male,M,19,2733299,Unreliable
+,Maryland,24,2008,2008,Female,F,Suppressed,2935788,Suppressed
+,Maryland,24,2008,2008,Male,M,17,2749177,Unreliable
+,Maryland,24,2009,2009,Female,F,14,2960001,Unreliable
+,Maryland,24,2009,2009,Male,M,32,2770387,1.2
+,Maryland,24,2010,2010,Female,F,24,2981790,0.8
+,Maryland,24,2010,2010,Male,M,30,2791762,1.1
+,Maryland,24,2011,2011,Female,F,29,3007715,1
+,Maryland,24,2011,2011,Male,M,55,2820574,1.9
+,Maryland,24,2012,2012,Female,F,46,3034160,1.5
+,Maryland,24,2012,2012,Male,M,91,2850403,3.2
+,Maryland,24,2013,2013,Female,F,68,3054052,2.2
+,Maryland,24,2013,2013,Male,M,122,2874762,4.2
+,Maryland,24,2014,2014,Female,F,69,3079989,2.2
+,Maryland,24,2014,2014,Male,M,112,2896418,3.9
+,Maryland,24,2015,2015,Female,F,88,3095316,2.8
+,Maryland,24,2015,2015,Male,M,183,2911085,6.3
+,Maryland,24,2016,2016,Female,F,122,3101981,3.9
+,Maryland,24,2016,2016,Male,M,341,2914466,11.7
+,Maryland,24,2017,2017,Female,F,163,3118023,5.2
+,Maryland,24,2017,2017,Male,M,351,2934154,12
+,Maryland,24,2018,2018,Female,F,133,3113797,4.3
+,Maryland,24,2018,2018,Male,M,374,2928921,12.8
+,Maryland,24,2019,2019,Female,F,116,3116815,3.7
+,Maryland,24,2019,2019,Male,M,360,2928865,12.3
+,Maryland,24,2020,2020,Female,F,238,3123228,7.6
+,Maryland,24,2020,2020,Male,M,614,2932574,20.9
+,Massachusetts,25,1999,1999,Female,F,10,3274830,Unreliable
+,Massachusetts,25,1999,1999,Male,M,14,3042515,Unreliable
+,Massachusetts,25,2000,2000,Female,F,Suppressed,3290281,Suppressed
+,Massachusetts,25,2000,2000,Male,M,22,3058816,0.7
+,Massachusetts,25,2001,2001,Female,F,Suppressed,3312567,Suppressed
+,Massachusetts,25,2001,2001,Male,M,27,3085067,0.9
+,Massachusetts,25,2002,2002,Female,F,Suppressed,3319436,Suppressed
+,Massachusetts,25,2002,2002,Male,M,25,3097770,0.8
+,Massachusetts,25,2003,2003,Female,F,11,3320817,Unreliable
+,Massachusetts,25,2003,2003,Male,M,26,3101748,0.8
+,Massachusetts,25,2004,2004,Female,F,15,3314634,Unreliable
+,Massachusetts,25,2004,2004,Male,M,46,3097647,1.5
+,Massachusetts,25,2005,2005,Female,F,138,3309010,4.2
+,Massachusetts,25,2005,2005,Male,M,361,3094280,11.7
+,Massachusetts,25,2006,2006,Female,F,171,3311185,5.2
+,Massachusetts,25,2006,2006,Male,M,438,3098899,14.1
+,Massachusetts,25,2007,2007,Female,F,180,3321653,5.4
+,Massachusetts,25,2007,2007,Male,M,412,3109906,13.2
+,Massachusetts,25,2008,2008,Female,F,137,3340730,4.1
+,Massachusetts,25,2008,2008,Male,M,406,3128237,13
+,Massachusetts,25,2009,2009,Female,F,164,3365859,4.9
+,Massachusetts,25,2009,2009,Male,M,408,3151754,12.9
+,Massachusetts,25,2010,2010,Female,F,143,3381001,4.2
+,Massachusetts,25,2010,2010,Male,M,356,3166628,11.2
+,Massachusetts,25,2011,2011,Female,F,164,3397995,4.8
+,Massachusetts,25,2011,2011,Male,M,429,3189541,13.5
+,Massachusetts,25,2012,2012,Female,F,191,3425771,5.6
+,Massachusetts,25,2012,2012,Male,M,447,3220373,13.9
+,Massachusetts,25,2013,2013,Female,F,238,3448008,6.9
+,Massachusetts,25,2013,2013,Male,M,598,3244816,18.4
+,Massachusetts,25,2014,2014,Female,F,297,3474584,8.5
+,Massachusetts,25,2014,2014,Male,M,800,3270824,24.5
+,Massachusetts,25,2015,2015,Female,F,366,3498304,10.5
+,Massachusetts,25,2015,2015,Male,M,1144,3296118,34.7
+,Massachusetts,25,2016,2016,Female,F,504,3506128,14.4
+,Massachusetts,25,2016,2016,Male,M,1427,3305651,43.2
+,Massachusetts,25,2017,2017,Female,F,437,3529454,12.4
+,Massachusetts,25,2017,2017,Male,M,1433,3330365,43
+,Massachusetts,25,2018,2018,Female,F,530,3551621,14.9
+,Massachusetts,25,2018,2018,Male,M,1419,3350528,42.4
+,Massachusetts,25,2019,2019,Female,F,466,3546935,13.1
+,Massachusetts,25,2019,2019,Male,M,1454,3345568,43.5
+,Massachusetts,25,2020,2020,Female,F,531,3546542,15
+,Massachusetts,25,2020,2020,Male,M,1465,3347032,43.8
+,Michigan,26,1999,1999,Female,F,18,5047771,Unreliable
+,Michigan,26,1999,1999,Male,M,59,4849346,1.2
+,Michigan,26,2000,2000,Female,F,23,5065349,0.5
+,Michigan,26,2000,2000,Male,M,100,4873095,2.1
+,Michigan,26,2001,2001,Female,F,36,5089289,0.7
+,Michigan,26,2001,2001,Male,M,96,4901831,2
+,Michigan,26,2002,2002,Female,F,36,5100171,0.7
+,Michigan,26,2002,2002,Male,M,104,4915539,2.1
+,Michigan,26,2003,2003,Female,F,55,5110521,1.1
+,Michigan,26,2003,2003,Male,M,113,4930631,2.3
+,Michigan,26,2004,2004,Female,F,79,5117929,1.5
+,Michigan,26,2004,2004,Male,M,156,4937386,3.2
+,Michigan,26,2005,2005,Female,F,116,5114320,2.3
+,Michigan,26,2005,2005,Male,M,257,4936817,5.2
+,Michigan,26,2006,2006,Female,F,150,5106621,2.9
+,Michigan,26,2006,2006,Male,M,337,4929460,6.8
+,Michigan,26,2007,2007,Female,F,125,5091035,2.5
+,Michigan,26,2007,2007,Male,M,301,4910249,6.1
+,Michigan,26,2008,2008,Female,F,168,5065899,3.3
+,Michigan,26,2008,2008,Male,M,360,4880990,7.4
+,Michigan,26,2009,2009,Female,F,180,5044338,3.6
+,Michigan,26,2009,2009,Male,M,424,4857253,8.7
+,Michigan,26,2010,2010,Female,F,189,5035526,3.8
+,Michigan,26,2010,2010,Male,M,389,4848114,8
+,Michigan,26,2011,2011,Female,F,209,5030242,4.2
+,Michigan,26,2011,2011,Male,M,393,4845945,8.1
+,Michigan,26,2012,2012,Female,F,206,5032849,4.1
+,Michigan,26,2012,2012,Male,M,383,4850511,7.9
+,Michigan,26,2013,2013,Female,F,275,5036338,5.5
+,Michigan,26,2013,2013,Male,M,538,4859284,11.1
+,Michigan,26,2014,2014,Female,F,300,5041414,6
+,Michigan,26,2014,2014,Male,M,629,4868463,12.9
+,Michigan,26,2015,2015,Female,F,385,5044428,7.6
+,Michigan,26,2015,2015,Male,M,801,4878148,16.4
+,Michigan,26,2016,2016,Female,F,491,5043554,9.7
+,Michigan,26,2016,2016,Male,M,1096,4884746,22.4
+,Michigan,26,2017,2017,Female,F,608,5058559,12
+,Michigan,26,2017,2017,Male,M,1238,4903752,25.2
+,Michigan,26,2018,2018,Female,F,623,5073772,12.3
+,Michigan,26,2018,2018,Male,M,1236,4922143,25.1
+,Michigan,26,2019,2019,Female,F,501,5068329,9.9
+,Michigan,26,2019,2019,Male,M,1142,4918528,23.2
+,Michigan,26,2020,2020,Female,F,588,5058742,11.6
+,Michigan,26,2020,2020,Male,M,1428,4907813,29.1
+,Minnesota,27,1999,1999,Female,F,10,2462931,Unreliable
+,Minnesota,27,1999,1999,Male,M,29,2410550,1.2
+,Minnesota,27,2000,2000,Female,F,11,2483848,Unreliable
+,Minnesota,27,2000,2000,Male,M,33,2435631,1.4
+,Minnesota,27,2001,2001,Female,F,14,2514149,Unreliable
+,Minnesota,27,2001,2001,Male,M,54,2468647,2.2
+,Minnesota,27,2002,2002,Female,F,19,2531205,Unreliable
+,Minnesota,27,2002,2002,Male,M,62,2487730,2.5
+,Minnesota,27,2003,2003,Female,F,24,2546999,0.9
+,Minnesota,27,2003,2003,Male,M,62,2506573,2.5
+,Minnesota,27,2004,2004,Female,F,32,2564037,1.2
+,Minnesota,27,2004,2004,Male,M,70,2523676,2.8
+,Minnesota,27,2005,2005,Female,F,32,2579546,1.2
+,Minnesota,27,2005,2005,Male,M,79,2540052,3.1
+,Minnesota,27,2006,2006,Female,F,28,2600951,1.1
+,Minnesota,27,2006,2006,Male,M,89,2562604,3.5
+,Minnesota,27,2007,2007,Female,F,44,2622551,1.7
+,Minnesota,27,2007,2007,Male,M,93,2584652,3.6
+,Minnesota,27,2008,2008,Female,F,59,2642672,2.2
+,Minnesota,27,2008,2008,Male,M,110,2604346,4.2
+,Minnesota,27,2009,2009,Female,F,62,2659958,2.3
+,Minnesota,27,2009,2009,Male,M,148,2621245,5.6
+,Minnesota,27,2010,2010,Female,F,68,2671793,2.5
+,Minnesota,27,2010,2010,Male,M,119,2632132,4.5
+,Minnesota,27,2011,2011,Female,F,88,2689958,3.3
+,Minnesota,27,2011,2011,Male,M,165,2654903,6.2
+,Minnesota,27,2012,2012,Female,F,102,2706970,3.8
+,Minnesota,27,2012,2012,Male,M,152,2672169,5.7
+,Minnesota,27,2013,2013,Female,F,86,2727081,3.2
+,Minnesota,27,2013,2013,Male,M,186,2693299,6.9
+,Minnesota,27,2014,2014,Female,F,96,2745132,3.5
+,Minnesota,27,2014,2014,Male,M,186,2712041,6.9
+,Minnesota,27,2015,2015,Female,F,106,2759730,3.8
+,Minnesota,27,2015,2015,Male,M,188,2729864,6.9
+,Minnesota,27,2016,2016,Female,F,103,2772322,3.7
+,Minnesota,27,2016,2016,Male,M,259,2747630,9.4
+,Minnesota,27,2017,2017,Female,F,137,2799760,4.9
+,Minnesota,27,2017,2017,Male,M,249,2776846,9
+,Minnesota,27,2018,2018,Female,F,109,2816378,3.9
+,Minnesota,27,2018,2018,Male,M,216,2794801,7.7
+,Minnesota,27,2019,2019,Female,F,127,2829821,4.5
+,Minnesota,27,2019,2019,Male,M,266,2809811,9.5
+,Minnesota,27,2020,2020,Female,F,208,2838748,7.3
+,Minnesota,27,2020,2020,Male,M,428,2818594,15.2
+,Mississippi,28,1999,1999,Female,F,Suppressed,1464583,Suppressed
+,Mississippi,28,1999,1999,Male,M,Suppressed,1363829,Suppressed
+,Mississippi,28,2000,2000,Female,F,Suppressed,1471104,Suppressed
+,Mississippi,28,2000,2000,Male,M,Suppressed,1373554,Suppressed
+,Mississippi,28,2001,2001,Female,F,Suppressed,1473486,Suppressed
+,Mississippi,28,2001,2001,Male,M,11,1379508,Unreliable
+,Mississippi,28,2002,2002,Female,F,0,1475412,Unreliable
+,Mississippi,28,2002,2002,Male,M,22,1383269,1.6
+,Mississippi,28,2003,2003,Female,F,Suppressed,1479611,Suppressed
+,Mississippi,28,2003,2003,Male,M,19,1388701,Unreliable
+,Mississippi,28,2004,2004,Female,F,Suppressed,1490115,Suppressed
+,Mississippi,28,2004,2004,Male,M,16,1398895,Unreliable
+,Mississippi,28,2005,2005,Female,F,Suppressed,1497962,Suppressed
+,Mississippi,28,2005,2005,Male,M,16,1407981,Unreliable
+,Mississippi,28,2006,2006,Female,F,17,1496313,Unreliable
+,Mississippi,28,2006,2006,Male,M,29,1408665,2.1
+,Mississippi,28,2007,2007,Female,F,24,1507071,1.6
+,Mississippi,28,2007,2007,Male,M,51,1421279,3.6
+,Mississippi,28,2008,2008,Female,F,36,1516955,2.4
+,Mississippi,28,2008,2008,Male,M,47,1430851,3.3
+,Mississippi,28,2009,2009,Female,F,24,1522000,1.6
+,Mississippi,28,2009,2009,Male,M,48,1436774,3.3
+,Mississippi,28,2010,2010,Female,F,31,1526057,2
+,Mississippi,28,2010,2010,Male,M,47,1441240,3.3
+,Mississippi,28,2011,2011,Female,F,38,1531968,2.5
+,Mississippi,28,2011,2011,Male,M,30,1446544,2.1
+,Mississippi,28,2012,2012,Female,F,49,1535635,3.2
+,Mississippi,28,2012,2012,Male,M,52,1449291,3.6
+,Mississippi,28,2013,2013,Female,F,47,1536620,3.1
+,Mississippi,28,2013,2013,Male,M,41,1454587,2.8
+,Mississippi,28,2014,2014,Female,F,42,1539523,2.7
+,Mississippi,28,2014,2014,Male,M,63,1454556,4.3
+,Mississippi,28,2015,2015,Female,F,43,1540483,2.8
+,Mississippi,28,2015,2015,Male,M,95,1451850,6.5
+,Mississippi,28,2016,2016,Female,F,62,1539934,4
+,Mississippi,28,2016,2016,Male,M,102,1448792,7
+,Mississippi,28,2017,2017,Female,F,65,1538222,4.2
+,Mississippi,28,2017,2017,Male,M,105,1445878,7.3
+,Mississippi,28,2018,2018,Female,F,67,1538795,4.4
+,Mississippi,28,2018,2018,Male,M,95,1447735,6.6
+,Mississippi,28,2019,2019,Female,F,81,1533857,5.3
+,Mississippi,28,2019,2019,Male,M,152,1442292,10.5
+,Mississippi,28,2020,2020,Female,F,133,1530971,8.7
+,Mississippi,28,2020,2020,Male,M,257,1435815,17.9
+,Missouri,29,1999,1999,Female,F,10,2860168,Unreliable
+,Missouri,29,1999,1999,Male,M,64,2701782,2.4
+,Missouri,29,2000,2000,Female,F,31,2875034,1.1
+,Missouri,29,2000,2000,Male,M,76,2720177,2.8
+,Missouri,29,2001,2001,Female,F,30,2895476,1
+,Missouri,29,2001,2001,Male,M,67,2745666,2.4
+,Missouri,29,2002,2002,Female,F,41,2910476,1.4
+,Missouri,29,2002,2002,Male,M,109,2764349,3.9
+,Missouri,29,2003,2003,Female,F,58,2926556,2
+,Missouri,29,2003,2003,Male,M,148,2782847,5.3
+,Missouri,29,2004,2004,Female,F,71,2942685,2.4
+,Missouri,29,2004,2004,Male,M,156,2805056,5.6
+,Missouri,29,2005,2005,Female,F,91,2962870,3.1
+,Missouri,29,2005,2005,Male,M,161,2827430,5.7
+,Missouri,29,2006,2006,Female,F,114,2987563,3.8
+,Missouri,29,2006,2006,Male,M,231,2855141,8.1
+,Missouri,29,2007,2007,Female,F,116,3007493,3.9
+,Missouri,29,2007,2007,Male,M,230,2880119,8
+,Missouri,29,2008,2008,Female,F,125,3024837,4.1
+,Missouri,29,2008,2008,Male,M,286,2899079,9.9
+,Missouri,29,2009,2009,Female,F,132,3042021,4.3
+,Missouri,29,2009,2009,Male,M,323,2919067,11.1
+,Missouri,29,2010,2010,Female,F,165,3055450,5.4
+,Missouri,29,2010,2010,Male,M,371,2933477,12.6
+,Missouri,29,2011,2011,Female,F,160,3066254,5.2
+,Missouri,29,2011,2011,Male,M,358,2944434,12.2
+,Missouri,29,2012,2012,Female,F,158,3070952,5.1
+,Missouri,29,2012,2012,Male,M,317,2951036,10.7
+,Missouri,29,2013,2013,Female,F,195,3080214,6.3
+,Missouri,29,2013,2013,Male,M,353,2963957,11.9
+,Missouri,29,2014,2014,Female,F,217,3089367,7
+,Missouri,29,2014,2014,Male,M,408,2974222,13.7
+,Missouri,29,2015,2015,Female,F,217,3098627,7
+,Missouri,29,2015,2015,Male,M,400,2985045,13.4
+,Missouri,29,2016,2016,Female,F,270,3100965,8.7
+,Missouri,29,2016,2016,Male,M,578,2992035,19.3
+,Missouri,29,2017,2017,Female,F,280,3111296,9
+,Missouri,29,2017,2017,Male,M,608,3002236,20.3
+,Missouri,29,2018,2018,Female,F,339,3118889,10.9
+,Missouri,29,2018,2018,Male,M,744,3007563,24.7
+,Missouri,29,2019,2019,Female,F,324,3124766,10.4
+,Missouri,29,2019,2019,Male,M,710,3012662,23.6
+,Missouri,29,2020,2020,Female,F,394,3133825,12.6
+,Missouri,29,2020,2020,Male,M,932,3017723,30.9
+,Montana,30,1999,1999,Female,F,Suppressed,450545,Suppressed
+,Montana,30,1999,1999,Male,M,Suppressed,446966,Suppressed
+,Montana,30,2000,2000,Female,F,Suppressed,452715,Suppressed
+,Montana,30,2000,2000,Male,M,Suppressed,449480,Suppressed
+,Montana,30,2001,2001,Female,F,Suppressed,454683,Suppressed
+,Montana,30,2001,2001,Male,M,Suppressed,452278,Suppressed
+,Montana,30,2002,2002,Female,F,Suppressed,456712,Suppressed
+,Montana,30,2002,2002,Male,M,Suppressed,454955,Suppressed
+,Montana,30,2003,2003,Female,F,11,460116,Unreliable
+,Montana,30,2003,2003,Male,M,13,459514,Unreliable
+,Montana,30,2004,2004,Female,F,13,465000,Unreliable
+,Montana,30,2004,2004,Male,M,18,465009,Unreliable
+,Montana,30,2005,2005,Female,F,15,469780,Unreliable
+,Montana,30,2005,2005,Male,M,16,470322,Unreliable
+,Montana,30,2006,2006,Female,F,Suppressed,475341,Suppressed
+,Montana,30,2006,2006,Male,M,24,477351,5
+,Montana,30,2007,2007,Female,F,19,480939,Unreliable
+,Montana,30,2007,2007,Male,M,25,483767,5.2
+,Montana,30,2008,2008,Female,F,24,486477,4.9
+,Montana,30,2008,2008,Male,M,35,489938,7.1
+,Montana,30,2009,2009,Female,F,31,490122,6.3
+,Montana,30,2009,2009,Male,M,41,493860,8.3
+,Montana,30,2010,2010,Female,F,14,492748,Unreliable
+,Montana,30,2010,2010,Male,M,19,496667,Unreliable
+,Montana,30,2011,2011,Female,F,22,496966,4.4
+,Montana,30,2011,2011,Male,M,27,501233,5.4
+,Montana,30,2012,2012,Female,F,11,500192,Unreliable
+,Montana,30,2012,2012,Male,M,28,504949,5.5
+,Montana,30,2013,2013,Female,F,25,505367,4.9
+,Montana,30,2013,2013,Male,M,26,509798,5.1
+,Montana,30,2014,2014,Female,F,17,509456,Unreliable
+,Montana,30,2014,2014,Male,M,22,514123,4.3
+,Montana,30,2015,2015,Female,F,16,513619,Unreliable
+,Montana,30,2015,2015,Male,M,17,519330,Unreliable
+,Montana,30,2016,2016,Female,F,13,517745,Unreliable
+,Montana,30,2016,2016,Male,M,22,524775,4.2
+,Montana,30,2017,2017,Female,F,11,521537,Unreliable
+,Montana,30,2017,2017,Male,M,24,528956,4.5
+,Montana,30,2018,2018,Female,F,21,527453,4
+,Montana,30,2018,2018,Male,M,29,534852,5.4
+,Montana,30,2019,2019,Female,F,22,530712,4.1
+,Montana,30,2019,2019,Male,M,39,538066,7.2
+,Montana,30,2020,2020,Female,F,19,536476,Unreliable
+,Montana,30,2020,2020,Male,M,60,544101,11
+,Nebraska,31,1999,1999,Female,F,Suppressed,865532,Suppressed
+,Nebraska,31,1999,1999,Male,M,Suppressed,839233,Suppressed
+,Nebraska,31,2000,2000,Female,F,Suppressed,867912,Suppressed
+,Nebraska,31,2000,2000,Male,M,Suppressed,843351,Suppressed
+,Nebraska,31,2001,2001,Female,F,Suppressed,871208,Suppressed
+,Nebraska,31,2001,2001,Male,M,11,848628,Unreliable
+,Nebraska,31,2002,2002,Female,F,Suppressed,874803,Suppressed
+,Nebraska,31,2002,2002,Male,M,10,853489,Unreliable
+,Nebraska,31,2003,2003,Female,F,Suppressed,879362,Suppressed
+,Nebraska,31,2003,2003,Male,M,Suppressed,859281,Suppressed
+,Nebraska,31,2004,2004,Female,F,Suppressed,883984,Suppressed
+,Nebraska,31,2004,2004,Male,M,12,865386,Unreliable
+,Nebraska,31,2005,2005,Female,F,Suppressed,889468,Suppressed
+,Nebraska,31,2005,2005,Male,M,15,872029,Unreliable
+,Nebraska,31,2006,2006,Female,F,Suppressed,894687,Suppressed
+,Nebraska,31,2006,2006,Male,M,13,878006,Unreliable
+,Nebraska,31,2007,2007,Female,F,15,900106,Unreliable
+,Nebraska,31,2007,2007,Male,M,12,883334,Unreliable
+,Nebraska,31,2008,2008,Female,F,13,905814,Unreliable
+,Nebraska,31,2008,2008,Male,M,13,890564,Unreliable
+,Nebraska,31,2009,2009,Female,F,29,913619,3.2
+,Nebraska,31,2009,2009,Male,M,24,899064,2.7
+,Nebraska,31,2010,2010,Female,F,22,920045,2.4
+,Nebraska,31,2010,2010,Male,M,22,906296,2.4
+,Nebraska,31,2011,2011,Female,F,19,927392,Unreliable
+,Nebraska,31,2011,2011,Male,M,26,915249,2.8
+,Nebraska,31,2012,2012,Female,F,24,933223,2.6
+,Nebraska,31,2012,2012,Male,M,28,922302,3
+,Nebraska,31,2013,2013,Female,F,18,938690,Unreliable
+,Nebraska,31,2013,2013,Male,M,17,929826,Unreliable
+,Nebraska,31,2014,2014,Female,F,16,944640,Unreliable
+,Nebraska,31,2014,2014,Male,M,28,936863,3
+,Nebraska,31,2015,2015,Female,F,18,951022,Unreliable
+,Nebraska,31,2015,2015,Male,M,33,945168,3.5
+,Nebraska,31,2016,2016,Female,F,11,956445,Unreliable
+,Nebraska,31,2016,2016,Male,M,29,950671,3.1
+,Nebraska,31,2017,2017,Female,F,19,961945,Unreliable
+,Nebraska,31,2017,2017,Male,M,31,958131,3.2
+,Nebraska,31,2018,2018,Female,F,24,965886,2.5
+,Nebraska,31,2018,2018,Male,M,32,963382,3.3
+,Nebraska,31,2019,2019,Female,F,24,967959,2.5
+,Nebraska,31,2019,2019,Male,M,32,966449,3.3
+,Nebraska,31,2020,2020,Female,F,38,969739,3.9
+,Nebraska,31,2020,2020,Male,M,56,967813,5.8
+,Nevada,32,1999,1999,Female,F,32,949422,3.4
+,Nevada,32,1999,1999,Male,M,70,985297,7.1
+,Nevada,32,2000,2000,Female,F,30,980206,3.1
+,Nevada,32,2000,2000,Male,M,101,1018051,9.9
+,Nevada,32,2001,2001,Female,F,43,1030850,4.2
+,Nevada,32,2001,2001,Male,M,82,1067549,7.7
+,Nevada,32,2002,2002,Female,F,46,1069764,4.3
+,Nevada,32,2002,2002,Male,M,112,1104027,10.1
+,Nevada,32,2003,2003,Female,F,73,1108135,6.6
+,Nevada,32,2003,2003,Male,M,124,1140715,10.9
+,Nevada,32,2004,2004,Female,F,93,1156586,8
+,Nevada,32,2004,2004,Male,M,144,1189636,12.1
+,Nevada,32,2005,2005,Female,F,100,1198846,8.3
+,Nevada,32,2005,2005,Male,M,156,1233297,12.6
+,Nevada,32,2006,2006,Female,F,98,1243993,7.9
+,Nevada,32,2006,2006,Male,M,173,1278665,13.5
+,Nevada,32,2007,2007,Female,F,127,1284052,9.9
+,Nevada,32,2007,2007,Male,M,185,1317020,14
+,Nevada,32,2008,2008,Female,F,122,1310601,9.3
+,Nevada,32,2008,2008,Male,M,208,1343029,15.5
+,Nevada,32,2009,2009,Female,F,164,1327618,12.4
+,Nevada,32,2009,2009,Male,M,213,1357047,15.7
+,Nevada,32,2010,2010,Female,F,162,1336935,12.1
+,Nevada,32,2010,2010,Male,M,214,1363616,15.7
+,Nevada,32,2011,2011,Female,F,154,1348764,11.4
+,Nevada,32,2011,2011,Male,M,245,1374558,17.8
+,Nevada,32,2012,2012,Female,F,170,1367724,12.4
+,Nevada,32,2012,2012,Male,M,205,1391207,14.7
+,Nevada,32,2013,2013,Female,F,150,1384702,10.8
+,Nevada,32,2013,2013,Male,M,183,1405434,13
+,Nevada,32,2014,2014,Female,F,142,1412306,10.1
+,Nevada,32,2014,2014,Male,M,174,1426793,12.2
+,Nevada,32,2015,2015,Female,F,146,1440294,10.1
+,Nevada,32,2015,2015,Male,M,204,1450551,14.1
+,Nevada,32,2016,2016,Female,F,143,1466061,9.8
+,Nevada,32,2016,2016,Male,M,195,1473997,13.2
+,Nevada,32,2017,2017,Female,F,140,1494290,9.4
+,Nevada,32,2017,2017,Male,M,199,1503749,13.2
+,Nevada,32,2018,2018,Female,F,110,1512837,7.3
+,Nevada,32,2018,2018,Male,M,204,1521555,13.4
+,Nevada,32,2019,2019,Female,F,113,1535329,7.4
+,Nevada,32,2019,2019,Male,M,200,1544827,12.9
+,Nevada,32,2020,2020,Female,F,164,1565619,10.5
+,Nevada,32,2020,2020,Male,M,349,1572640,22.2
+,New Hampshire,33,1999,1999,Female,F,Suppressed,621410,Suppressed
+,New Hampshire,33,1999,1999,Male,M,22,600605,3.7
+,New Hampshire,33,2000,2000,Female,F,Suppressed,628099,Suppressed
+,New Hampshire,33,2000,2000,Male,M,21,607687,3.5
+,New Hampshire,33,2001,2001,Female,F,11,637412,Unreliable
+,New Hampshire,33,2001,2001,Male,M,23,618105,3.7
+,New Hampshire,33,2002,2002,Female,F,20,643680,3.1
+,New Hampshire,33,2002,2002,Male,M,40,625409,6.4
+,New Hampshire,33,2003,2003,Female,F,22,648513,3.4
+,New Hampshire,33,2003,2003,Male,M,54,631327,8.6
+,New Hampshire,33,2004,2004,Female,F,26,653845,4
+,New Hampshire,33,2004,2004,Male,M,54,636276,8.5
+,New Hampshire,33,2005,2005,Female,F,25,657932,3.8
+,New Hampshire,33,2005,2005,Male,M,71,640560,11.1
+,New Hampshire,33,2006,2006,Female,F,38,662773,5.7
+,New Hampshire,33,2006,2006,Male,M,52,645616,8.1
+,New Hampshire,33,2007,2007,Female,F,44,664987,6.6
+,New Hampshire,33,2007,2007,Male,M,85,647553,13.1
+,New Hampshire,33,2008,2008,Female,F,33,666576,5
+,New Hampshire,33,2008,2008,Male,M,44,649330,6.8
+,New Hampshire,33,2009,2009,Female,F,32,666875,4.8
+,New Hampshire,33,2009,2009,Male,M,78,649227,12
+,New Hampshire,33,2010,2010,Female,F,28,667076,4.2
+,New Hampshire,33,2010,2010,Male,M,68,649394,10.5
+,New Hampshire,33,2011,2011,Female,F,44,667341,6.6
+,New Hampshire,33,2011,2011,Male,M,84,650853,12.9
+,New Hampshire,33,2012,2012,Female,F,48,668481,7.2
+,New Hampshire,33,2012,2012,Male,M,72,652237,11
+,New Hampshire,33,2013,2013,Female,F,38,669746,5.7
+,New Hampshire,33,2013,2013,Male,M,107,653713,16.4
+,New Hampshire,33,2014,2014,Female,F,69,671344,10.3
+,New Hampshire,33,2014,2014,Male,M,197,655469,30.1
+,New Hampshire,33,2015,2015,Female,F,91,672952,13.5
+,New Hampshire,33,2015,2015,Male,M,267,657656,40.6
+,New Hampshire,33,2016,2016,Female,F,108,673935,16
+,New Hampshire,33,2016,2016,Male,M,306,660860,46.3
+,New Hampshire,33,2017,2017,Female,F,110,677786,16.2
+,New Hampshire,33,2017,2017,Male,M,293,665009,44.1
+,New Hampshire,33,2018,2018,Female,F,107,684192,15.6
+,New Hampshire,33,2018,2018,Male,M,292,672266,43.4
+,New Hampshire,33,2019,2019,Female,F,107,685918,15.6
+,New Hampshire,33,2019,2019,Male,M,247,673793,36.7
+,New Hampshire,33,2020,2020,Female,F,92,689281,13.3
+,New Hampshire,33,2020,2020,Male,M,241,676994,35.6
+,New Jersey,34,1999,1999,Female,F,61,4304272,1.4
+,New Jersey,34,1999,1999,Male,M,226,4055321,5.6
+,New Jersey,34,2000,2000,Female,F,58,4331537,1.3
+,New Jersey,34,2000,2000,Male,M,254,4082813,6.2
+,New Jersey,34,2001,2001,Female,F,68,4369932,1.6
+,New Jersey,34,2001,2001,Male,M,263,4122739,6.4
+,New Jersey,34,2002,2002,Female,F,92,4398801,2.1
+,New Jersey,34,2002,2002,Male,M,335,4153842,8.1
+,New Jersey,34,2003,2003,Female,F,79,4421964,1.8
+,New Jersey,34,2003,2003,Male,M,320,4179438,7.7
+,New Jersey,34,2004,2004,Female,F,73,4436964,1.6
+,New Jersey,34,2004,2004,Male,M,208,4197597,5
+,New Jersey,34,2005,2005,Female,F,97,4443545,2.2
+,New Jersey,34,2005,2005,Male,M,304,4208429,7.2
+,New Jersey,34,2006,2006,Female,F,84,4448099,1.9
+,New Jersey,34,2006,2006,Male,M,254,4213580,6
+,New Jersey,34,2007,2007,Female,F,85,4455148,1.9
+,New Jersey,34,2007,2007,Male,M,222,4222737,5.3
+,New Jersey,34,2008,2008,Female,F,87,4469901,1.9
+,New Jersey,34,2008,2008,Male,M,221,4241189,5.2
+,New Jersey,34,2009,2009,Female,F,Suppressed,4493506,Suppressed
+,New Jersey,34,2009,2009,Male,M,43,4262096,1
+,New Jersey,34,2010,2010,Female,F,102,4512294,2.3
+,New Jersey,34,2010,2010,Male,M,235,4279600,5.5
+,New Jersey,34,2011,2011,Female,F,112,4520963,2.5
+,New Jersey,34,2011,2011,Male,M,295,4300192,6.9
+,New Jersey,34,2012,2012,Female,F,150,4540905,3.3
+,New Jersey,34,2012,2012,Male,M,410,4323685,9.5
+,New Jersey,34,2013,2013,Female,F,193,4555374,4.2
+,New Jersey,34,2013,2013,Male,M,447,4343965,10.3
+,New Jersey,34,2014,2014,Female,F,197,4576223,4.3
+,New Jersey,34,2014,2014,Male,M,485,4361952,11.1
+,New Jersey,34,2015,2015,Female,F,212,4585897,4.6
+,New Jersey,34,2015,2015,Male,M,600,4372116,13.7
+,New Jersey,34,2016,2016,Female,F,344,4576725,7.5
+,New Jersey,34,2016,2016,Male,M,1012,4367744,23.2
+,New Jersey,34,2017,2017,Female,F,476,4609070,10.3
+,New Jersey,34,2017,2017,Male,M,1419,4396574,32.3
+,New Jersey,34,2018,2018,Female,F,659,4556326,14.5
+,New Jersey,34,2018,2018,Male,M,1861,4352194,42.8
+,New Jersey,34,2019,2019,Female,F,638,4541603,14
+,New Jersey,34,2019,2019,Male,M,1813,4340587,41.8
+,New Jersey,34,2020,2020,Female,F,612,4539322,13.5
+,New Jersey,34,2020,2020,Male,M,1887,4343049,43.4
+,New Mexico,35,1999,1999,Female,F,22,918661,2.4
+,New Mexico,35,1999,1999,Male,M,144,889421,16.2
+,New Mexico,35,2000,2000,Female,F,30,924729,3.2
+,New Mexico,35,2000,2000,Male,M,133,894317,14.9
+,New Mexico,35,2001,2001,Female,F,43,930387,4.6
+,New Mexico,35,2001,2001,Male,M,98,901303,10.9
+,New Mexico,35,2002,2002,Female,F,38,941856,4
+,New Mexico,35,2002,2002,Male,M,139,913453,15.2
+,New Mexico,35,2003,2003,Female,F,59,952303,6.2
+,New Mexico,35,2003,2003,Male,M,146,925271,15.8
+,New Mexico,35,2004,2004,Female,F,52,964738,5.4
+,New Mexico,35,2004,2004,Male,M,115,939070,12.2
+,New Mexico,35,2005,2005,Female,F,49,978520,5
+,New Mexico,35,2005,2005,Male,M,147,953754,15.4
+,New Mexico,35,2006,2006,Female,F,69,993969,6.9
+,New Mexico,35,2006,2006,Male,M,141,968168,14.6
+,New Mexico,35,2007,2007,Female,F,55,1007922,5.5
+,New Mexico,35,2007,2007,Male,M,170,982148,17.3
+,New Mexico,35,2008,2008,Female,F,72,1018578,7.1
+,New Mexico,35,2008,2008,Male,M,207,992084,20.9
+,New Mexico,35,2009,2009,Female,F,39,1031238,3.8
+,New Mexico,35,2009,2009,Male,M,128,1005564,12.7
+,New Mexico,35,2010,2010,Female,F,45,1041758,4.3
+,New Mexico,35,2010,2010,Male,M,125,1017421,12.3
+,New Mexico,35,2011,2011,Female,F,67,1052114,6.4
+,New Mexico,35,2011,2011,Male,M,159,1030110,15.4
+,New Mexico,35,2012,2012,Female,F,93,1052831,8.8
+,New Mexico,35,2012,2012,Male,M,189,1032707,18.3
+,New Mexico,35,2013,2013,Female,F,82,1051678,7.8
+,New Mexico,35,2013,2013,Male,M,189,1033609,18.3
+,New Mexico,35,2014,2014,Female,F,143,1052690,13.6
+,New Mexico,35,2014,2014,Male,M,229,1032882,22.2
+,New Mexico,35,2015,2015,Female,F,101,1051688,9.6
+,New Mexico,35,2015,2015,Male,M,212,1033421,20.5
+,New Mexico,35,2016,2016,Female,F,113,1050352,10.8
+,New Mexico,35,2016,2016,Male,M,204,1030663,19.8
+,New Mexico,35,2017,2017,Female,F,93,1053926,8.8
+,New Mexico,35,2017,2017,Male,M,201,1034144,19.4
+,New Mexico,35,2018,2018,Female,F,95,1058143,9
+,New Mexico,35,2018,2018,Male,M,206,1037285,19.9
+,New Mexico,35,2019,2019,Female,F,121,1059397,11.4
+,New Mexico,35,2019,2019,Male,M,251,1037432,24.2
+,New Mexico,35,2020,2020,Female,F,170,1063860,16
+,New Mexico,35,2020,2020,Male,M,345,1042459,33.1
+,New York,36,1999,1999,Female,F,129,9777655,1.3
+,New York,36,1999,1999,Male,M,454,9105071,5
+,New York,36,2000,2000,Female,F,101,9829709,1
+,New York,36,2000,2000,Male,M,351,9146748,3.8
+,New York,36,2001,2001,Female,F,100,9878713,1
+,New York,36,2001,2001,Male,M,473,9204125,5.1
+,New York,36,2002,2002,Female,F,123,9902927,1.2
+,New York,36,2002,2002,Male,M,380,9234873,4.1
+,New York,36,2003,2003,Female,F,116,9917810,1.2
+,New York,36,2003,2003,Male,M,412,9258129,4.5
+,New York,36,2004,2004,Female,F,113,9913527,1.1
+,New York,36,2004,2004,Male,M,328,9258040,3.5
+,New York,36,2005,2005,Female,F,122,9887467,1.2
+,New York,36,2005,2005,Male,M,388,9245143,4.2
+,New York,36,2006,2006,Female,F,225,9871401,2.3
+,New York,36,2006,2006,Male,M,657,9233230,7.1
+,New York,36,2007,2007,Female,F,243,9881510,2.5
+,New York,36,2007,2007,Male,M,597,9250825,6.5
+,New York,36,2008,2008,Female,F,270,9918841,2.7
+,New York,36,2008,2008,Male,M,675,9293595,7.3
+,New York,36,2009,2009,Female,F,265,9966620,2.7
+,New York,36,2009,2009,Male,M,619,9340446,6.6
+,New York,36,2010,2010,Female,F,267,10000955,2.7
+,New York,36,2010,2010,Male,M,619,9377147,6.6
+,New York,36,2011,2011,Female,F,345,10033393,3.4
+,New York,36,2011,2011,Male,M,807,9431804,8.6
+,New York,36,2012,2012,Female,F,380,10081044,3.8
+,New York,36,2012,2012,Male,M,973,9489217,10.3
+,New York,36,2013,2013,Female,F,417,10114934,4.1
+,New York,36,2013,2013,Male,M,1061,9536193,11.1
+,New York,36,2014,2014,Female,F,461,10164966,4.5
+,New York,36,2014,2014,Male,M,1099,9581261,11.5
+,New York,36,2015,2015,Female,F,492,10184278,4.8
+,New York,36,2015,2015,Male,M,1444,9611513,15
+,New York,36,2016,2016,Female,F,720,10157924,7.1
+,New York,36,2016,2016,Male,M,2032,9587365,21.2
+,New York,36,2017,2017,Female,F,698,10211937,6.8
+,New York,36,2017,2017,Male,M,2289,9637462,23.8
+,New York,36,2018,2018,Female,F,734,10053779,7.3
+,New York,36,2018,2018,Male,M,2051,9488430,21.6
+,New York,36,2019,2019,Female,F,718,10005715,7.2
+,New York,36,2019,2019,Male,M,2012,9447846,21.3
+,New York,36,2020,2020,Female,F,983,9946279,9.9
+,New York,36,2020,2020,Male,M,2966,9390497,31.6
+,North Carolina,37,1999,1999,Female,F,27,4062711,0.7
+,North Carolina,37,1999,1999,Male,M,90,3886651,2.3
+,North Carolina,37,2000,2000,Female,F,59,4106618,1.4
+,North Carolina,37,2000,2000,Male,M,154,3942695,3.9
+,North Carolina,37,2001,2001,Female,F,99,4187317,2.4
+,North Carolina,37,2001,2001,Male,M,172,4022805,4.3
+,North Carolina,37,2002,2002,Female,F,105,4250179,2.5
+,North Carolina,37,2002,2002,Male,M,253,4076022,6.2
+,North Carolina,37,2003,2003,Female,F,170,4313901,3.9
+,North Carolina,37,2003,2003,Male,M,275,4108600,6.7
+,North Carolina,37,2004,2004,Female,F,191,4376070,4.4
+,North Carolina,37,2004,2004,Male,M,299,4177082,7.2
+,North Carolina,37,2005,2005,Female,F,202,4457189,4.5
+,North Carolina,37,2005,2005,Male,M,376,4248218,8.9
+,North Carolina,37,2006,2006,Female,F,206,4563152,4.5
+,North Carolina,37,2006,2006,Male,M,404,4354118,9.3
+,North Carolina,37,2007,2007,Female,F,243,4677313,5.2
+,North Carolina,37,2007,2007,Male,M,409,4440724,9.2
+,North Carolina,37,2008,2008,Female,F,255,4771376,5.3
+,North Carolina,37,2008,2008,Male,M,492,4538073,10.8
+,North Carolina,37,2009,2009,Female,F,272,4846501,5.6
+,North Carolina,37,2009,2009,Male,M,463,4603065,10.1
+,North Carolina,37,2010,2010,Female,F,241,4889991,4.9
+,North Carolina,37,2010,2010,Male,M,428,4645492,9.2
+,North Carolina,37,2011,2011,Female,F,285,4952679,5.8
+,North Carolina,37,2011,2011,Male,M,464,4703722,9.9
+,North Carolina,37,2012,2012,Female,F,254,4999175,5.1
+,North Carolina,37,2012,2012,Male,M,486,4752898,10.2
+,North Carolina,37,2013,2013,Female,F,277,5047448,5.5
+,North Carolina,37,2013,2013,Male,M,464,4800612,9.7
+,North Carolina,37,2014,2014,Female,F,312,5099371,6.1
+,North Carolina,37,2014,2014,Male,M,546,4844593,11.3
+,North Carolina,37,2015,2015,Female,F,382,5150777,7.4
+,North Carolina,37,2015,2015,Male,M,677,4892025,13.8
+,North Carolina,37,2016,2016,Female,F,512,5213836,9.8
+,North Carolina,37,2016,2016,Male,M,887,4932952,18
+,North Carolina,37,2017,2017,Female,F,587,5271981,11.1
+,North Carolina,37,2017,2017,Male,M,1247,5001438,24.9
+,North Carolina,37,2018,2018,Female,F,549,5332759,10.3
+,North Carolina,37,2018,2018,Male,M,1139,5050861,22.6
+,North Carolina,37,2019,2019,Female,F,497,5387820,9.2
+,North Carolina,37,2019,2019,Male,M,1236,5100264,24.2
+,North Carolina,37,2020,2020,Female,F,748,5448241,13.7
+,North Carolina,37,2020,2020,Male,M,1803,5152582,35
+,North Dakota,38,1999,1999,Female,F,0,322617,Unreliable
+,North Dakota,38,1999,1999,Male,M,0,321642,Unreliable
+,North Dakota,38,2000,2000,Female,F,Suppressed,321676,Suppressed
+,North Dakota,38,2000,2000,Male,M,Suppressed,320524,Suppressed
+,North Dakota,38,2001,2001,Female,F,0,319787,Unreliable
+,North Dakota,38,2001,2001,Male,M,Suppressed,319275,Suppressed
+,North Dakota,38,2002,2002,Female,F,Suppressed,319017,Suppressed
+,North Dakota,38,2002,2002,Male,M,Suppressed,319151,Suppressed
+,North Dakota,38,2003,2003,Female,F,Suppressed,318896,Suppressed
+,North Dakota,38,2003,2003,Male,M,Suppressed,319921,Suppressed
+,North Dakota,38,2004,2004,Female,F,Suppressed,321008,Suppressed
+,North Dakota,38,2004,2004,Male,M,Suppressed,323697,Suppressed
+,North Dakota,38,2005,2005,Female,F,Suppressed,321543,Suppressed
+,North Dakota,38,2005,2005,Male,M,Suppressed,324546,Suppressed
+,North Dakota,38,2006,2006,Female,F,Suppressed,322583,Suppressed
+,North Dakota,38,2006,2006,Male,M,Suppressed,326839,Suppressed
+,North Dakota,38,2007,2007,Female,F,Suppressed,324066,Suppressed
+,North Dakota,38,2007,2007,Male,M,Suppressed,328756,Suppressed
+,North Dakota,38,2008,2008,Female,F,14,326131,Unreliable
+,North Dakota,38,2008,2008,Male,M,12,331438,Unreliable
+,North Dakota,38,2009,2009,Female,F,Suppressed,329674,Suppressed
+,North Dakota,38,2009,2009,Male,M,Suppressed,335294,Suppressed
+,North Dakota,38,2010,2010,Female,F,Suppressed,332727,Suppressed
+,North Dakota,38,2010,2010,Male,M,Suppressed,339864,Suppressed
+,North Dakota,38,2011,2011,Female,F,Suppressed,337662,Suppressed
+,North Dakota,38,2011,2011,Male,M,Suppressed,346270,Suppressed
+,North Dakota,38,2012,2012,Female,F,Suppressed,343886,Suppressed
+,North Dakota,38,2012,2012,Male,M,Suppressed,355742,Suppressed
+,North Dakota,38,2013,2013,Female,F,Suppressed,353392,Suppressed
+,North Dakota,38,2013,2013,Male,M,Suppressed,370001,Suppressed
+,North Dakota,38,2014,2014,Female,F,Suppressed,360463,Suppressed
+,North Dakota,38,2014,2014,Male,M,18,379019,Unreliable
+,North Dakota,38,2015,2015,Female,F,11,368074,Unreliable
+,North Dakota,38,2015,2015,Male,M,21,388853,5.4
+,North Dakota,38,2016,2016,Female,F,15,368978,Unreliable
+,North Dakota,38,2016,2016,Male,M,32,388974,8.2
+,North Dakota,38,2017,2017,Female,F,14,368094,Unreliable
+,North Dakota,38,2017,2017,Male,M,18,387299,Unreliable
+,North Dakota,38,2018,2018,Female,F,Suppressed,370727,Suppressed
+,North Dakota,38,2018,2018,Male,M,24,389350,6.2
+,North Dakota,38,2019,2019,Female,F,16,372030,Unreliable
+,North Dakota,38,2019,2019,Male,M,24,390032,6.2
+,North Dakota,38,2020,2020,Female,F,22,373494,5.9
+,North Dakota,38,2020,2020,Male,M,46,391815,11.7
+,Ohio,39,1999,1999,Female,F,27,5835020,0.5
+,Ohio,39,1999,1999,Male,M,110,5500437,2
+,Ohio,39,2000,2000,Female,F,48,5840878,0.8
+,Ohio,39,2000,2000,Male,M,158,5512262,2.9
+,Ohio,39,2001,2001,Female,F,77,5853691,1.3
+,Ohio,39,2001,2001,Male,M,200,5533713,3.6
+,Ohio,39,2002,2002,Female,F,102,5859385,1.7
+,Ohio,39,2002,2002,Male,M,252,5548504,4.5
+,Ohio,39,2003,2003,Female,F,89,5868535,1.5
+,Ohio,39,2003,2003,Male,M,223,5566253,4
+,Ohio,39,2004,2004,Female,F,142,5874411,2.4
+,Ohio,39,2004,2004,Male,M,303,5577840,5.4
+,Ohio,39,2005,2005,Female,F,156,5876703,2.7
+,Ohio,39,2005,2005,Male,M,347,5586617,6.2
+,Ohio,39,2006,2006,Female,F,177,5883067,3
+,Ohio,39,2006,2006,Male,M,392,5598146,7
+,Ohio,39,2007,2007,Female,F,208,5890965,3.5
+,Ohio,39,2007,2007,Male,M,443,5609503,7.9
+,Ohio,39,2008,2008,Female,F,224,5896594,3.8
+,Ohio,39,2008,2008,Male,M,514,5618797,9.1
+,Ohio,39,2009,2009,Female,F,185,5902018,3.1
+,Ohio,39,2009,2009,Male,M,388,5626878,6.9
+,Ohio,39,2010,2010,Female,F,343,5904348,5.8
+,Ohio,39,2010,2010,Male,M,677,5632156,12
+,Ohio,39,2011,2011,Female,F,410,5905599,6.9
+,Ohio,39,2011,2011,Male,M,754,5639352,13.4
+,Ohio,39,2012,2012,Female,F,424,5901605,7.2
+,Ohio,39,2012,2012,Male,M,849,5642620,15
+,Ohio,39,2013,2013,Female,F,477,5911149,8.1
+,Ohio,39,2013,2013,Male,M,1062,5659659,18.8
+,Ohio,39,2014,2014,Female,F,656,5919391,11.1
+,Ohio,39,2014,2014,Male,M,1365,5674772,24.1
+,Ohio,39,2015,2015,Female,F,843,5926893,14.2
+,Ohio,39,2015,2015,Male,M,1749,5686530,30.8
+,Ohio,39,2016,2016,Female,F,1089,5922679,18.4
+,Ohio,39,2016,2016,Male,M,2406,5691694,42.3
+,Ohio,39,2017,2017,Female,F,1327,5945509,22.3
+,Ohio,39,2017,2017,Male,M,2834,5713100,49.6
+,Ohio,39,2018,2018,Female,F,1005,5958724,16.9
+,Ohio,39,2018,2018,Male,M,2145,5730718,37.4
+,Ohio,39,2019,2019,Female,F,1044,5958538,17.5
+,Ohio,39,2019,2019,Male,M,2328,5730562,40.6
+,Ohio,39,2020,2020,Female,F,1337,5960556,22.4
+,Ohio,39,2020,2020,Male,M,2973,5732661,51.9
+,Oklahoma,40,1999,1999,Female,F,22,1748784,1.3
+,Oklahoma,40,1999,1999,Male,M,46,1688364,2.7
+,Oklahoma,40,2000,2000,Female,F,31,1754759,1.8
+,Oklahoma,40,2000,2000,Male,M,62,1695895,3.7
+,Oklahoma,40,2001,2001,Female,F,45,1760052,2.6
+,Oklahoma,40,2001,2001,Male,M,85,1707048,5
+,Oklahoma,40,2002,2002,Female,F,50,1769080,2.8
+,Oklahoma,40,2002,2002,Male,M,72,1720000,4.2
+,Oklahoma,40,2003,2003,Female,F,83,1777723,4.7
+,Oklahoma,40,2003,2003,Male,M,130,1727169,7.5
+,Oklahoma,40,2004,2004,Female,F,91,1784671,5.1
+,Oklahoma,40,2004,2004,Male,M,178,1740562,10.2
+,Oklahoma,40,2005,2005,Female,F,111,1796475,6.2
+,Oklahoma,40,2005,2005,Male,M,153,1752122,8.7
+,Oklahoma,40,2006,2006,Female,F,130,1818693,7.1
+,Oklahoma,40,2006,2006,Male,M,207,1775397,11.7
+,Oklahoma,40,2007,2007,Female,F,183,1837175,10
+,Oklahoma,40,2007,2007,Male,M,250,1797174,13.9
+,Oklahoma,40,2008,2008,Female,F,142,1854771,7.7
+,Oklahoma,40,2008,2008,Male,M,219,1814205,12.1
+,Oklahoma,40,2009,2009,Female,F,220,1878034,11.7
+,Oklahoma,40,2009,2009,Male,M,286,1839538,15.5
+,Oklahoma,40,2010,2010,Female,F,175,1894374,9.2
+,Oklahoma,40,2010,2010,Male,M,272,1856977,14.6
+,Oklahoma,40,2011,2011,Female,F,189,1913759,9.9
+,Oklahoma,40,2011,2011,Male,M,239,1877749,12.7
+,Oklahoma,40,2012,2012,Female,F,238,1924995,12.4
+,Oklahoma,40,2012,2012,Male,M,244,1889825,12.9
+,Oklahoma,40,2013,2013,Female,F,220,1943276,11.3
+,Oklahoma,40,2013,2013,Male,M,248,1907292,13
+,Oklahoma,40,2014,2014,Female,F,211,1957903,10.8
+,Oklahoma,40,2014,2014,Male,M,244,1920148,12.7
+,Oklahoma,40,2015,2015,Female,F,186,1974214,9.4
+,Oklahoma,40,2015,2015,Male,M,210,1937124,10.8
+,Oklahoma,40,2016,2016,Female,F,194,1979658,9.8
+,Oklahoma,40,2016,2016,Male,M,217,1943903,11.2
+,Oklahoma,40,2017,2017,Female,F,135,1983302,6.8
+,Oklahoma,40,2017,2017,Male,M,205,1947562,10.5
+,Oklahoma,40,2018,2018,Female,F,95,1990033,4.8
+,Oklahoma,40,2018,2018,Male,M,176,1953046,9
+,Oklahoma,40,2019,2019,Female,F,94,1996313,4.7
+,Oklahoma,40,2019,2019,Male,M,152,1960658,7.8
+,Oklahoma,40,2020,2020,Female,F,112,2009602,5.6
+,Oklahoma,40,2020,2020,Male,M,187,1971181,9.5
+,Oregon,41,1999,1999,Female,F,19,1712226,Unreliable
+,Oregon,41,1999,1999,Male,M,70,1681715,4.2
+,Oregon,41,2000,2000,Female,F,18,1724849,Unreliable
+,Oregon,41,2000,2000,Male,M,58,1696550,3.4
+,Oregon,41,2001,2001,Female,F,27,1747889,1.5
+,Oregon,41,2001,2001,Male,M,69,1720048,4
+,Oregon,41,2002,2002,Female,F,46,1771126,2.6
+,Oregon,41,2002,2002,Male,M,87,1742298,5
+,Oregon,41,2003,2003,Female,F,51,1788805,2.9
+,Oregon,41,2003,2003,Male,M,97,1758571,5.5
+,Oregon,41,2004,2004,Female,F,58,1800377,3.2
+,Oregon,41,2004,2004,Male,M,101,1769086,5.7
+,Oregon,41,2005,2005,Female,F,50,1823447,2.7
+,Oregon,41,2005,2005,Male,M,137,1789755,7.7
+,Oregon,41,2006,2006,Female,F,98,1853117,5.3
+,Oregon,41,2006,2006,Male,M,157,1817766,8.6
+,Oregon,41,2007,2007,Female,F,99,1879347,5.3
+,Oregon,41,2007,2007,Male,M,180,1843070,9.8
+,Oregon,41,2008,2008,Female,F,91,1903535,4.8
+,Oregon,41,2008,2008,Male,M,189,1865213,10.1
+,Oregon,41,2009,2009,Female,F,106,1923209,5.5
+,Oregon,41,2009,2009,Male,M,193,1885391,10.2
+,Oregon,41,2010,2010,Female,F,82,1935072,4.2
+,Oregon,41,2010,2010,Male,M,160,1896002,8.4
+,Oregon,41,2011,2011,Female,F,110,1955239,5.6
+,Oregon,41,2011,2011,Male,M,203,1916620,10.6
+,Oregon,41,2012,2012,Female,F,95,1968641,4.8
+,Oregon,41,2012,2012,Male,M,169,1930712,8.8
+,Oregon,41,2013,2013,Female,F,103,1985655,5.2
+,Oregon,41,2013,2013,Male,M,139,1944410,7.1
+,Oregon,41,2014,2014,Female,F,106,2006139,5.3
+,Oregon,41,2014,2014,Male,M,162,1964100,8.2
+,Oregon,41,2015,2015,Female,F,85,2035807,4.2
+,Oregon,41,2015,2015,Male,M,165,1993170,8.3
+,Oregon,41,2016,2016,Female,F,85,2066455,4.1
+,Oregon,41,2016,2016,Male,M,165,2027010,8.1
+,Oregon,41,2017,2017,Female,F,97,2089787,4.6
+,Oregon,41,2017,2017,Male,M,187,2052989,9.1
+,Oregon,41,2018,2018,Female,F,81,2113219,3.8
+,Oregon,41,2018,2018,Male,M,207,2077494,10
+,Oregon,41,2019,2019,Female,F,78,2127010,3.7
+,Oregon,41,2019,2019,Male,M,204,2090727,9.8
+,Oregon,41,2020,2020,Female,F,145,2139046,6.8
+,Oregon,41,2020,2020,Male,M,317,2102461,15.1
+,Pennsylvania,42,1999,1999,Female,F,43,6347064,0.7
+,Pennsylvania,42,1999,1999,Male,M,176,5916741,3
+,Pennsylvania,42,2000,2000,Female,F,48,6351391,0.8
+,Pennsylvania,42,2000,2000,Male,M,212,5929663,3.6
+,Pennsylvania,42,2001,2001,Female,F,57,6354395,0.9
+,Pennsylvania,42,2001,2001,Male,M,168,5944575,2.8
+,Pennsylvania,42,2002,2002,Female,F,72,6363832,1.1
+,Pennsylvania,42,2002,2002,Male,M,239,5967199,4
+,Pennsylvania,42,2003,2003,Female,F,110,6377894,1.7
+,Pennsylvania,42,2003,2003,Male,M,306,5996764,5.1
+,Pennsylvania,42,2004,2004,Female,F,101,6390749,1.6
+,Pennsylvania,42,2004,2004,Male,M,331,6019973,5.5
+,Pennsylvania,42,2005,2005,Female,F,130,6405053,2
+,Pennsylvania,42,2005,2005,Male,M,323,6044937,5.3
+,Pennsylvania,42,2006,2006,Female,F,107,6429312,1.7
+,Pennsylvania,42,2006,2006,Male,M,273,6081497,4.5
+,Pennsylvania,42,2007,2007,Female,F,107,6452087,1.7
+,Pennsylvania,42,2007,2007,Male,M,325,6111850,5.3
+,Pennsylvania,42,2008,2008,Female,F,172,6473295,2.7
+,Pennsylvania,42,2008,2008,Male,M,379,6138990,6.2
+,Pennsylvania,42,2009,2009,Female,F,153,6497024,2.4
+,Pennsylvania,42,2009,2009,Male,M,392,6169834,6.4
+,Pennsylvania,42,2010,2010,Female,F,164,6512016,2.5
+,Pennsylvania,42,2010,2010,Male,M,385,6190363,6.2
+,Pennsylvania,42,2011,2011,Female,F,219,6528324,3.4
+,Pennsylvania,42,2011,2011,Male,M,462,6214562,7.4
+,Pennsylvania,42,2012,2012,Female,F,235,6533359,3.6
+,Pennsylvania,42,2012,2012,Male,M,521,6230177,8.4
+,Pennsylvania,42,2013,2013,Female,F,273,6531461,4.2
+,Pennsylvania,42,2013,2013,Male,M,613,6242340,9.8
+,Pennsylvania,42,2014,2014,Female,F,313,6533392,4.8
+,Pennsylvania,42,2014,2014,Male,M,692,6253817,11.1
+,Pennsylvania,42,2015,2015,Female,F,374,6538129,5.7
+,Pennsylvania,42,2015,2015,Male,M,894,6264374,14.3
+,Pennsylvania,42,2016,2016,Female,F,598,6523033,9.2
+,Pennsylvania,42,2016,2016,Male,M,1514,6261194,24.2
+,Pennsylvania,42,2017,2017,Female,F,678,6534208,10.4
+,Pennsylvania,42,2017,2017,Male,M,1735,6271329,27.7
+,Pennsylvania,42,2018,2018,Female,F,772,6532400,11.8
+,Pennsylvania,42,2018,2018,Male,M,1933,6274660,30.8
+,Pennsylvania,42,2019,2019,Female,F,808,6527628,12.4
+,Pennsylvania,42,2019,2019,Male,M,2075,6274361,33.1
+,Pennsylvania,42,2020,2020,Female,F,1062,6516212,16.3
+,Pennsylvania,42,2020,2020,Male,M,2686,6267042,42.9
+,Rhode Island,44,1999,1999,Female,F,Suppressed,540724,Suppressed
+,Rhode Island,44,1999,1999,Male,M,Suppressed,499678,Suppressed
+,Rhode Island,44,2000,2000,Female,F,Suppressed,544684,Suppressed
+,Rhode Island,44,2000,2000,Male,M,Suppressed,503635,Suppressed
+,Rhode Island,44,2001,2001,Female,F,Suppressed,548974,Suppressed
+,Rhode Island,44,2001,2001,Male,M,Suppressed,508168,Suppressed
+,Rhode Island,44,2002,2002,Female,F,0,553090,Unreliable
+,Rhode Island,44,2002,2002,Male,M,Suppressed,512905,Suppressed
+,Rhode Island,44,2003,2003,Female,F,Suppressed,555590,Suppressed
+,Rhode Island,44,2003,2003,Male,M,Suppressed,515752,Suppressed
+,Rhode Island,44,2004,2004,Female,F,Suppressed,556375,Suppressed
+,Rhode Island,44,2004,2004,Male,M,0,518204,Unreliable
+,Rhode Island,44,2005,2005,Female,F,Suppressed,552832,Suppressed
+,Rhode Island,44,2005,2005,Male,M,14,515084,Unreliable
+,Rhode Island,44,2006,2006,Female,F,16,550134,Unreliable
+,Rhode Island,44,2006,2006,Male,M,86,512962,16.8
+,Rhode Island,44,2007,2007,Female,F,23,546859,4.2
+,Rhode Island,44,2007,2007,Male,M,55,510456,10.8
+,Rhode Island,44,2008,2008,Female,F,30,545412,5.5
+,Rhode Island,44,2008,2008,Male,M,91,509591,17.9
+,Rhode Island,44,2009,2009,Female,F,29,544764,5.3
+,Rhode Island,44,2009,2009,Male,M,73,508882,14.3
+,Rhode Island,44,2010,2010,Female,F,33,544167,6.1
+,Rhode Island,44,2010,2010,Male,M,73,508400,14.4
+,Rhode Island,44,2011,2011,Female,F,52,543055,9.6
+,Rhode Island,44,2011,2011,Male,M,80,508247,15.7
+,Rhode Island,44,2012,2012,Female,F,35,542016,6.5
+,Rhode Island,44,2012,2012,Male,M,99,508276,19.5
+,Rhode Island,44,2013,2013,Female,F,47,542084,8.7
+,Rhode Island,44,2013,2013,Male,M,133,509427,26.1
+,Rhode Island,44,2014,2014,Female,F,55,543810,10.1
+,Rhode Island,44,2014,2014,Male,M,137,511363,26.8
+,Rhode Island,44,2015,2015,Female,F,68,544349,12.5
+,Rhode Island,44,2015,2015,Male,M,174,511949,34
+,Rhode Island,44,2016,2016,Female,F,76,543345,14
+,Rhode Island,44,2016,2016,Male,M,192,513081,37.4
+,Rhode Island,44,2017,2017,Female,F,87,544648,16
+,Rhode Island,44,2017,2017,Male,M,181,514991,35.1
+,Rhode Island,44,2018,2018,Female,F,59,542983,10.9
+,Rhode Island,44,2018,2018,Male,M,199,514332,38.7
+,Rhode Island,44,2019,2019,Female,F,63,543686,11.6
+,Rhode Island,44,2019,2019,Male,M,170,515675,33
+,Rhode Island,44,2020,2020,Female,F,74,542433,13.6
+,Rhode Island,44,2020,2020,Male,M,250,514692,48.6
+,South Carolina,45,1999,1999,Female,F,Suppressed,2045608,Suppressed
+,South Carolina,45,1999,1999,Male,M,31,1929076,1.6
+,South Carolina,45,2000,2000,Female,F,17,2063083,Unreliable
+,South Carolina,45,2000,2000,Male,M,57,1948929,2.9
+,South Carolina,45,2001,2001,Female,F,25,2089963,1.2
+,South Carolina,45,2001,2001,Male,M,54,1975032,2.7
+,South Carolina,45,2002,2002,Female,F,20,2111069,0.9
+,South Carolina,45,2002,2002,Male,M,47,1996726,2.4
+,South Carolina,45,2003,2003,Female,F,29,2133967,1.4
+,South Carolina,45,2003,2003,Male,M,49,2016330,2.4
+,South Carolina,45,2004,2004,Female,F,40,2162305,1.8
+,South Carolina,45,2004,2004,Male,M,70,2048616,3.4
+,South Carolina,45,2005,2005,Female,F,46,2192345,2.1
+,South Carolina,45,2005,2005,Male,M,84,2077805,4
+,South Carolina,45,2006,2006,Female,F,81,2237655,3.6
+,South Carolina,45,2006,2006,Male,M,114,2120192,5.4
+,South Carolina,45,2007,2007,Female,F,71,2280792,3.1
+,South Carolina,45,2007,2007,Male,M,95,2163318,4.4
+,South Carolina,45,2008,2008,Female,F,75,2325047,3.2
+,South Carolina,45,2008,2008,Male,M,110,2203949,5
+,South Carolina,45,2009,2009,Female,F,99,2357030,4.2
+,South Carolina,45,2009,2009,Male,M,116,2232842,5.2
+,South Carolina,45,2010,2010,Female,F,102,2375263,4.3
+,South Carolina,45,2010,2010,Male,M,143,2250101,6.4
+,South Carolina,45,2011,2011,Female,F,87,2402602,3.6
+,South Carolina,45,2011,2011,Male,M,132,2276628,5.8
+,South Carolina,45,2012,2012,Female,F,95,2426510,3.9
+,South Carolina,45,2012,2012,Male,M,123,2297213,5.4
+,South Carolina,45,2013,2013,Female,F,101,2451720,4.1
+,South Carolina,45,2013,2013,Male,M,130,2323119,5.6
+,South Carolina,45,2014,2014,Female,F,207,2483088,8.3
+,South Carolina,45,2014,2014,Male,M,273,2349394,11.6
+,South Carolina,45,2015,2015,Female,F,208,2517178,8.3
+,South Carolina,45,2015,2015,Male,M,301,2378968,12.7
+,South Carolina,45,2016,2016,Female,F,200,2553185,7.8
+,South Carolina,45,2016,2016,Male,M,378,2407934,15.7
+,South Carolina,45,2017,2017,Female,F,260,2586682,10.1
+,South Carolina,45,2017,2017,Male,M,452,2437687,18.5
+,South Carolina,45,2018,2018,Female,F,286,2620801,10.9
+,South Carolina,45,2018,2018,Male,M,518,2463326,21
+,South Carolina,45,2019,2019,Female,F,284,2655575,10.7
+,South Carolina,45,2019,2019,Male,M,552,2493139,22.1
+,South Carolina,45,2020,2020,Female,F,429,2694628,15.9
+,South Carolina,45,2020,2020,Male,M,940,2523412,37.3
+,South Dakota,46,1999,1999,Female,F,Suppressed,378502,Suppressed
+,South Dakota,46,1999,1999,Male,M,Suppressed,371915,Suppressed
+,South Dakota,46,2000,2000,Female,F,0,380286,Unreliable
+,South Dakota,46,2000,2000,Male,M,Suppressed,374558,Suppressed
+,South Dakota,46,2001,2001,Female,F,Suppressed,381537,Suppressed
+,South Dakota,46,2001,2001,Male,M,Suppressed,376435,Suppressed
+,South Dakota,46,2002,2002,Female,F,0,382328,Unreliable
+,South Dakota,46,2002,2002,Male,M,Suppressed,377692,Suppressed
+,South Dakota,46,2003,2003,Female,F,Suppressed,383633,Suppressed
+,South Dakota,46,2003,2003,Male,M,Suppressed,380096,Suppressed
+,South Dakota,46,2004,2004,Female,F,Suppressed,386677,Suppressed
+,South Dakota,46,2004,2004,Male,M,Suppressed,383719,Suppressed
+,South Dakota,46,2005,2005,Female,F,Suppressed,389021,Suppressed
+,South Dakota,46,2005,2005,Male,M,Suppressed,386472,Suppressed
+,South Dakota,46,2006,2006,Female,F,Suppressed,392420,Suppressed
+,South Dakota,46,2006,2006,Male,M,Suppressed,390613,Suppressed
+,South Dakota,46,2007,2007,Female,F,Suppressed,396650,Suppressed
+,South Dakota,46,2007,2007,Male,M,Suppressed,394973,Suppressed
+,South Dakota,46,2008,2008,Female,F,Suppressed,400236,Suppressed
+,South Dakota,46,2008,2008,Male,M,15,398888,Unreliable
+,South Dakota,46,2009,2009,Female,F,Suppressed,403198,Suppressed
+,South Dakota,46,2009,2009,Male,M,15,403869,Unreliable
+,South Dakota,46,2010,2010,Female,F,Suppressed,406799,Suppressed
+,South Dakota,46,2010,2010,Male,M,10,407381,Unreliable
+,South Dakota,46,2011,2011,Female,F,15,410905,Unreliable
+,South Dakota,46,2011,2011,Male,M,14,413177,Unreliable
+,South Dakota,46,2012,2012,Female,F,Suppressed,415038,Suppressed
+,South Dakota,46,2012,2012,Male,M,10,418316,Unreliable
+,South Dakota,46,2013,2013,Female,F,11,420499,Unreliable
+,South Dakota,46,2013,2013,Male,M,12,424378,Unreliable
+,South Dakota,46,2014,2014,Female,F,15,423862,Unreliable
+,South Dakota,46,2014,2014,Male,M,13,429313,Unreliable
+,South Dakota,46,2015,2015,Female,F,Suppressed,426493,Suppressed
+,South Dakota,46,2015,2015,Male,M,14,431976,Unreliable
+,South Dakota,46,2016,2016,Female,F,15,429182,Unreliable
+,South Dakota,46,2016,2016,Male,M,20,436272,4.6
+,South Dakota,46,2017,2017,Female,F,11,430706,Unreliable
+,South Dakota,46,2017,2017,Male,M,17,438960,Unreliable
+,South Dakota,46,2018,2018,Female,F,Suppressed,436704,Suppressed
+,South Dakota,46,2018,2018,Male,M,14,445531,Unreliable
+,South Dakota,46,2019,2019,Female,F,14,437902,Unreliable
+,South Dakota,46,2019,2019,Male,M,20,446757,4.5
+,South Dakota,46,2020,2020,Female,F,16,442058,Unreliable
+,South Dakota,46,2020,2020,Male,M,28,450659,6.2
+,Tennessee,47,1999,1999,Female,F,18,2897467,Unreliable
+,Tennessee,47,1999,1999,Male,M,43,2741241,1.6
+,Tennessee,47,2000,2000,Female,F,17,2919008,Unreliable
+,Tennessee,47,2000,2000,Male,M,40,2770275,1.4
+,Tennessee,47,2001,2001,Female,F,25,2948421,0.8
+,Tennessee,47,2001,2001,Male,M,72,2802368,2.6
+,Tennessee,47,2002,2002,Female,F,56,2971873,1.9
+,Tennessee,47,2002,2002,Male,M,70,2824045,2.5
+,Tennessee,47,2003,2003,Female,F,90,3000983,3
+,Tennessee,47,2003,2003,Male,M,126,2846829,4.4
+,Tennessee,47,2004,2004,Female,F,118,3027931,3.9
+,Tennessee,47,2004,2004,Male,M,176,2882878,6.1
+,Tennessee,47,2005,2005,Female,F,159,3068439,5.2
+,Tennessee,47,2005,2005,Male,M,188,2922618,6.4
+,Tennessee,47,2006,2006,Female,F,150,3121455,4.8
+,Tennessee,47,2006,2006,Male,M,217,2967311,7.3
+,Tennessee,47,2007,2007,Female,F,158,3162280,5
+,Tennessee,47,2007,2007,Male,M,232,3013447,7.7
+,Tennessee,47,2008,2008,Female,F,160,3203115,5
+,Tennessee,47,2008,2008,Male,M,260,3044296,8.5
+,Tennessee,47,2009,2009,Female,F,191,3231769,5.9
+,Tennessee,47,2009,2009,Male,M,267,3074250,8.7
+,Tennessee,47,2010,2010,Female,F,201,3252601,6.2
+,Tennessee,47,2010,2010,Male,M,349,3093504,11.3
+,Tennessee,47,2011,2011,Female,F,241,3282422,7.3
+,Tennessee,47,2011,2011,Male,M,334,3120931,10.7
+,Tennessee,47,2012,2012,Female,F,272,3307480,8.2
+,Tennessee,47,2012,2012,Male,M,379,3148763,12
+,Tennessee,47,2013,2013,Female,F,304,3328884,9.1
+,Tennessee,47,2013,2013,Male,M,388,3167094,12.3
+,Tennessee,47,2014,2014,Female,F,311,3357172,9.3
+,Tennessee,47,2014,2014,Male,M,488,3192180,15.3
+,Tennessee,47,2015,2015,Female,F,380,3382838,11.2
+,Tennessee,47,2015,2015,Male,M,567,3217461,17.6
+,Tennessee,47,2016,2016,Female,F,448,3408679,13.1
+,Tennessee,47,2016,2016,Male,M,655,3242515,20.2
+,Tennessee,47,2017,2017,Female,F,490,3440018,14.2
+,Tennessee,47,2017,2017,Male,M,707,3275966,21.6
+,Tennessee,47,2018,2018,Female,F,463,3467086,13.4
+,Tennessee,47,2018,2018,Male,M,788,3302924,23.9
+,Tennessee,47,2019,2019,Female,F,494,3496935,14.1
+,Tennessee,47,2019,2019,Male,M,990,3332239,29.7
+,Tennessee,47,2020,2020,Female,F,763,3528814,21.6
+,Tennessee,47,2020,2020,Male,M,1589,3358020,47.3
+,Texas,48,1999,1999,Female,F,73,10360202,0.7
+,Texas,48,1999,1999,Male,M,209,10198018,2
+,Texas,48,2000,2000,Female,F,96,10498910,0.9
+,Texas,48,2000,2000,Male,M,223,10352910,2.2
+,Texas,48,2001,2001,Female,F,138,10731190,1.3
+,Texas,48,2001,2001,Male,M,333,10588432,3.1
+,Texas,48,2002,2002,Female,F,176,10914653,1.6
+,Texas,48,2002,2002,Male,M,422,10775672,3.9
+,Texas,48,2003,2003,Female,F,208,11095953,1.9
+,Texas,48,2003,2003,Male,M,444,10934978,4.1
+,Texas,48,2004,2004,Female,F,227,11278402,2
+,Texas,48,2004,2004,Male,M,452,11115621,4.1
+,Texas,48,2005,2005,Female,F,248,11470439,2.2
+,Texas,48,2005,2005,Male,M,505,11307684,4.5
+,Texas,48,2006,2006,Female,F,332,11771243,2.8
+,Texas,48,2006,2006,Male,M,620,11588337,5.4
+,Texas,48,2007,2007,Female,F,324,12010572,2.7
+,Texas,48,2007,2007,Male,M,595,11821411,5
+,Texas,48,2008,2008,Female,F,287,12249936,2.3
+,Texas,48,2008,2008,Male,M,560,12059103,4.6
+,Texas,48,2009,2009,Female,F,337,12500150,2.7
+,Texas,48,2009,2009,Male,M,677,12301611,5.5
+,Texas,48,2010,2010,Female,F,359,12673281,2.8
+,Texas,48,2010,2010,Male,M,648,12472280,5.2
+,Texas,48,2011,2011,Female,F,344,12932239,2.7
+,Texas,48,2011,2011,Male,M,719,12742442,5.6
+,Texas,48,2012,2012,Female,F,297,13111469,2.3
+,Texas,48,2012,2012,Male,M,700,12947734,5.4
+,Texas,48,2013,2013,Female,F,327,13301191,2.5
+,Texas,48,2013,2013,Male,M,623,13147002,4.7
+,Texas,48,2014,2014,Female,F,364,13574572,2.7
+,Texas,48,2014,2014,Male,M,676,13382386,5.1
+,Texas,48,2015,2015,Female,F,415,13831324,3
+,Texas,48,2015,2015,Male,M,771,13637790,5.7
+,Texas,48,2016,2016,Female,F,428,14031164,3.1
+,Texas,48,2016,2016,Male,M,831,13831432,6
+,Texas,48,2017,2017,Female,F,460,14242803,3.2
+,Texas,48,2017,2017,Male,M,865,14061793,6.2
+,Texas,48,2018,2018,Female,F,396,14441739,2.7
+,Texas,48,2018,2018,Male,M,884,14260106,6.2
+,Texas,48,2019,2019,Female,F,386,14593179,2.6
+,Texas,48,2019,2019,Male,M,987,14402702,6.9
+,Texas,48,2020,2020,Female,F,594,14779708,4
+,Texas,48,2020,2020,Male,M,1424,14581051,9.8
+,Utah,49,1999,1999,Female,F,Suppressed,1100168,Suppressed
+,Utah,49,1999,1999,Male,M,Suppressed,1103315,Suppressed
+,Utah,49,2000,2000,Female,F,Suppressed,1114138,Suppressed
+,Utah,49,2000,2000,Male,M,12,1119031,Unreliable
+,Utah,49,2001,2001,Female,F,10,1139182,Unreliable
+,Utah,49,2001,2001,Male,M,17,1144533,Unreliable
+,Utah,49,2002,2002,Female,F,14,1158853,Unreliable
+,Utah,49,2002,2002,Male,M,37,1165962,3.2
+,Utah,49,2003,2003,Female,F,15,1175867,Unreliable
+,Utah,49,2003,2003,Male,M,23,1184270,1.9
+,Utah,49,2004,2004,Female,F,12,1196749,Unreliable
+,Utah,49,2004,2004,Male,M,43,1204831,3.6
+,Utah,49,2005,2005,Female,F,20,1224741,1.6
+,Utah,49,2005,2005,Male,M,44,1232978,3.6
+,Utah,49,2006,2006,Female,F,17,1257991,Unreliable
+,Utah,49,2006,2006,Male,M,41,1267516,3.2
+,Utah,49,2007,2007,Female,F,30,1292672,2.3
+,Utah,49,2007,2007,Male,M,64,1305074,4.9
+,Utah,49,2008,2008,Female,F,50,1325631,3.8
+,Utah,49,2008,2008,Male,M,103,1337398,7.7
+,Utah,49,2009,2009,Female,F,57,1355509,4.2
+,Utah,49,2009,2009,Male,M,108,1367912,7.9
+,Utah,49,2010,2010,Female,F,59,1375568,4.3
+,Utah,49,2010,2010,Male,M,130,1388317,9.4
+,Utah,49,2011,2011,Female,F,96,1401715,6.8
+,Utah,49,2011,2011,Male,M,135,1415507,9.5
+,Utah,49,2012,2012,Female,F,85,1419427,6
+,Utah,49,2012,2012,Male,M,173,1435860,12
+,Utah,49,2013,2013,Female,F,107,1441891,7.4
+,Utah,49,2013,2013,Male,M,179,1458981,12.3
+,Utah,49,2014,2014,Female,F,122,1463152,8.3
+,Utah,49,2014,2014,Male,M,206,1479750,13.9
+,Utah,49,2015,2015,Female,F,136,1488819,9.1
+,Utah,49,2015,2015,Male,M,192,1507100,12.7
+,Utah,49,2016,2016,Female,F,125,1515323,8.2
+,Utah,49,2016,2016,Male,M,228,1535894,14.8
+,Utah,49,2017,2017,Female,F,135,1540145,8.8
+,Utah,49,2017,2017,Male,M,215,1561688,13.8
+,Utah,49,2018,2018,Female,F,153,1568962,9.8
+,Utah,49,2018,2018,Male,M,222,1592143,13.9
+,Utah,49,2019,2019,Female,F,131,1591041,8.2
+,Utah,49,2019,2019,Male,M,201,1614917,12.4
+,Utah,49,2020,2020,Female,F,143,1612139,8.9
+,Utah,49,2020,2020,Male,M,229,1637740,14
+,Vermont,50,1999,1999,Female,F,0,308401,Unreliable
+,Vermont,50,1999,1999,Male,M,Suppressed,296286,Suppressed
+,Vermont,50,2000,2000,Female,F,Suppressed,310490,Suppressed
+,Vermont,50,2000,2000,Male,M,17,298337,Unreliable
+,Vermont,50,2001,2001,Female,F,Suppressed,311779,Suppressed
+,Vermont,50,2001,2001,Male,M,16,300444,Unreliable
+,Vermont,50,2002,2002,Female,F,Suppressed,312959,Suppressed
+,Vermont,50,2002,2002,Male,M,18,302483,Unreliable
+,Vermont,50,2003,2003,Female,F,10,314206,Unreliable
+,Vermont,50,2003,2003,Male,M,31,303652,10.2
+,Vermont,50,2004,2004,Female,F,Suppressed,315080,Suppressed
+,Vermont,50,2004,2004,Male,M,23,304840,7.5
+,Vermont,50,2005,2005,Female,F,Suppressed,315422,Suppressed
+,Vermont,50,2005,2005,Male,M,21,305793,6.9
+,Vermont,50,2006,2006,Female,F,12,316290,Unreliable
+,Vermont,50,2006,2006,Male,M,37,306602,12.1
+,Vermont,50,2007,2007,Female,F,15,316538,Unreliable
+,Vermont,50,2007,2007,Male,M,23,306943,7.5
+,Vermont,50,2008,2008,Female,F,13,316722,Unreliable
+,Vermont,50,2008,2008,Male,M,37,307429,12
+,Vermont,50,2009,2009,Female,F,Suppressed,317128,Suppressed
+,Vermont,50,2009,2009,Male,M,27,307689,8.8
+,Vermont,50,2010,2010,Female,F,12,317535,Unreliable
+,Vermont,50,2010,2010,Male,M,17,308206,Unreliable
+,Vermont,50,2011,2011,Female,F,26,317581,8.2
+,Vermont,50,2011,2011,Male,M,23,308850,7.4
+,Vermont,50,2012,2012,Female,F,14,317233,Unreliable
+,Vermont,50,2012,2012,Male,M,30,308778,9.7
+,Vermont,50,2013,2013,Female,F,18,317442,Unreliable
+,Vermont,50,2013,2013,Male,M,38,309188,12.3
+,Vermont,50,2014,2014,Female,F,16,317713,Unreliable
+,Vermont,50,2014,2014,Male,M,36,308849,11.7
+,Vermont,50,2015,2015,Female,F,20,317516,6.3
+,Vermont,50,2015,2015,Male,M,53,308526,17.2
+,Vermont,50,2016,2016,Female,F,25,316128,7.9
+,Vermont,50,2016,2016,Male,M,63,308466,20.4
+,Vermont,50,2017,2017,Female,F,27,315401,8.6
+,Vermont,50,2017,2017,Male,M,76,308256,24.7
+,Vermont,50,2018,2018,Female,F,44,317047,13.9
+,Vermont,50,2018,2018,Male,M,75,309252,24.3
+,Vermont,50,2019,2019,Female,F,30,315673,9.5
+,Vermont,50,2019,2019,Male,M,73,308316,23.7
+,Vermont,50,2020,2020,Female,F,44,315355,14
+,Vermont,50,2020,2020,Male,M,107,307992,34.7
+,Virginia,51,1999,1999,Female,F,34,3569685,1
+,Virginia,51,1999,1999,Male,M,133,3430491,3.9
+,Virginia,51,2000,2000,Female,F,46,3606620,1.3
+,Virginia,51,2000,2000,Male,M,162,3471895,4.7
+,Virginia,51,2001,2001,Female,F,62,3665386,1.7
+,Virginia,51,2001,2001,Male,M,178,3532976,5
+,Virginia,51,2002,2002,Female,F,79,3713695,2.1
+,Virginia,51,2002,2002,Male,M,225,3573178,6.3
+,Virginia,51,2003,2003,Female,F,101,3757780,2.7
+,Virginia,51,2003,2003,Male,M,214,3609197,5.9
+,Virginia,51,2004,2004,Female,F,104,3814310,2.7
+,Virginia,51,2004,2004,Male,M,230,3661265,6.3
+,Virginia,51,2005,2005,Female,F,114,3863646,3
+,Virginia,51,2005,2005,Male,M,199,3713459,5.4
+,Virginia,51,2006,2006,Female,F,123,3908475,3.1
+,Virginia,51,2006,2006,Male,M,225,3765250,6
+,Virginia,51,2007,2007,Female,F,151,3947966,3.8
+,Virginia,51,2007,2007,Male,M,256,3803034,6.7
+,Virginia,51,2008,2008,Female,F,144,3988983,3.6
+,Virginia,51,2008,2008,Male,M,280,3844513,7.3
+,Virginia,51,2009,2009,Female,F,136,4037895,3.4
+,Virginia,51,2009,2009,Male,M,265,3888042,6.8
+,Virginia,51,2010,2010,Female,F,118,4075041,2.9
+,Virginia,51,2010,2010,Male,M,216,3925983,5.5
+,Virginia,51,2011,2011,Female,F,176,4120439,4.3
+,Virginia,51,2011,2011,Male,M,319,3976165,8
+,Virginia,51,2012,2012,Female,F,171,4164342,4.1
+,Virginia,51,2012,2012,Male,M,282,4021525,7
+,Virginia,51,2013,2013,Female,F,193,4198203,4.6
+,Virginia,51,2013,2013,Male,M,371,4062202,9.1
+,Virginia,51,2014,2014,Female,F,208,4231045,4.9
+,Virginia,51,2014,2014,Male,M,443,4095244,10.8
+,Virginia,51,2015,2015,Female,F,234,4258228,5.5
+,Virginia,51,2015,2015,Male,M,511,4124765,12.4
+,Virginia,51,2016,2016,Female,F,326,4274994,7.6
+,Virginia,51,2016,2016,Male,M,737,4136814,17.8
+,Virginia,51,2017,2017,Female,F,387,4303293,9
+,Virginia,51,2017,2017,Male,M,773,4166727,18.6
+,Virginia,51,2018,2018,Female,F,304,4327037,7
+,Virginia,51,2018,2018,Male,M,809,4190648,19.3
+,Virginia,51,2019,2019,Female,F,393,4335262,9.1
+,Virginia,51,2019,2019,Male,M,812,4200257,19.3
+,Virginia,51,2020,2020,Female,F,553,4363032,12.7
+,Virginia,51,2020,2020,Male,M,1290,4227531,30.5
+,Washington,53,1999,1999,Female,F,74,2934901,2.5
+,Washington,53,1999,1999,Male,M,226,2907664,7.8
+,Washington,53,2000,2000,Female,F,79,2959821,2.7
+,Washington,53,2000,2000,Male,M,214,2934300,7.3
+,Washington,53,2001,2001,Female,F,83,3002080,2.8
+,Washington,53,2001,2001,Male,M,181,2983642,6.1
+,Washington,53,2002,2002,Female,F,131,3036742,4.3
+,Washington,53,2002,2002,Male,M,243,3015607,8.1
+,Washington,53,2003,2003,Female,F,140,3065739,4.6
+,Washington,53,2003,2003,Male,M,255,3038376,8.4
+,Washington,53,2004,2004,Female,F,166,3107815,5.3
+,Washington,53,2004,2004,Male,M,316,3070830,10.3
+,Washington,53,2005,2005,Female,F,185,3145396,5.9
+,Washington,53,2005,2005,Male,M,323,3111909,10.4
+,Washington,53,2006,2006,Female,F,226,3200695,7.1
+,Washington,53,2006,2006,Male,M,342,3170058,10.8
+,Washington,53,2007,2007,Female,F,210,3247800,6.5
+,Washington,53,2007,2007,Male,M,348,3213787,10.8
+,Washington,53,2008,2008,Female,F,235,3293162,7.1
+,Washington,53,2008,2008,Male,M,350,3269069,10.7
+,Washington,53,2009,2009,Female,F,257,3343920,7.7
+,Washington,53,2009,2009,Male,M,354,3323506,10.7
+,Washington,53,2010,2010,Female,F,216,3374833,6.4
+,Washington,53,2010,2010,Male,M,321,3349707,9.6
+,Washington,53,2011,2011,Female,F,233,3420356,6.8
+,Washington,53,2011,2011,Male,M,354,3409682,10.4
+,Washington,53,2012,2012,Female,F,228,3455462,6.6
+,Washington,53,2012,2012,Male,M,375,3441550,10.9
+,Washington,53,2013,2013,Female,F,245,3488736,7
+,Washington,53,2013,2013,Male,M,327,3482670,9.4
+,Washington,53,2014,2014,Female,F,230,3531595,6.5
+,Washington,53,2014,2014,Male,M,351,3529935,9.9
+,Washington,53,2015,2015,Female,F,217,3585353,6.1
+,Washington,53,2015,2015,Male,M,388,3584998,10.8
+,Washington,53,2016,2016,Female,F,225,3646600,6.2
+,Washington,53,2016,2016,Male,M,396,3641400,10.9
+,Washington,53,2017,2017,Female,F,242,3702270,6.5
+,Washington,53,2017,2017,Male,M,427,3703473,11.5
+,Washington,53,2018,2018,Female,F,205,3765680,5.4
+,Washington,53,2018,2018,Male,M,464,3769911,12.3
+,Washington,53,2019,2019,Female,F,233,3802910,6.1
+,Washington,53,2019,2019,Male,M,515,3811983,13.5
+,Washington,53,2020,2020,Female,F,323,3840014,8.4
+,Washington,53,2020,2020,Male,M,814,3853598,21.1
+,West Virginia,54,1999,1999,Female,F,Suppressed,931810,Suppressed
+,West Virginia,54,1999,1999,Male,M,16,879991,Unreliable
+,West Virginia,54,2000,2000,Female,F,Suppressed,929174,Suppressed
+,West Virginia,54,2000,2000,Male,M,18,879170,Unreliable
+,West Virginia,54,2001,2001,Female,F,26,923643,2.8
+,West Virginia,54,2001,2001,Male,M,65,877838,7.4
+,West Virginia,54,2002,2002,Female,F,21,923841,2.3
+,West Virginia,54,2002,2002,Male,M,95,881573,10.8
+,West Virginia,54,2003,2003,Female,F,50,925835,5.4
+,West Virginia,54,2003,2003,Male,M,129,886460,14.6
+,West Virginia,54,2004,2004,Female,F,81,927027,8.7
+,West Virginia,54,2004,2004,Male,M,151,889411,17
+,West Virginia,54,2005,2005,Female,F,33,927690,3.6
+,West Virginia,54,2005,2005,Male,M,97,892802,10.9
+,West Virginia,54,2006,2006,Female,F,91,930605,9.8
+,West Virginia,54,2006,2006,Male,M,165,897307,18.4
+,West Virginia,54,2007,2007,Female,F,94,932683,10.1
+,West Virginia,54,2007,2007,Male,M,207,901369,23
+,West Virginia,54,2008,2008,Female,F,119,934911,12.7
+,West Virginia,54,2008,2008,Male,M,221,905399,24.4
+,West Virginia,54,2009,2009,Female,F,53,937434,5.7
+,West Virginia,54,2009,2009,Male,M,105,910341,11.5
+,West Virginia,54,2010,2010,Female,F,150,939408,16
+,West Virginia,54,2010,2010,Male,M,250,913586,27.4
+,West Virginia,54,2011,2011,Female,F,170,940283,18.1
+,West Virginia,54,2011,2011,Male,M,339,915081,37
+,West Virginia,54,2012,2012,Female,F,163,940008,17.3
+,West Virginia,54,2012,2012,Male,M,270,915405,29.5
+,West Virginia,54,2013,2013,Female,F,164,938728,17.5
+,West Virginia,54,2013,2013,Male,M,303,915576,33.1
+,West Virginia,54,2014,2014,Female,F,172,936411,18.4
+,West Virginia,54,2014,2014,Male,M,342,913915,37.4
+,West Virginia,54,2015,2015,Female,F,222,933068,23.8
+,West Virginia,54,2015,2015,Male,M,353,911060,38.7
+,West Virginia,54,2016,2016,Female,F,207,925159,22.4
+,West Virginia,54,2016,2016,Male,M,483,905943,53.3
+,West Virginia,54,2017,2017,Female,F,265,917237,28.9
+,West Virginia,54,2017,2017,Male,M,538,898620,59.9
+,West Virginia,54,2018,2018,Female,F,225,911492,24.7
+,West Virginia,54,2018,2018,Male,M,451,894340,50.4
+,West Virginia,54,2019,2019,Female,F,215,904377,23.8
+,West Virginia,54,2019,2019,Male,M,432,887770,48.7
+,West Virginia,54,2020,2020,Female,F,326,900511,36.2
+,West Virginia,54,2020,2020,Male,M,781,884276,88.3
+,Wisconsin,55,1999,1999,Female,F,12,2701525,Unreliable
+,Wisconsin,55,1999,1999,Male,M,42,2631141,1.6
+,Wisconsin,55,2000,2000,Female,F,29,2714634,1.1
+,Wisconsin,55,2000,2000,Male,M,58,2649041,2.2
+,Wisconsin,55,2001,2001,Female,F,36,2733647,1.3
+,Wisconsin,55,2001,2001,Male,M,72,2673188,2.7
+,Wisconsin,55,2002,2002,Female,F,54,2751697,2
+,Wisconsin,55,2002,2002,Male,M,89,2693465,3.3
+,Wisconsin,55,2003,2003,Female,F,49,2766901,1.8
+,Wisconsin,55,2003,2003,Male,M,115,2712302,4.2
+,Wisconsin,55,2004,2004,Female,F,57,2782678,2
+,Wisconsin,55,2004,2004,Male,M,130,2731348,4.8
+,Wisconsin,55,2005,2005,Female,F,82,2797061,2.9
+,Wisconsin,55,2005,2005,Male,M,135,2749105,4.9
+,Wisconsin,55,2006,2006,Female,F,83,2812276,3
+,Wisconsin,55,2006,2006,Male,M,199,2765379,7.2
+,Wisconsin,55,2007,2007,Female,F,102,2827782,3.6
+,Wisconsin,55,2007,2007,Male,M,208,2782993,7.5
+,Wisconsin,55,2008,2008,Female,F,99,2842268,3.5
+,Wisconsin,55,2008,2008,Male,M,208,2798728,7.4
+,Wisconsin,55,2009,2009,Female,F,115,2856103,4
+,Wisconsin,55,2009,2009,Male,M,210,2813161,7.5
+,Wisconsin,55,2010,2010,Female,F,134,2864586,4.7
+,Wisconsin,55,2010,2010,Male,M,211,2822400,7.5
+,Wisconsin,55,2011,2011,Female,F,126,2875675,4.4
+,Wisconsin,55,2011,2011,Male,M,285,2836092,10
+,Wisconsin,55,2012,2012,Female,F,142,2883326,4.9
+,Wisconsin,55,2012,2012,Male,M,288,2843072,10.1
+,Wisconsin,55,2013,2013,Female,F,184,2890553,6.4
+,Wisconsin,55,2013,2013,Male,M,355,2852160,12.4
+,Wisconsin,55,2014,2014,Female,F,197,2898057,6.8
+,Wisconsin,55,2014,2014,Male,M,360,2859507,12.6
+,Wisconsin,55,2015,2015,Female,F,178,2903737,6.1
+,Wisconsin,55,2015,2015,Male,M,388,2867600,13.5
+,Wisconsin,55,2016,2016,Female,F,269,2905282,9.3
+,Wisconsin,55,2016,2016,Male,M,526,2873426,18.3
+,Wisconsin,55,2017,2017,Female,F,295,2912745,10.1
+,Wisconsin,55,2017,2017,Male,M,566,2882738,19.6
+,Wisconsin,55,2018,2018,Female,F,248,2921295,8.5
+,Wisconsin,55,2018,2018,Male,M,542,2892273,18.7
+,Wisconsin,55,2019,2019,Female,F,289,2925225,9.9
+,Wisconsin,55,2019,2019,Male,M,598,2897209,20.6
+,Wisconsin,55,2020,2020,Female,F,356,2928939,12.2
+,Wisconsin,55,2020,2020,Male,M,846,2903716,29.1
+,Wyoming,56,1999,1999,Female,F,Suppressed,244518,Suppressed
+,Wyoming,56,1999,1999,Male,M,Suppressed,247262,Suppressed
+,Wyoming,56,2000,2000,Female,F,Suppressed,245408,Suppressed
+,Wyoming,56,2000,2000,Male,M,Suppressed,248374,Suppressed
+,Wyoming,56,2001,2001,Female,F,Suppressed,245327,Suppressed
+,Wyoming,56,2001,2001,Male,M,Suppressed,249330,Suppressed
+,Wyoming,56,2002,2002,Female,F,Suppressed,247785,Suppressed
+,Wyoming,56,2002,2002,Male,M,Suppressed,252232,Suppressed
+,Wyoming,56,2003,2003,Female,F,Suppressed,249128,Suppressed
+,Wyoming,56,2003,2003,Male,M,Suppressed,254325,Suppressed
+,Wyoming,56,2004,2004,Female,F,Suppressed,251506,Suppressed
+,Wyoming,56,2004,2004,Male,M,Suppressed,257600,Suppressed
+,Wyoming,56,2005,2005,Female,F,Suppressed,253726,Suppressed
+,Wyoming,56,2005,2005,Male,M,Suppressed,260431,Suppressed
+,Wyoming,56,2006,2006,Female,F,Suppressed,257361,Suppressed
+,Wyoming,56,2006,2006,Male,M,Suppressed,265306,Suppressed
+,Wyoming,56,2007,2007,Female,F,Suppressed,262776,Suppressed
+,Wyoming,56,2007,2007,Male,M,13,272100,Unreliable
+,Wyoming,56,2008,2008,Female,F,15,267982,Unreliable
+,Wyoming,56,2008,2008,Male,M,19,278061,Unreliable
+,Wyoming,56,2009,2009,Female,F,Suppressed,274046,Suppressed
+,Wyoming,56,2009,2009,Male,M,23,285805,8
+,Wyoming,56,2010,2010,Female,F,17,276189,Unreliable
+,Wyoming,56,2010,2010,Male,M,20,287437,7
+,Wyoming,56,2011,2011,Female,F,15,278401,Unreliable
+,Wyoming,56,2011,2011,Male,M,22,289757,7.6
+,Wyoming,56,2012,2012,Female,F,18,282131,Unreliable
+,Wyoming,56,2012,2012,Male,M,15,294281,Unreliable
+,Wyoming,56,2013,2013,Female,F,21,285380,7.4
+,Wyoming,56,2013,2013,Male,M,22,297278,7.4
+,Wyoming,56,2014,2014,Female,F,16,286111,Unreliable
+,Wyoming,56,2014,2014,Male,M,31,298042,10.4
+,Wyoming,56,2015,2015,Female,F,21,287206,7.3
+,Wyoming,56,2015,2015,Male,M,22,298901,7.4
+,Wyoming,56,2016,2016,Female,F,25,286559,8.7
+,Wyoming,56,2016,2016,Male,M,21,298942,7
+,Wyoming,56,2017,2017,Female,F,19,283877,Unreliable
+,Wyoming,56,2017,2017,Male,M,19,295438,Unreliable
+,Wyoming,56,2018,2018,Female,F,20,283203,7.1
+,Wyoming,56,2018,2018,Male,M,13,294534,Unreliable
+,Wyoming,56,2019,2019,Female,F,16,284029,Unreliable
+,Wyoming,56,2019,2019,Male,M,27,294730,9.2
+,Wyoming,56,2020,2020,Female,F,16,285437,Unreliable
+,Wyoming,56,2020,2020,Male,M,38,296891,12.8
+---,,,,,,,,,
+"Dataset: Multiple Cause of Death, 1999-2020",,,,,,,,,
+Query Parameters:,,,,,,,,,
+Title: Opioid Overdose Demographics by Sex (CDC WONDER),,,,,,,,,
+MCD - ICD-10 Codes: T40.0 (Opium); T40.1 (Heroin); T40.2 (Other opioids); T40.3 (Methadone); T40.4 (Other synthetic narcotics);,,,,,,,,,
+T40.6 (Other and unspecified narcotics),,,,,,,,,
+UCD - Drug/Alcohol Induced Causes: Drug poisonings (overdose) Unintentional (X40-X44),,,,,,,,,
+Group By: State; Year; Sex,,,,,,,,,
+Show Totals: Disabled,,,,,,,,,
+Show Zero Values: True,,,,,,,,,
+Show Suppressed: True,,,,,,,,,
+"Calculate Rates Per: 100,000",,,,,,,,,
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups),,,,,,,,,
+---,,,,,,,,,
+Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information.,,,,,,,,,
+---,,,,,,,,,
+"Query Date: Jun 30, 2026 11:37:22 PM",,,,,,,,,
+---,,,,,,,,,
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics",,,,,,,,,
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,",,,,,,,,,
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative",,,,,,,,,
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Jun 30, 2026 11:37:22 PM",,,,,,,,,
+---,,,,,,,,,
+Messages:,,,,,,,,,
+1. Totals are not available for these results due to suppression constraints. More Information:,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/faq.html#Privacy.,,,,,,,,,
+---,,,,,,,,,
+Caveats:,,,,,,,,,
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:",,,,,,,,,
+http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision.,,,,,,,,,
+2. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of,,,,,,,,,
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data.",,,,,,,,,
+More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies.,,,,,,,,,
+3. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code,,,,,,,,,
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,",,,,,,,,,
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in",,,,,,,,,
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies.,,,,,,,,,
+"4. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other",,,,,,,,,
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in",,,,,,,,,
+interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies.,,,,,,,,,
+5. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality.,,,,,,,,,
+6. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable.,,,,,,,,,
+"7. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020",,,,,,,,,
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the",,,,,,,,,
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for",,,,,,,,,
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS",,,,,,,,,
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the",,,,,,,,,
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race",,,,,,,,,
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The",,,,,,,,,
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal",,,,,,,,,
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident",,,,,,,,,
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are",,,,,,,,,
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,",,,,,,,,,
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012",,,,,,,,,
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1",,,,,,,,,
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures",,,,,,,,,
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1",,,,,,,,,
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012.",,,,,,,,,
+Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of,,,,,,,,,
+July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population,,,,,,,,,
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which",,,,,,,,,
+were available at the time of release.,,,,,,,,,
+8. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the,,,,,,,,,
+resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group.,,,,,,,,,
+9. Changes to cause of death classification affect reporting trends. More information:,,,,,,,,,
+http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes.,,,,,,,,,
