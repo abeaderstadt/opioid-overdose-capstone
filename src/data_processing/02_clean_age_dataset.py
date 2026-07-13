@@ -31,6 +31,8 @@ def clean_wonder_file(df: pd.DataFrame) -> pd.DataFrame:
         "state_code",
         "year",
         "year_code",
+        "age",
+        "deaths",
         "population",
         "opioid_deaths",
         "opioid_death_rate",

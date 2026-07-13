@@ -2,7 +2,7 @@
 
 Terminal command to run this file from the root project folder:
 
-    uv run python src/data_processing/04_clean_race_dataset.py
+    uv run python src/data_processing/03_clean_sex_dataset.py
 """
 
 from pathlib import Path
@@ -31,6 +31,7 @@ def clean_wonder_file(df: pd.DataFrame) -> pd.DataFrame:
         "state_code",
         "year",
         "year_code",
+        "deaths",
         "population",
         "opioid_deaths",
         "opioid_death_rate",
