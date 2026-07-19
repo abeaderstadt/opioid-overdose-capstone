@@ -25,6 +25,8 @@ dependencies = [
     "matplotlib", # WHY: Static plotting library for quick visualizations.
     "python-dotenv", # WHY: Load environment variables from .env files for configuration.
     "pandas>=3.0.3",
+    "nbformat>=5.10.4",
+    "kaleido>=1.3.0",
 ]
 
 [project.optional-dependencies]
