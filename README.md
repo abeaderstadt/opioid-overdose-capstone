@@ -201,7 +201,7 @@ Linear Regression produced the strongest overall performance on this dataset.
 ---
 
 # Reproducing the Project
-<details> <summary><strong>Reproducing the Project</strong></summary>
+<details> <summary><strong>Detailed Instructions</strong></summary>
 
 <br>
 
