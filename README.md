@@ -47,7 +47,7 @@ This project was completed as the capstone project for the Master of Science in 
 
 ## Data Source
 
-**CDC WONDER Multiple Cause of Death Database**
+[**CDC WONDER Multiple Cause of Death Database**](https://wonder.cdc.gov/mcd-icd10.html)
 
 Years Included:
 
