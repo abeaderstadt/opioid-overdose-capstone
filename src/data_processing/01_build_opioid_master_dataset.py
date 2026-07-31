@@ -1,4 +1,7 @@
-"""Merge opioid-related death datasets into a single table.
+"""
+Builds the master opioid overdose dataset by merging
+drug-specific CDC WONDER datasets into the primary
+state-by-year dataset.
 
 Terminal command to run this file from the root project folder:
 

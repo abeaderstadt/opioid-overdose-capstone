@@ -1,4 +1,4 @@
-"""Clean and process the age dataset.
+"""Cleans and processes the age dataset.
 
 Terminal command to run this file from the root project folder:
 

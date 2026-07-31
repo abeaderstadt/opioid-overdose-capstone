@@ -35,6 +35,16 @@ This project was completed as the capstone project for the Master of Science in 
 
 ---
 
+## Key Results
+
+- Analyzed over 20 years of U.S. opioid overdose mortality data.
+- Combined nine CDC WONDER datasets into one analytical dataset.
+- Identified major demographic and geographic trends.
+- Compared multiple machine learning models.
+- Linear Regression achieved the strongest predictive performance (R² ≈ 0.83).
+
+---
+
 ## Data Source
 
 **CDC WONDER Multiple Cause of Death Database**

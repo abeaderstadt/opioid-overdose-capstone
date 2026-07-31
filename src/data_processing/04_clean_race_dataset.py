@@ -1,4 +1,4 @@
-"""Clean and process the sex dataset.
+"""Cleans and processes the race dataset.
 
 Terminal command to run this file from the root project folder:
 
