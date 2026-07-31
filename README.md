@@ -132,7 +132,7 @@ The national opioid overdose death rate increased dramatically between 1999 and 
 States in Appalachia, the Ohio Valley, and portions of the Northeast experienced the highest opioid overdose death rates in 2020.
 
 <p align="center">
-<img src="figures/opioid_death_rates_by_state_2020.pdf" width="800">
+<img src="figures/opioid_death_rates_by_state_2020.png" width="800">
 </p>
 
 ---
