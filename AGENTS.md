@@ -1,79 +1,88 @@
-# ./AGENTS.md
+# AGENTS.md
 
-## WHY
+## Purpose
 
-- This repo uses a uniform, reproducible workflow based on **uv** and **pyproject.toml**.
-- These instructions exist to prevent tool drift (e.g., pip) and OS mismatch.
+This repository contains the code, notebooks, and supporting files for the
+**Opioid Overdose Capstone Project**.
 
-## Requirements
+The project analyzes opioid overdose mortality trends in the United States
+using publicly available CDC WONDER data. Development is managed using
+**uv** and **pyproject.toml** to provide a reproducible Python environment.
 
-- Use **uv** for all environment, dependency, and run commands in this repo.
-- Do **not** recommend or use `pip install ...` as the primary workflow.
-- This repo targets **Python 3.14**, pinned via uv.
-- Commands and guidance must work on Windows, macOS, and Linux.
-- If shell-specific commands are unavoidable, provide both:
+---
+
+## Development Requirements
+
+- Use **uv** for environment management and package installation.
+- Do not recommend `pip install` as the primary workflow.
+- Target Python **3.14**.
+- Commands should work on Windows, macOS, and Linux.
+- When shell-specific commands are necessary, provide both:
   - PowerShell (Windows)
   - bash/zsh (macOS/Linux)
 
-## Quickstart
+---
 
-- Install **uv** using the official method for your OS.
-- Keep uv current.
-- Pin Python 3.14 for this project using uv.
-- Sync dependencies (dev + docs) and upgrade.
+## Quick Start
 
 ```shell
 uv self update
 uv python pin 3.14
-uv sync --extra dev --extra docs --upgrade
-
+uv sync --extra dev --upgrade
 uvx pre-commit install
 ```
 
+---
+
 ## Common Tasks
 
-Run all commands via **uv**.
-
-Lint / format using pre-commit:
+### Run preprocessing
 
 ```shell
-git add -A
-uvx pre-commit run --all-files
-# repeat if changes were made
-git add -A
-uvx pre-commit run --all-files
+uv run python src/data_processing/<script_name>.py
 ```
 
-Run checks and build documentation:
+### Launch Jupyter
+
+```shell
+uv run jupyter lab
+```
+
+or
+
+```shell
+uv run jupyter notebook
+```
+
+### Format and lint
 
 ```shell
 uv run ruff format .
 uv run ruff check . --fix
-uv run python -m pyright
-uv run python -m pytest
-uv run python -m zensical build
 ```
 
-## pre-commit
+### Static type checking
 
-- pre-commit runs only on tracked / staged files.
-- Developers should `git add -A` files before expecting hooks to run.
+```shell
+uv run pyright
+```
 
-## Kafka 4.2
+---
 
-This project uses `confluent-kafka` and other dependencies
-listed in `pyproject.toml`.
+## Repository Structure
 
-## Kafka Instructions
+- `data/raw/` – Original CDC WONDER datasets
+- `data/processed/` – Cleaned datasets used for analysis
+- `figures/` – Generated visualizations
+- `notebooks/` – Exploratory analysis and predictive modeling
+- `src/data_processing/` – Data cleaning and preparation scripts
+- `src/analysis/` – Statistical analysis and modeling
+- `src/visualization/` – Visualization scripts
 
-Kafka instructions are available at
-[kafka](https://denisecase.github.io/pro-analytics-02/kafka/).
+---
 
-## Many Terminals
+## Notes
 
-Multiple terminals are used:
-
-1. If Windows, WSL: Terminal 1 to run kafka
-2. If Windows, WSL: Terminal 2 to manage topics.
-3. If Windows, PowerShell: Terminal 3 to run the project and a producer.
-4. If Windows, PowerShell: Terminal 4 to run a consumer.
+- Keep raw datasets unchanged.
+- Generate processed datasets using the scripts in `src/data_processing`.
+- Commit source code and notebooks, but avoid committing unnecessary generated files or virtual environments.
