@@ -101,15 +101,17 @@ opioid-overdose-capstone/
 │   ├── eda.ipynb
 │   └── predictive_modeling.ipynb
 │
+├── reports/
+│
 ├── src/
-│   ├── analysis/
-│   ├── data_processing/
-│   └── visualization/
+│   └── data_processing/
 │
 ├── README.md
 ├── pyproject.toml
 └── uv.lock
 ```
+
+The preprocessing pipeline is implemented as reusable Python scripts in src/data_processing/. Exploratory data analysis, visualization, and predictive modeling were performed in Jupyter notebooks to support an interactive analytical workflow.
 
 ---
 
